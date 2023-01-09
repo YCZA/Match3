@@ -1,0 +1,6607 @@
+
+{
+    "reward" : {
+        "rewardItem" : "diamonds",
+        "rewardCount" : 10
+    },
+    "quests" : [
+        {
+            "id" : "chp1_q1",
+            "level" : 1,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair"
+            ],
+            "task_item" : [
+                "shovel",
+                "bamboo",
+                "log"
+            ],
+            "task_levels" : [
+                "1a",
+                "2a",
+                "3a,4a,5a"
+            ],
+            "task_count"  : [
+                1,
+                1,
+                3
+            ],
+            "task_action_target" : [
+                "ch1_rubble",
+                "ch1_totem_place",
+                "ch1_totem"
+            ]
+        },
+        {
+            "id" : "chp2_q1",
+            "level" : 6,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair"
+            ],
+            "task_item" : [
+                "chicken",
+                "crab"
+            ],
+            "task_levels" : [
+                "6a",
+                "7a,8a,9a,10a"
+            ],
+            "task_count"  : [
+                1,
+                4
+            ],
+            "task_action_target" : [
+                "ch2_elsie_hut",
+                "ch2_crab"
+            ]
+        },
+        {
+            "id" : "chp3_q1",
+            "level" : 11,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "fire_ant",
+                "axe",
+                "tracks_1"
+            ],
+            "task_levels" : [
+                "11a",
+                "12a,13a,14a",
+                "15a,17a,16b",
+                "18a,19a,20a"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "ch3_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp3_q2",
+            "level" : 21,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "bamboo",
+                "log",
+                "clay",
+                "page",
+                "harmony"
+            ],
+            "task_levels" : [
+                "21a",
+                "22a,23a,24a,25a",
+                "26a,27a,28b",
+                "29a,30b",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                4,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch3_grill_benches",
+                "ch3_grill_table",
+                "ch3_grill",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp3_q3",
+            "level" : 31,
+            "character" : "Cubby",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "tracks_1",
+                "tracks_2",
+                "grilled_banana"
+            ],
+            "task_levels" : [
+                "31a",
+                "32b,33a,34a,35b",
+                "36a,37c,38a",
+                "39a,40b"
+            ],
+            "task_count"  : [
+                1,
+                4,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            "loca_override"      : "v1"
+        },
+        {
+            "id" : "chp3_q4",
+            "level" : 41,
+            "character" : "Cubby",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "bamboo",
+                "shell",
+                "watermelon",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "41a",
+                "42b,43a,44c",
+                "45a,46b",
+                "47a,48b,49a,50c",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                2,
+                4,
+                3
+            ],
+            "task_action_target" : [
+                "ch3_cubby_surfboard",
+                "ch3_cubby_coral",
+                "none",
+                "ch3_cubby_hut",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp4_q1",
+            "level" : 51,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "honey",
+                "bouquet",
+                "tracks_1",
+                "grooming_brush"
+            ],
+            "task_levels" : [
+                "51a",
+                "52b,53c,54a",
+                "55c,56a,57b,58a",
+                "59b,60c"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                4,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp4_q2",
+            "level" : 61,
+            "character" : "Olivia",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "red_seed",
+                "seed",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "61a,62c",
+                "63a,64a,65c",
+                "66a,67b,68a,69a,70b",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                5,
+                4
+            ],
+            "task_action_target" : [
+                "ch4_olivia_place",
+                "ch4_olivia_tree",
+                "ch4_olivia_hut",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp4_q3",
+            "level" : 71,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "fire_ant",
+                "herb",
+                "watermelon",
+                "page"
+            ],
+            "task_levels" : [
+                "71a,72b",
+                "73a,74b",
+                "75c,76a,77b",
+                "78a,79b,80c"
+            ],
+            "task_count"  : [
+                2,
+                2,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            "loca_override"      : "v1"
+        },
+        {
+            "id" : "chp4_q4",
+            "level" : 81,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "bamboo",
+                "seed",
+                "honey",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "81a,82c",
+                "83a,84b",
+                "85b",
+                "86a,87b,88a,89b,90c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                2,
+                1,
+                5,
+                5
+            ],
+            "task_action_target" : [
+                "ch4_flowermarket_barrow",
+                "ch4_flowermarket_place",
+                "none",
+                "ch4_flowermarket",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp5_q1",
+            "level" : 91,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "honey",
+                "bouquet",
+                "shovel",
+                "grooming_brush"
+            ],
+            "task_levels" : [
+                "91a",
+                "92c,93a,94c,95a",
+                "96c,97a,98b",
+                "99b,100c"
+            ],
+            "task_count"  : [
+                1,
+                4,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "ch5_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp5_q2",
+            "level" : 101,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "herb",
+                "seed",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "101a,102b",
+                "103a,104b,105c",
+                "106a,107a,108b,109a,110c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                5,
+                6
+            ],
+            "task_action_target" : [
+                "none",
+                "ch5_lily_flowers",
+                "ch5_lily_hut",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp5_q3",
+            "level" : 111,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "bamboo",
+                "honey",
+                "bouquet",
+                "herb"
+            ],
+            "task_levels" : [
+                "111a,112b",
+                "113a,114b,115c",
+                "116a,117b",
+                "118a,119b,120c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp5_q4",
+            "level" : 121,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "seed",
+                "clay",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "121a,122b,123c",
+                "124a,125c",
+                "126a,127b,128c,129b,130b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                5,
+                7
+            ],
+            "task_action_target" : [
+                "ch5_taka_flowers",
+                "ch5_taka_firepit",
+                "ch5_taka_hut",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp6_q1",
+            "level" : 131,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "fire_ant",
+                "chili",
+                "firefly"
+            ],
+            "task_levels" : [
+                "131a",
+                "132a,133c,134a,135b,136b",
+                "137a,138c,139a,140c"
+            ],
+            "task_count"  : [
+                1,
+                5,
+                4
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp6_q2",
+            "level" : 141,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "seed",
+                "bamboo",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "141a,142b",
+                "143a,144a,145c",
+                "146a,147c,148a,149b,150c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                5,
+                8
+            ],
+            "task_action_target" : [
+                "ch6_shrine_trees",
+                "ch6_shrine_basket",
+                "ch6_shrine",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp6_q3",
+            "level" : 151,
+            "character" : "Ava",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "page",
+                "bouquet",
+                "fire_ant",
+                "incense"
+            ],
+            "task_levels" : [
+                "151a,152b,153c",
+                "154a,155b",
+                "156a,157c",
+                "158a,159b,160c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ],
+            "loca_override"      : "v1"
+        },
+        {
+            "id" : "chp6_q4",
+            "level" : 161,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "vine",
+                "stone",
+                "clay",
+                "harmony"
+            ],
+            "task_levels" : [
+                "161a,162b",
+                "163a,164a,165c",
+                "166a,167c,168a,169b,170c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                5,
+                9
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "ch6_fountain",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp7_q1",
+            "level" : 171,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "herb",
+                "grilled_banana",
+                "vine"
+            ],
+            "task_levels" : [
+                "171a",
+                "172b,173c,174a,175c,176b",
+                "177b,178c",
+                "179b,180c"
+            ],
+            "task_count"  : [
+                1,
+                5,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch7_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp7_q2",
+            "level" : 181,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "shovel",
+                "seed",
+                "bamboo",
+                "harmony"
+            ],
+            "task_levels" : [
+                "181a,182b,183a,184c",
+                "185b,186c,187a",
+                "188b,189b,190c",
+                "none"
+            ],
+            "task_count"  : [
+                4,
+                3,
+                3,
+                10
+            ],
+            "task_action_target" : [
+                "ch7_healing_spa",
+                "ch7_spa_fanpalm",
+                "ch7_spa_aromachair",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp7_q3",
+            "level" : 191,
+            "character" : "Ava",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "ceramic_bottle",
+                "page",
+                "tracks_2",
+                "herb"
+            ],
+            "task_levels" : [
+                "191a,192c,193a,194c",
+                "195b,196c",
+                "197a,198c",
+                "199b,200c"
+            ],
+            "task_count"  : [
+                4,
+                2,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp7_q4",
+            "level" : 201,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "herb",
+                "grilled_banana",
+                "harmony"
+            ],
+            "task_levels" : [
+                "201a,202b,203c,204b",
+                "205b,206b,207c",
+                "208a,209b,210c",
+                "none"
+            ],
+            "task_count"  : [
+                4,
+                4,
+                3,
+                11
+            ],
+            "task_action_target" : [
+                "ch7_journey_ship",
+                "ch7_journey_dryer",
+                "ch7_journey_supplies",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp8_q1",
+            "level" : 211,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "fish",
+                "berries",
+                "vine",
+                "leaves"
+            ],
+            "task_levels" : [
+                "211a",
+                "212b,213c,214b,215c,216b",
+                "217b,218c",
+                "219b,220c"
+            ],
+            "task_count"  : [
+                1,
+                5,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp8_q2",
+            "level" : 221,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "red_seed",
+                "stone",
+                "harmony"
+            ],
+            "task_levels" : [
+                "221a,222b,223a,224c",
+                "225b,226c,227a",
+                "228b,229b,230c",
+                "none"
+            ],
+            "task_count"  : [
+                4,
+                3,
+                3,
+                12
+            ],
+            "task_action_target" : [
+                "ch8_ragnaruff_doghouse",
+                "ch8_ragnaruff_bushes",
+                "ch8_ragnaruff_axe",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp8_q3",
+            "level" : 231,
+            "character" : "Ava",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "grooming_brush",
+                "page",
+                "incense",
+                "scroll"
+            ],
+            "task_levels" : [
+                "231a,232c",
+                "233a,234c,235c",
+                "236c,237a,238c",
+                "239b,240c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp8_q4",
+            "level" : 241,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "bamboo",
+                "stone",
+                "harmony"
+            ],
+            "task_levels" : [
+                "241a,242b,243c,244b",
+                "245c,246b,247c",
+                "248a,249b,250c",
+                "none"
+            ],
+            "task_count"  : [
+                4,
+                3,
+                3,
+                13
+            ],
+            "task_action_target" : [
+                "ch8_observatory_main",
+                "ch8_observatory_sundial",
+                "ch8_observatory_statue",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp9_q1",
+            "level" : 251,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "tracks_3",
+                "magn_glass",
+                "incense"
+            ],
+            "task_levels" : [
+                "251a",
+                "252b,253c,254a,255c,256b",
+                "257b,258c",
+                "259c,260a"
+            ],
+            "task_count"  : [
+                1,
+                5,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch9_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp9_q2",
+            "level" : 261,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "bamboo",
+                "grilled_banana",
+                "herb",
+                "harmony"
+            ],
+            "task_levels" : [
+                "261a,262b,263a",
+                "264c,265b",
+                "266b,267b,268c",
+                "269b,270c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                14
+            ],
+            "task_action_target" : [
+                "ch9_firepit_pit",
+                "ch9_firepit_surrounding",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp9_q3",
+            "level" : 271,
+            "character" : "Ava",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "stone",
+                "page",
+                "scrapbook"
+            ],
+            "task_levels" : [
+                "271a,272c,273a,274c",
+                "275c,276a",
+                "277a,278c,279b",
+                "280c"
+            ],
+            "task_count"  : [
+                4,
+                2,
+                3,
+                1
+            ],
+            "task_action_target" : [
+                "ch9_rock_hissing",
+                "ch9_rock_surrounding",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp9_q4",
+            "level" : 281,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "ceramic_bottle",
+                "page",
+                "magn_glass",
+                "blueprints",
+                "harmony"
+            ],
+            "task_levels" : [
+                "281a,282b,283c",
+                "284b,285b",
+                "286b,287b",
+                "288c,289b,290a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                15
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp10_q1",
+            "level" : 291,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "page",
+                "incense",
+                "magn_glass",
+                "grilled_banana"
+            ],
+            "task_levels" : [
+                "291a",
+                "292b,293c,294a,295c,296b",
+                "297b,298c",
+                "299b,300c"
+            ],
+            "task_count"  : [
+                1,
+                5,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch10_magictree_tree",
+                "ch10_magictree_surrounding",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp10_q2",
+            "level" : 301,
+            "character" : "Taka",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "incense",
+                "watermelon",
+                "herb",
+                "blueprints",
+                "harmony"
+            ],
+            "task_levels" : [
+                "301a,302b,303a",
+                "304b,305c",
+                "306c,307c",
+                "308c,309a,310b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                16
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp10_q3",
+            "level" : 311,
+            "character" : "Ava",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "stone",
+                "watermelon",
+                "berries",
+                "bouquet"
+            ],
+            "task_levels" : [
+                "311a,312c,313b",
+                "314c,315c",
+                "316c,317a",
+                "318b,319b,320c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "ch10_statue_kikuna",
+                "ch10_statue_surrounding",
+                "ch10_statue_surrounding2",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp10_q4",
+            "level" : 321,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "grooming_brush",
+                "bouquet",
+                "page",
+                "watermelon",
+                "harmony"
+            ],
+            "task_levels" : [
+                "321a,322b",
+                "323c,324b",
+                "325b,326c,327b",
+                "328c,329a,330a",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                2,
+                3,
+                3,
+                17
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp11_q1",
+            "level" : 331,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "bouquet",
+                "page",
+                "watermelon"
+            ],
+            "task_levels" : [
+                "331a,332c",
+                "333a,334c,335a",
+                "336c,337b,338a",
+                "339b,340c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "ch11_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp11_q2",
+            "level" : 341,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "bamboo",
+                "shrimp",
+                "red_seed",
+                "golden_ring",
+                "harmony"
+            ],
+            "task_levels" : [
+                "341a,342a,343c",
+                "344a,345b,346c",
+                "347b,348a,349c",
+                "350c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1,
+                18
+            ],
+            "task_action_target" : [
+                "ch11_platform_main",
+                "ch11_platform_flamingo",
+                "ch11_platform_flowers",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp11_q3",
+            "level" : 351,
+            "character" : "Cubby",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "log",
+                "honey",
+                "cotton",
+                "page"
+            ],
+            "task_levels" : [
+                "351a,352b,353b",
+                "354a,355c",
+                "356c,357a,358b",
+                "359b,360b"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "ch11_padoga_main",
+                "ch11_padoga_cake",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp11_q4",
+            "level" : 361,
+            "character" : "Cubby",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "bamboo",
+                "blueprints",
+                "grilled_banana",
+                "ukulele",
+                "harmony"
+            ],
+            "task_levels" : [
+                "361a,362c,363b",
+                "364c,365a,366c",
+                "367a,368a,369b",
+                "370c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1,
+                19
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp12_q1",
+            "level" : 371,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "rattle",
+                "bamboo",
+                "scrapbook",
+                "firefly"
+            ],
+            "task_levels" : [
+                "371a,372c,373a",
+                "374b,375a",
+                "376b,377b",
+                "378a,379b,380c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp12_q2",
+            "level" : 381,
+            "character" : "Olivia",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "vine",
+                "bamboo",
+                "berries",
+                "harmony"
+            ],
+            "task_levels" : [
+                "381a,382c,383b,384b",
+                "385b,386a",
+                "387c,388c",
+                "389b,390b",
+                "none"
+            ],
+            "task_count"  : [
+                4,
+                2,
+                2,
+                2,
+                20
+            ],
+            "task_action_target" : [
+                "ch12_weddinghut_hut",
+                "ch12_weddinghut_tree_cradle",
+                "ch12_weddinghut_chair",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp12_q3",
+            "level" : 391,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "tracks_2",
+                "grilled_banana",
+                "incense",
+                "herb"
+            ],
+            "task_levels" : [
+                "391a,392b,393c",
+                "394b,395b",
+                "396a,397c",
+                "398a,399b,400c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp12_q4",
+            "level" : 401,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "bamboo",
+                "cotton",
+                "bouquet",
+                "page",
+                "harmony"
+            ],
+            "task_levels" : [
+                "401a,402c,403b",
+                "404b,405a",
+                "406c,407b,408b",
+                "409a,410c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                21
+            ],
+            "task_action_target" : [
+                "ch12_playground_main",
+                "ch12_playground_yarnball",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp13_q1",
+            "level" : 411,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "diaper",
+                "cotton",
+                "grooming_brush"
+            ],
+            "task_levels" : [
+                "411a,412c",
+                "413a,414c,415a",
+                "416c,417b,418a",
+                "419b,420c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "ch13_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp13_q2",
+            "level" : 421,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "fireworks",
+                "ceramic_bottle",
+                "ukulele",
+                "magn_glass",
+                "harmony"
+            ],
+            "task_levels" : [
+                "421b,422a,423c",
+                "424b,425c",
+                "426a,427c",
+                "428b,429c,430b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                22
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp13_q3",
+            "level" : 431,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_repair"
+            ],
+            "task_item" : [
+                "firefly",
+                "discoball",
+                "log",
+                "bamboo"
+            ],
+            "task_levels" : [
+                "431b,432b,433b",
+                "434b,435c",
+                "436b,437a,438c",
+                "439a,440c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "ch13_lighthouse",
+                "ch13_lighthouse_bench"
+            ]
+        },
+        {
+            "id" : "chp13_q4",
+            "level" : 441,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "paintbrush",
+                "anchor",
+                "harmony"
+            ],
+            "task_levels" : [
+                "441b,442b,443b",
+                "444c,445b",
+                "446a,447c,448a,449c,450b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                5,
+                23
+            ],
+            "task_action_target" : [
+                "ch13_jetty",
+                "none",
+                "ch13_jetty_stuff",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp14_q1",
+            "level" : 451,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "lockbox",
+                "wooden_club",
+                "shield",
+                "crab"
+            ],
+            "task_levels" : [
+                "451a,452c",
+                "453b,454c",
+                "455a,456b,457c",
+                "458c,459b,460c"
+            ],
+            "task_count"  : [
+                2,
+                2,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp14_q2",
+            "level" : 461,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "shovel",
+                "stone",
+                "leaves",
+                "harmony"
+            ],
+            "task_levels" : [
+                "461a,462b,463c",
+                "464c,465b,466c",
+                "467a,468c,469b,470c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                4,
+                24
+            ],
+            "task_action_target" : [
+                "none",
+                "ch14_piratecave",
+                "ch14_piratecave_stuff",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp14_q3",
+            "level" : 471,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "bamboo",
+                "shell",
+                "grilled_banana",
+                "grooming_brush"
+            ],
+            "task_levels" : [
+                "471b,472a,473b",
+                "474c,475b",
+                "476b,477b,478c",
+                "479a,480c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "ch14_piratebar",
+                "ch14_piratebar_barrel",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp14_q4",
+            "level" : 481,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "shell",
+                "herb",
+                "axe",
+                "magn_glass",
+                "harmony"
+            ],
+            "task_levels" : [
+                "481a,482c",
+                "483c,484a,485b",
+                "486a,487c,488b",
+                "489a,490c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2,
+                25
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp15_q1",
+            "level" : 491,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "watermelon",
+                "lance",
+                "incense"
+            ],
+            "task_levels" : [
+                "491a,492b,493a",
+                "494c,495b,496c",
+                "497c,498a",
+                "499c,500a"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch15_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp15_q2",
+            "level" : 501,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "fabric",
+                "cake",
+                "leaves",
+                "berries",
+                "harmony"
+            ],
+            "task_levels" : [
+                "501a,502b,503c",
+                "504c,505a,506c",
+                "507b,508c",
+                "509a,510c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2,
+                26
+            ],
+            "task_action_target" : [
+                "ch15_place_picnic",
+                "ch15_table_crumpets",
+                "ch15_table_teatime",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp15_q3",
+            "level" : 511,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "incense",
+                "book",
+                "fire_ant",
+                "magn_glass"
+            ],
+            "task_levels" : [
+                "511a,512c",
+                "513a,514c,515b",
+                "516c,517b,518c",
+                "519a,520c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp15_q4",
+            "level" : 521,
+            "character" : "Ava",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "stone",
+                "seed",
+                "fabric",
+                "bouquet",
+                "harmony"
+            ],
+            "task_levels" : [
+                "521b,522c,523a",
+                "524b,525b,526a",
+                "527c,528a",
+                "529a,530c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2,
+                27
+            ],
+            "task_action_target" : [
+                "ch15_mansion_duchess",
+                "ch15_topiary_ball",
+                "ch15_flag_imperial",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp16_q1",
+            "level" : 531,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "grooming_brush",
+                "perfume",
+                "ukulele",
+                "page"
+            ],
+            "task_levels" : [
+                "531a,532c",
+                "533c,534b,535c",
+                "536c,537a",
+                "538b,539c,540b"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp16_q2",
+            "level" : 541,
+            "character" : "Nibblesby",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "leaves",
+                "fabric",
+                "bouquet",
+                "scroll",
+                "harmony"
+            ],
+            "task_levels" : [
+                "541a,542c,543b",
+                "544b,545c",
+                "546a,547b,548c",
+                "549a,550c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                28
+            ],
+            "task_action_target" : [
+                "ch16_rondel_serenade",
+                "ch16_parasol_lace",
+                "ch16_pedestal_bouquet_B",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp16_q3",
+            "level" : 551,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shell",
+                "anchor",
+                "lockbox",
+                "page"
+            ],
+            "task_levels" : [
+                "551c,552a,553c",
+                "554c,555b",
+                "556b,557a,558c",
+                "559b,560c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp16_q4",
+            "level" : 561,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "lockbox",
+                "log",
+                "bamboo",
+                "cocktail",
+                "harmony"
+            ],
+            "task_levels" : [
+                "561b,562b",
+                "563c,564a,565b",
+                "566c,567a,568b",
+                "569b,570c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2,
+                29
+            ],
+            "task_action_target" : [
+                "none",
+                "ch16_hut_nibblesby",
+                "ch16_treadmill_hamster",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp17_q1",
+            "level" : 571,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "vine",
+                "anchor",
+                "rattle"
+            ],
+            "task_levels" : [
+                "571c,572b,573a,574c",
+                "575a,576b,577c,578b",
+                "579a",
+                "580c"
+            ],
+            "task_count"  : [
+                4,
+                4,
+                1,
+                1
+            ],
+            "task_action_target" : [
+                "ch17_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp17_q2",
+            "level" : 581,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "stone",
+                "axe",
+                "herb",
+                "tissue",
+                "harmony"
+            ],
+            "task_levels" : [
+                "581c,582a,583b",
+                "584c,585a,586b",
+                "587c,588b",
+                "589a,590c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2,
+                30
+            ],
+            "task_action_target" : [
+                "ch17_workshop",
+                "ch17_anvil",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp17_q3",
+            "level" : 591,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "coconut",
+                "honey",
+                "ceramic_bottle",
+                "blueprints"
+            ],
+            "task_levels" : [
+                "591a,592c",
+                "593b,594c,595a",
+                "596c,597b",
+                "598c,599a,600b"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp17_q4",
+            "level" : 601,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "stone",
+                "bamboo",
+                "blueprints",
+                "harmony"
+            ],
+            "task_levels" : [
+                "601a,602c,603b",
+                "604b,605a",
+                "606c,607b,608c",
+                "609a,610b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                31
+            ],
+            "task_action_target" : [
+                "ch17_farm_coconut",
+                "ch17_road_rustic",
+                "ch17_forest_bamboo",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp18_q1",
+            "level" : 611,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "log",
+                "seed",
+                "page",
+                "scissors"
+            ],
+            "task_levels" : [
+                "611c,612b,613a",
+                "614b,615c,616b",
+                "617a,618b",
+                "619b,620c"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch18_office_post",
+                "ch18_pigeon_single",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp18_q2",
+            "level" : 621,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "tracks_2",
+                "tracks_1",
+                "grilled_banana",
+                "perfume",
+                "harmony"
+            ],
+            "task_levels" : [
+                "621a,622b",
+                "623c,624b",
+                "625c,626a,627b",
+                "628c,629a,630c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                2,
+                3,
+                3,
+                32
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp18_q3",
+            "level" : 631,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "bamboo",
+                "fireworks",
+                "coconut",
+                "page"
+            ],
+            "task_levels" : [
+                "631c,632a,633c",
+                "634c,635b,636b",
+                "637c,638a",
+                "639b,640c"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch18_marketplace",
+                "ch18_stand_fireworks",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp18_q4",
+            "level" : 641,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "scroll",
+                "bouquet",
+                "log",
+                "page",
+                "harmony"
+            ],
+            "task_levels" : [
+                "641b,642c",
+                "643a,644c,645b",
+                "646c,647b,648a",
+                "649b,650c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2,
+                33
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp19_q1",
+            "level" : 651,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "magn_glass",
+                "honey",
+                "log"
+            ],
+            "task_levels" : [
+                "651a,652b,653c,654b",
+                "655c,656a,657c,658a",
+                "659b",
+                "660c"
+            ],
+            "task_count"  : [
+                4,
+                4,
+                1,
+                1
+            ],
+            "task_action_target" : [
+                "ch19_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp19_q2",
+            "level" : 661,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "book",
+                "seed",
+                "honey",
+                "harmony"
+            ],
+            "task_levels" : [
+                "661a,662c,663b",
+                "664a",
+                "665c,666b,667c",
+                "668c,669b,670a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                1,
+                3,
+                3,
+                34
+            ],
+            "task_action_target" : [
+                "ch19_farmhouse",
+                "none",
+                "ch19_flower_daisy",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp19_q3",
+            "level" : 671,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "tracks_2",
+                "bamboo",
+                "magn_glass",
+                "page"
+            ],
+            "task_levels" : [
+                "671b,672c",
+                "673a,674c,675b",
+                "676c,677b",
+                "678b,679a,680c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "ch19_barrel_farm",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp19_q4",
+            "level" : 681,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "seed",
+                "default",
+                "magn_glass",
+                "page",
+                "harmony"
+            ],
+            "task_levels" : [
+                "681a,682c,683a",
+                "684c,685b",
+                "686a,687c,688b",
+                "689a,690c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                35
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp20_q1",
+            "level" : 691,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "log",
+                "chicken",
+                "red_seed",
+                "lockbox"
+            ],
+            "task_levels" : [
+                "691a,692c",
+                "693b,694c,695b,696a",
+                "697c,698a",
+                "699c,700b"
+            ],
+            "task_count"  : [
+                2,
+                4,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch20_chickencoop",
+                "ch20_hen",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp20_q2",
+            "level" : 701,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "chicken",
+                "stone",
+                "tracks_2",
+                "scroll",
+                "harmony"
+            ],
+            "task_levels" : [
+                "701b,702a,703c",
+                "704b,705c",
+                "706b,707a,708b,709c",
+                "710b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                4,
+                1,
+                36
+            ],
+            "task_action_target" : [
+                "none",
+                "ch20_drystonewall",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp20_q3",
+            "level" : 711,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "scroll",
+                "cake",
+                "herb",
+                "vine"
+            ],
+            "task_levels" : [
+                "711a,712b,713c",
+                "714b,715c,716b",
+                "717a,718b",
+                "719c,720b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp20_q4",
+            "level" : 721,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "incense",
+                "scythe",
+                "grilled_banana",
+                "bouquet",
+                "harmony"
+            ],
+            "task_levels" : [
+                "721b,722a",
+                "723b,724c,725b",
+                "726c,727b,728c",
+                "729a,730c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2,
+                37
+            ],
+            "task_action_target" : [
+                "none",
+                "ch20_haybale",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp21_q1",
+            "level" : 731,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "tracks",
+                "rattle",
+                "shovel",
+                "page"
+            ],
+            "task_levels" : [
+                "731b,732c,733a",
+                "734b,735b,736c",
+                "737b,738c,739a",
+                "740b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "ch21_olivegrove",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp21_q2",
+            "level" : 741,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "fish",
+                "eggs",
+                "scroll",
+                "tracks",
+                "harmony"
+            ],
+            "task_levels" : [
+                "741c,742a,743b",
+                "744c,745b",
+                "746c,747b",
+                "748c,749b,750a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                38
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp21_q3",
+            "level" : 751,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "grooming_brush",
+                "log",
+                "fish",
+                "rattle"
+            ],
+            "task_levels" : [
+                "751b,752c",
+                "753c,754b,755a",
+                "756b,757c,758c",
+                "759a,760b"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "ch21_windmill",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp21_q4",
+            "level" : 761,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "shrimp",
+                "cake",
+                "scroll",
+                "incense",
+                "harmony"
+            ],
+            "task_levels" : [
+                "761b,762c",
+                "763b,764a,765c",
+                "766c,767b",
+                "768a,769c,770b",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3,
+                39
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp22_q1",
+            "level" : 771,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "seed",
+                "log",
+                "fish",
+                "perfume"
+            ],
+            "task_levels" : [
+                "771b,772c,773b",
+                "774a,775b",
+                "776c,777a",
+                "778c,779b,780b"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "ch22_vegetablegarden",
+                "ch22_scarecrow",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp22_q2",
+            "level" : 781,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "marrow",
+                "eggs",
+                "herb",
+                "harmony"
+            ],
+            "task_levels" : [
+                "781c",
+                "782b,783c,784b",
+                "785a,786b,787c",
+                "788b,789b,790b",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3,
+                40
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp22_q3",
+            "level" : 791,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "scissors",
+                "seed",
+                "incense",
+                "fish"
+            ],
+            "task_levels" : [
+                "791a",
+                "792c,793b,794a",
+                "795c,796c,797b",
+                "798c,799b,800c"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "ch22_tree_olive",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp22_q4",
+            "level" : 801,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "scroll",
+                "grooming_brush",
+                "melon",
+                "fabric",
+                "harmony"
+            ],
+            "task_levels" : [
+                "801b,802a,803c",
+                "804b,805c",
+                "806c,807b,808b",
+                "809b,810c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                41
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp23_q1",
+            "level" : 811,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "SnowPrint",
+                "scroll",
+                "lockbox"
+            ],
+            "task_levels" : [
+                "811b,812c,813a",
+                "814c,815a,816c",
+                "817b,818c,819a",
+                "820b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1
+            ],
+            "task_action_target" : [
+                "ch23_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp23_q2",
+            "level" : 821,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "DogTea",
+                "medicine",
+                "cake",
+                "queen",
+                "harmony"
+            ],
+            "task_levels" : [
+                "821c,822a,823b",
+                "824c,825b",
+                "826c,827b",
+                "828c,829b,830a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                42
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp23_q3",
+            "level" : 831,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "stone",
+                "BurntSausage",
+                "medal",
+                "medicine"
+            ],
+            "task_levels" : [
+                "831c,832a",
+                "833c,834b,835a",
+                "836b,837c,838b",
+                "839c,840b"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "ch23_horn_dog",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp23_q4",
+            "level" : 841,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "BookNordog",
+                "log",
+                "fenrir",
+                "RedLetter",
+                "harmony"
+            ],
+            "task_levels" : [
+                "841b,842c,843b",
+                "844a,845c,846b",
+                "847c,848a,849c",
+                "850b",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3,
+                43
+            ],
+            "task_action_target" : [
+                "none",
+                "ch23_lantern",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp24_q1",
+            "level" : 851,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "cake",
+                "scroll",
+                "fish",
+                "DogTea"
+            ],
+            "task_levels" : [
+                "851c,852a,853c",
+                "854a,855b",
+                "856c,857b",
+                "858a,859b,860c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp24_q2",
+            "level" : 861,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "scroll_nordogs",
+                "DogTea",
+                "rattle",
+                "harmony"
+            ],
+            "task_levels" : [
+                "861c,862a",
+                "863c,864b,865c",
+                "866b,867c",
+                "868b,869c,870a",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3,
+                44
+            ],
+            "task_action_target" : [
+                "ch24_hall_dog",
+                "ch24_statue_dog",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp24_q3",
+            "level" : 871,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "RedLetter",
+                "BlueLetter",
+                "furr_white",
+                "BurntSausage"
+            ],
+            "task_levels" : [
+                "871a",
+                "872c",
+                "873b,874c,875b,876c",
+                "877a,878c,879b,880c"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp24_q4",
+            "level" : 881,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "scroll",
+                "cake",
+                "cocktail",
+                "ClamBrew",
+                "harmony"
+            ],
+            "task_levels" : [
+                "881b",
+                "882a,883c,884b",
+                "885c,886a,887b",
+                "888c,889b,890c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                45
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp25_q1",
+            "level" : 891,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "BookNordog",
+                "bouquet",
+                "ukulele",
+                "lockbox"
+            ],
+            "task_levels" : [
+                "891a,892c,893b",
+                "894c,895a,896c",
+                "897b,898c",
+                "899a,900b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp25_q2",
+            "level" : 901,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "BurntSausage",
+                "cream",
+                "RedLetter",
+                "scroll",
+                "harmony"
+            ],
+            "task_levels" : [
+                "901c,902a,903b,904c",
+                "905b,906c,907b",
+                "908a",
+                "909c,910a",
+                "none"
+            ],
+            "task_count"  : [
+                4,
+                3,
+                1,
+                2,
+                46
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp25_q3",
+            "level" : 911,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "Sword",
+                "seed",
+                "BlueLetter",
+                "DogTea"
+            ],
+            "task_levels" : [
+                "911b",
+                "912a,913c,914b,915a",
+                "916c",
+                "917b,918c,919b,920c"
+            ],
+            "task_count"  : [
+                1,
+                4,
+                1,
+                4
+            ],
+            "task_action_target" : [
+                "ch25_wolf_dog",
+                "ch25_pine_forest",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp25_q4",
+            "level" : 921,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "BurntSausage",
+                "DogTea",
+                "SnowPrint",
+                "grilled_banana",
+                "harmony"
+            ],
+            "task_levels" : [
+                "921b,922c",
+                "923b,924a,925c",
+                "926a,927c",
+                "928b,929c,930b",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3,
+                47
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp26_q1",
+            "level" : 931,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "scroll",
+                "SnowPrint",
+                "herb"
+            ],
+            "task_levels" : [
+                "931a,932c,933b",
+                "934c,935a",
+                "936c,937b",
+                "938c,939a,940c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp26_q2",
+            "level" : 941,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "RedLetter",
+                "fish",
+                "shield",
+                "harmony"
+            ],
+            "task_levels" : [
+                "941c",
+                "942a,943c,944b",
+                "945c,946b,947a,948b,949c",
+                "950b",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                5,
+                1,
+                48
+            ],
+            "task_action_target" : [
+                "ch26_throne_dog",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp26_q3",
+            "level" : 951,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "stone",
+                "magn_glass",
+                "bouquet",
+                "cotton"
+            ],
+            "task_levels" : [
+                "951a",
+                "952c,953b,954c",
+                "955b,956c,957a",
+                "958c,959a,960c"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "ch26_runestone_dog",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp26_q4",
+            "level" : 961,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "scroll",
+                "magn_glass",
+                "lockbox",
+                "map",
+                "harmony"
+            ],
+            "task_levels" : [
+                "961b,962a,963c",
+                "964b,965c",
+                "966a,967b,968c",
+                "969b,970c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                49
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp27_q1",
+            "level" : 971,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair"
+            ],
+            "task_item" : [
+                "shovel",
+                "magn_glass",
+                "book",
+                "stone"
+            ],
+            "task_levels" : [
+                "971b,972a,973b",
+                "974c,975a,976c",
+                "977b",
+                "978c,979a,980c"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                1,
+                2
+            ],
+            "task_action_target" : [
+                "ch27_rubble",
+                "none",
+                "none",
+                "ch27_magical_stone_meowgic"
+            ]
+        },
+        {
+            "id" : "chp27_q2",
+            "level" : 981,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "coconut",
+                "default",
+                "magn_glass",
+                "harmony"
+            ],
+            "task_levels" : [
+                "981a,982c,983b,984c",
+                "985b,986c,987b",
+                "988b",
+                "989c,990a",
+                "none"
+            ],
+            "task_count"  : [
+                4,
+                3,
+                1,
+                2,
+                50
+            ],
+            "task_action_target" : [
+                "ch27_taka_temple_meowgic",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp27_q3",
+            "level" : 991,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "fabric",
+                "grilled_banana",
+                "ukulele",
+                "tracks_2"
+            ],
+            "task_levels" : [
+                "991b",
+                "992a,993c,994a,995b",
+                "996c",
+                "997b,998c,999b,1000c"
+            ],
+            "task_count"  : [
+                1,
+                4,
+                1,
+                4
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp27_q4",
+            "level" : 1001,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "lockbox",
+                "spyglass",
+                "herb",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1001b,1002c,1003b",
+                "1004a",
+                "1005c,1006b,1007c",
+                "1008a,1009c,1010b",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3,
+                51
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp28_q1",
+            "level" : 1011,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "ceramic_bottle",
+                "magn_glass",
+                "grooming_brush",
+                "anchor"
+            ],
+            "task_levels" : [
+                "1011a,1012c,1013b",
+                "1014c,1015b",
+                "1016c",
+                "1017a,1018b,1019a,1020c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp28_q2",
+            "level" : 1021,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "herb",
+                "DogTea",
+                "magn_glass",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1021c,1022b,1023c,1024a",
+                "1025a,1026b,1027c",
+                "1028c,1029a",
+                "1030b",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                5,
+                1,
+                52
+            ],
+            "task_action_target" : [
+                "ch28_cauldron_meowgic",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp28_q3",
+            "level" : 1031,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "fish",
+                "tracks_1",
+                "BookNordog"
+            ],
+            "task_levels" : [
+                "1031a",
+                "1032b,1033c,1034b",
+                "1035a,1036b,1037c",
+                "1038c,1039b,1040c"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp28_q4",
+            "level" : 1041,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "pearls",
+                "strawberry_bowl",
+                "magn_glass",
+                "tracks_1",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1041b,1042a,1043c",
+                "1044b,1045c",
+                "1046a,1047b,1048c",
+                "1049b,1050c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                53
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp29_q1",
+            "level" : 1051,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "BlueLetter",
+                "cake",
+                "RedLetter",
+                "magn_glass"
+            ],
+            "task_levels" : [
+                "1051c,1052b,1053a,1054c",
+                "1055a,1056c,1057b",
+                "1058c",
+                "1059a,1060c"
+            ],
+            "task_count"  : [
+                4,
+                4,
+                1,
+                1
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp29_q2",
+            "level" : 1061,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "bouquet",
+                "spyglass",
+                "golden_ring",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1061c,1062a,1063b",
+                "1064c,1065a,1066c",
+                "1067b,1068a",
+                "1069c,1070b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2,
+                54
+            ],
+            "task_action_target" : [
+                "ch29_totem_site_meowgic",
+                "ch29_totemsite_flowers",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp29_q3",
+            "level" : 1071,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "tracks_1",
+                "tissue",
+                "RedLetter"
+            ],
+            "task_levels" : [
+                "1071a,1072c",
+                "1073b,1074c,1075a",
+                "1076c,1077b",
+                "1078c,1079a,1080c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp29_q4",
+            "level" : 1081,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "BurntSausage",
+                "cream_puff",
+                "cake",
+                "magn_glass",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1081a,1082b,1083c",
+                "1084b,1085c",
+                "1086b,1087c,1088b",
+                "1089a,1090c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                55
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp30_q1",
+            "level" : 1091,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "page",
+                "golden_ring",
+                "lockbox",
+                "elsie_bell"
+            ],
+            "task_levels" : [
+                "1091c,1092b,1093a",
+                "1094b,1095c,1096b",
+                "1097a,1098c",
+                "1099b,1100c"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp30_q2",
+            "level" : 1101,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "scrapbook",
+                "human_doll",
+                "stone",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1101a,1102b",
+                "1103c,1104b,1105c",
+                "1106b",
+                "1107a,1108c,1109b,1110c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                2,
+                3,
+                3,
+                56
+            ],
+            "task_action_target" : [
+                "ch30_library_meowgic",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp30_q3",
+            "level" : 1111,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "firefly",
+                "BlueLetter",
+                "seed",
+                "bucket"
+            ],
+            "task_levels" : [
+                "1111c,1112a,1113c",
+                "1114c,1115b,1116c",
+                "1117b,1118a",
+                "1119c,1120b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp30_q4",
+            "level" : 1121,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "grilled_banana",
+                "spyglass",
+                "rattle",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1121b",
+                "1122c,1123a,1124c",
+                "1125b,1126c,1127a,1128c",
+                "1129b,1130c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2,
+                57
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp31_q1",
+            "level" : 1131,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "porcelain_cup",
+                "magn_glass",
+                "log"
+            ],
+            "task_levels" : [
+                "1131a,1132b,1133c,1134b",
+                "1135c,1136a,1137c,1138a",
+                "1139b",
+                "1140c"
+            ],
+            "task_count"  : [
+                4,
+                4,
+                1,
+                1
+            ],
+            "task_action_target" : [
+                "ch31_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp31_q2",
+            "level" : 1141,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "tracks_1",
+                "scrapbook",
+                "magn_glass",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1141a,1142c,1143b",
+                "1144a",
+                "1145c,1146b,1147c",
+                "1148c,1149b,1150a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2,
+                58
+            ],
+            "task_action_target" : [
+                "ch31_catton_abbey",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp31_q3",
+            "level" : 1151,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "page",
+                "medal",
+                "Sword",
+                "spyglass"
+            ],
+            "task_levels" : [
+                "1151b,1152c",
+                "1153a,1154c,1155b",
+                "1156c",
+                "1157b,1158b,1159a,1160c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                1,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp31_q4",
+            "level" : 1161,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "BookNordog",
+                "elsie_makeup",
+                "RedLetter",
+                "bouquet",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1161a,1162c,1163a",
+                "1164c,1165b",
+                "1166a,1167c,1168b",
+                "1169a,1170c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                59
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp32_q1",
+            "level" : 1171,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "log",
+                "herb",
+                "grooming_brush",
+                "porcelain_cup"
+            ],
+            "task_levels" : [
+                "1171a,1172c",
+                "1173b,1174c,1175b,1176a",
+                "1177c,1178a",
+                "1179c,1180b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "ch31_catton_entry",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp32_q2",
+            "level" : 1181,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "cream",
+                "book",
+                "page",
+                "tracks_2",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1181b,1182a,1183c",
+                "1184b,1185c",
+                "1186b,1187a,1188b,1189c",
+                "1190b",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                2,
+                3,
+                3,
+                60
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp32_q3",
+            "level" : 1191,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "grooming_brush",
+                "porcelain_cup",
+                "magn_glass",
+                "cake"
+            ],
+            "task_levels" : [
+                "1191a,1192b,1193c",
+                "1194b,1195c,1196b",
+                "1197a,1198b",
+                "1199c,1200b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp32_q4",
+            "level" : 1201,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "tracks_3",
+                "magn_glass",
+                "tracks_2",
+                "grooming_brush",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1201b,1202a",
+                "1203b,1204c,1205b",
+                "1206c,1207b,1208c",
+                "1209a,1210c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2,
+                61
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp33_q1",
+            "level" : 1211,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "seed",
+                "eggs",
+                "bucket",
+                "lockbox"
+            ],
+            "task_levels" : [
+                "1211b",
+                "1212c,1213a,1214c",
+                "1215b,1216c,1217b",
+                "1218c,1219a,1220b"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp33_q2",
+            "level" : 1221,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "Sword",
+                "herb",
+                "eggs",
+                "kitchen_knife",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1221c,1222a,1223b",
+                "1224c,1225b",
+                "1226c,1227b",
+                "1228c,1229b,1230a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                62
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp33_q3",
+            "level" : 1231,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "tracks_1",
+                "spyglass",
+                "golfclubs",
+                "magn_glass"
+            ],
+            "task_levels" : [
+                "1231b,1232c",
+                "1233c,1234b,1235a",
+                "1236a,1237b,1238c",
+                "1239b,1240c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp33_q4",
+            "level" : 1241,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_repair",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "jesterstick",
+                "porcelain_cup",
+                "eggs",
+                "bouquet",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1241b,1242c",
+                "1243b,1244c,1245a",
+                "1246c,1247b",
+                "1248c,1249b,1250a",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3,
+                63
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp34_q1",
+            "level" : 1251,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "lantern",
+                "lantern",
+                "lantern",
+                "page"
+            ],
+            "task_levels" : [
+                "1251c,1252b,1253c",
+                "1254c,1255b",
+                "1256c,1257a",
+                "1258a,1259b,1260c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp34_q2",
+            "level" : 1261,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "stone",
+                "page",
+                "kitchen_knife",
+                "scrapbook",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1261a",
+                "1262c,1263b,1264c",
+                "1265a,1266b,1267c",
+                "1268b,1269a,1270c",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3,
+                64
+            ],
+            "task_action_target" : [
+                "ch33_mcyowler_memorial",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp34_q3",
+            "level" : 1271,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "tracks_2",
+                "stone",
+                "grooming_brush"
+            ],
+            "task_levels" : [
+                "1271a",
+                "1272c,1273b,1274a",
+                "1275c,1276a,1277b",
+                "1278c,1279b,1280c"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "ch33_memorial_sitting"
+            ]
+        },
+        {
+            "id" : "chp34_q4",
+            "level" : 1281,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "book",
+                "seed",
+                "vine",
+                "chicken",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1281b,1282a,1283c",
+                "1284a,1285b,1286c",
+                "1287a,1288c,1289b",
+                "1290c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1,
+                65
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp35_q1",
+            "level" : 1291,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "page",
+                "pen",
+                "blueLetter",
+                "scrapbook"
+            ],
+            "task_levels" : [
+                "1291a,1292c,1293b",
+                "1294c,1295a,1296b",
+                "1297c,1298b,1299c",
+                "1300b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp35_q2",
+            "level" : 1301,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "magn_glass",
+                "jesterstick",
+                "sword",
+                "porcelain_cup",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1301a,1302c,1303b",
+                "1304c,1305a",
+                "1306c,1307b",
+                "1308c,1309a,1310c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                66
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp35_q3",
+            "level" : 1311,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "map",
+                "magn_glass",
+                "scroll",
+                "RedLetter"
+            ],
+            "task_levels" : [
+                "1311c,1312a",
+                "1313c,1314b,1315a",
+                "1316c,1317b,1318c",
+                "1319b,1320a"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp35_q4",
+            "level" : 1321,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "spyglass",
+                "scrapbook",
+                "magn_glass",
+                "tracks_1",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1321b,1322c,1323a",
+                "1324b,1325c,1326b",
+                "1327c,1328b,1329c",
+                "1330a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1,
+                67
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp36_q1",
+            "level" : 1331,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "book",
+                "scroll",
+                "elsie_makeup",
+                "magn_glass"
+            ],
+            "task_levels" : [
+                "1331c,1332a,1333c",
+                "1334a,1335c",
+                "1336b,1337c",
+                "1338a,1339b,1340c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp36_q2",
+            "level" : 1341,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "pruningshears",
+                "clothespin",
+                "magn_glass",
+                "jesterstick",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1341b,1342c",
+                "1343b,1344c,1345a",
+                "1346b,1347c",
+                "1348b,1349c,1350a",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3,
+                68
+            ],
+            "task_action_target" : [
+                "ch36_mcyowler_ruins",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp36_q3",
+            "level" : 1351,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "lance",
+                "sword",
+                "diaper",
+                "herb"
+            ],
+            "task_levels" : [
+                "1351a",
+                "1352b",
+                "1353c,1354b,1355c,1356a",
+                "1357b,1358c,1359b,1360c"
+            ],
+            "task_count"  : [
+                1,
+                1,
+                4,
+                4
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp36_q4",
+            "level" : 1361,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "pruningshears",
+                "cake",
+                "vine",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1361a",
+                "1362b,1363c,1364b",
+                "1365c,1366b,1367a",
+                "1368c,1369b,1370c",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3,
+                69
+            ],
+            "task_action_target" : [
+                "ch36_hamster_maze",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp37_q1",
+            "level" : 1371,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "elsie_makeup",
+                "magn_glass",
+                "golfclubs",
+                "spyglass"
+            ],
+            "task_levels" : [
+                "1371a,1372b,1373c",
+                "1374b,1375a,1376c",
+                "1377b,1378c",
+                "1379a,1380c"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp37_q2",
+            "level" : 1381,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "ClamBrew",
+                "log",
+                "page",
+                "bouquet",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1381c,1382a,1383c,1384b",
+                "1385c,1386b,1387c",
+                "1388a",
+                "1389c,1390a",
+                "none"
+            ],
+            "task_count"  : [
+                4,
+                3,
+                1,
+                2,
+                70
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp37_q3",
+            "level" : 1391,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "anchor",
+                "golfclubs",
+                "fancyscroll",
+                "fish"
+            ],
+            "task_levels" : [
+                "1391a",
+                "1392b,1393c,1394b,1395c",
+                "1396a",
+                "1397c,1398b,1399c,1400b"
+            ],
+            "task_count"  : [
+                1,
+                4,
+                1,
+                4
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp37_q4",
+            "level" : 1401,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "coal",
+                "golden_ring",
+                "bouquet",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1401a,1402c",
+                "1403a,1404b,1405c",
+                "1406a,1407b",
+                "1408c,1409b,1410c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3,
+                71
+            ],
+            "task_action_target" : [
+                "ch37_catton_wedding",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp38_q1",
+            "level" : 1411,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair"
+            ],
+            "task_item" : [
+                "fancyscroll",
+                "ClamBrew",
+                "bouquet",
+                "log"
+            ],
+            "task_levels" : [
+                "1411c,1412a,1413b",
+                "1414c,1415b",
+                "1416c,1417b",
+                "1418c,1419a,1420b"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "ch38_mcyowler_proposal"
+            ]
+        },
+        {
+            "id" : "chp38_q2",
+            "level" : 1421,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "blueprints",
+                "kitchen_knife",
+                "fabric",
+                "anchor",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1421b",
+                "1422a,1423b,1424c",
+                "1425b,1426c,1427b,1428c,1429a",
+                "1430c",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                5,
+                1,
+                72
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp38_q3",
+            "level" : 1431,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "ClamBrew",
+                "porcelain_cup",
+                "kitchen_knife",
+                "fancyscroll"
+            ],
+            "task_levels" : [
+                "1431a",
+                "1432c,1433b,1434a",
+                "1435c,1436b,1437c",
+                "1438b,1439c,1440a"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp38_q4",
+            "level" : 1441,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "herb",
+                "SnowPrint",
+                "elsie_bell",
+                "magn_glass",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1441a,1442c,1443b",
+                "1444c,1445b",
+                "1446c,1447b,1448c",
+                "1449a,1450b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                73
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp39_q1",
+            "level" : 1451,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "shovel",
+                "magn_glass",
+                "elsie_bell",
+                "spyglass"
+            ],
+            "task_levels" : [
+                "1451a,1452b,1453c,1454b",
+                "1455b,1456c,1457b,1458c",
+                "1459a",
+                "1460b"
+            ],
+            "task_count"  : [
+                4,
+                4,
+                1,
+                1
+            ],
+            "task_action_target" : [
+                "ch39_rubble",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp39_q2",
+            "level" : 1461,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "elsie_bell",
+                "musicstand",
+                "jesterstick",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1461a,1462c,1463b",
+                "1464c,1465b,1466c",
+                "1467a,1468b",
+                "1469a,1470c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2,
+                74
+            ],
+            "task_action_target" : [
+                "ch39_furrenze_opera",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp39_q3",
+            "level" : 1471,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "tissue",
+                "herb",
+                "musicstand",
+                "litterbox"
+            ],
+            "task_levels" : [
+                "1471a,1472b",
+                "1473c,1474a,1475c",
+                "1476b,1477c",
+                "1478a,1479c,1480b"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp39_q4",
+            "level" : 1481,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "jesterstick",
+                "ukulele",
+                "page",
+                "musicstand",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1481a,1482b,1483c",
+                "1484a,1485b",
+                "1486c,1487b,1488c",
+                "1489b,1490c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                3,
+                2,
+                75
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp40_q1",
+            "level" : 1491,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "RedLetter",
+                "spyglass",
+                "magn_glass",
+                "bouquet"
+            ],
+            "task_levels" : [
+                "1491a,1492b,1493c",
+                "1494b,1495c,1496b",
+                "1497a,1498b",
+                "1499c,1500b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp40_q2",
+            "level" : 1501,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "stone",
+                "concertina",
+                "wand",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1501a,1502b,1503c",
+                "1504a",
+                "1505c,1506b,1507c",
+                "1508a,1509c,1510b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                1,
+                3,
+                3,
+                76
+            ],
+            "task_action_target" : [
+                "ch40_furrenze_streets",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp40_q3",
+            "level" : 1511,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "paintbrush",
+                "eggs",
+                "bouquet",
+                "magn_glass"
+            ],
+            "task_levels" : [
+                "1511a,1512b,1513b",
+                "1514c,1515b,1516c",
+                "1517a,1518c",
+                "1519b,1520c"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp40_q4",
+            "level" : 1521,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "porcelain_cup",
+                "elsie_bell",
+                "magn_glass",
+                "elsie_makeup",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1521a,1522c",
+                "1523b,1524c,1525b",
+                "1526c,1527b,1528a",
+                "1529b,1530c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2,
+                77
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp41_q1",
+            "level" : 1531,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "dogTea",
+                "musicstand",
+                "blueprints",
+                "page"
+            ],
+            "task_levels" : [
+                "1531a,1532b,1533c,1534b",
+                "1535b,1536c,1537b,1538c",
+                "1539a",
+                "1540b"
+            ],
+            "task_count"  : [
+                4,
+                4,
+                1,
+                1
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp41_q2",
+            "level" : 1541,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "diaper",
+                "rattle",
+                "grilled_banana",
+                "jesterstick",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1541a,1542b,1543c",
+                "1544b",
+                "1545b,1546c,1547b",
+                "1548a,1549c,1550b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                1,
+                3,
+                3,
+                78
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp41_q3",
+            "level" : 1551,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "herb",
+                "bucket",
+                "magn_glass",
+                "berries"
+            ],
+            "task_levels" : [
+                "1551a,1552c",
+                "1553b,1554b,1555c",
+                "1556b,1557a",
+                "1558c,1559b,1560c"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp41_q4",
+            "level" : 1561,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "concertina",
+                "page",
+                "fancyscroll",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1561a,1562b,1563c",
+                "1564b",
+                "1565c,1566b,1567c,1568a",
+                "1569b,1570c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                1,
+                4,
+                2,
+                79
+            ],
+            "task_action_target" : [
+                "ch41_furrenze_stage",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp42_q1",
+            "level" : 1571,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "diaper",
+                "tomato",
+                "page",
+                "magn_glass"
+            ],
+            "task_levels" : [
+                "1571a,1572b",
+                "1573c,1574a,1575b,1576c",
+                "1577b,1578b",
+                "1579c,1580b"
+            ],
+            "task_count"  : [
+                2,
+                4,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp42_q2",
+            "level" : 1581,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "page",
+                "newspaper",
+                "fancyscroll",
+                "log",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1581a,1582b,1583c",
+                "1584b,1585c",
+                "1586a,1587c,1588a,1589c",
+                "1590b",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                4,
+                1,
+                80
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "ch42_furrenze_concessions",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp42_q3",
+            "level" : 1591,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "ClamBrew",
+                "musicstand",
+                "jesterstick",
+                "herb"
+            ],
+            "task_levels" : [
+                "1591a,1592b,1593c",
+                "1594b,1595c,1596b",
+                "1597c,1598a",
+                "1599b,1600c"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                2,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp42_q4",
+            "level" : 1601,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "musicstand",
+                "jesterstick",
+                "magn_glass",
+                "concertina",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1601a,1602c",
+                "1603b,1604c,1605b",
+                "1606a,1607b,1608c,1609b",
+                "1610c",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                4,
+                1,
+                81
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp43_q1",
+            "level" : 1611,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "suitcase",
+                "fancyscroll",
+                "tracks_1",
+                "map"
+            ],
+            "task_levels" : [
+                "1611a",
+                "1612c,1613b,1614c",
+                "1615a,1616c,1617b",
+                "1618c,1619a,1620b"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp43_q2",
+            "level" : 1621,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "scroll",
+                "herb",
+                "newspaper",
+                "tracks_2",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1621c,1622a,1623b",
+                "1624c,1625b",
+                "1626c,1627b",
+                "1628c,1629b,1630a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                82
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp43_q3",
+            "level" : 1631,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "log",
+                "chalkboard",
+                "magn_glass",
+                "jesterstick"
+            ],
+            "task_levels" : [
+                "1631b,1632a",
+                "1633c,1634b,1635c",
+                "1636a,1637b,1638c",
+                "1639b,1640b"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "ch43_meownardo_lab",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp43_q4",
+            "level" : 1641,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "blueprints",
+                "lantern",
+                "porcelain_cup",
+                "bouquet",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1641b,1642c",
+                "1643a,1644c,1645b",
+                "1646c,1647b",
+                "1648c,1649b,1650b",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                2,
+                3,
+                83
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp44_q1",
+            "level" : 1651,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "jesterstick",
+                "magn_glass",
+                "elsie_makeup",
+                "page"
+            ],
+            "task_levels" : [
+                "1651c,1652a,1653b",
+                "1654c,1655b",
+                "1656c,1657b",
+                "1658a,1659b,1660c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp44_q2",
+            "level" : 1661,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_repair",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "log",
+                "paintbrushes",
+                "bucket",
+                "jesterstick",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1661a",
+                "1662c,1663b,1664c",
+                "1665a,1666b,1667c",
+                "1668b,1669a,1670c",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3,
+                84
+            ],
+            "task_action_target" : [
+                "ch44_meownardo_grove",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp44_q3",
+            "level" : 1671,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "log",
+                "magn_glass",
+                "paintbrush",
+                "scroll"
+            ],
+            "task_levels" : [
+                "1671a",
+                "1672c,1673b,1674a",
+                "1675c,1676a,1677b",
+                "1678c,1679b,1680c"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp44_q4",
+            "level" : 1681,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "pen",
+                "log",
+                "blueprints",
+                "bucket",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1681b,1682a,1683c",
+                "1684b,1685b,1686c",
+                "1687a,1688c,1689b",
+                "1690c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1,
+                85
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp45_q1",
+            "level" : 1691,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair"
+            ],
+            "task_item" : [
+                "blueprints",
+                "magn_glass",
+                "tracks_1",
+                "spyglass"
+            ],
+            "task_levels" : [
+                "1691a,1692c,1693b",
+                "1694c,1695a,1696b",
+                "1697c,1698a,1699c",
+                "1700b"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                3,
+                1
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "ch45_tower_ruins"
+            ]
+        },
+        {
+            "id" : "chp45_q2",
+            "level" : 1701,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "paintbrushes",
+                "magn_glass",
+                "medicine",
+                "spyglass",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1701a,1702c,1703b",
+                "1704c,1705a",
+                "1706c,1707b",
+                "1708c,1709a,1710c",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3,
+                86
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp45_q3",
+            "level" : 1711,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "map",
+                "jesterstick",
+                "tracks_1",
+                "newspaper"
+            ],
+            "task_levels" : [
+                "1711c,1712b",
+                "1713c,1714b,1715a",
+                "1716c,1717b,1718c",
+                "1719b,1720a"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                3,
+                2
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp45_q4",
+            "level" : 1721,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "shield",
+                "magn_glass",
+                "grecianurn",
+                "blueprints",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1721b,1722c,1723a",
+                "1724b,1725c,1726b",
+                "1727c",
+                "1728b,1729b,1730a",
+                "none"
+            ],
+            "task_count"  : [
+                3,
+                3,
+                1,
+                3,
+                87
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp46_q1",
+            "level" : 1731,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_repair"
+            ],
+            "task_item" : [
+                "rattle",
+                "suitcase",
+                "stone",
+                "log"
+            ],
+            "task_levels" : [
+                "1731c,1732a,1733c",
+                "1734a,1735c",
+                "1736b,1737c",
+                "1738a,1739b,1740c"
+            ],
+            "task_count"  : [
+                3,
+                2,
+                2,
+                3
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "ch46_tower_hissa"
+            ]
+        },
+        {
+            "id" : "chp46_q2",
+            "level" : 1741,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "tracks_1",
+                "chalkboard",
+                "chicken",
+                "blueprints",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1741b,1742c",
+                "1743b,1744c,1745a",
+                "1746b",
+                "1747c,1748b,1749c,1750a",
+                "none"
+            ],
+            "task_count"  : [
+                2,
+                3,
+                1,
+                4,
+                88
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp46_q3",
+            "level" : 1751,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact"
+            ],
+            "task_item" : [
+                "dumbbells",
+                "tracks_2",
+                "magn_glass",
+                "jesterstick"
+            ],
+            "task_levels" : [
+                "1751a",
+                "1752b",
+                "1753c,1754b,1755c,1756a",
+                "1757b,1758c,1759b,1760c"
+            ],
+            "task_count"  : [
+                1,
+                1,
+                4,
+                4
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        },
+        {
+            "id" : "chp46_q4",
+            "level" : 1761,
+            "character" : "Elsie",
+            "task_type" : [
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "collect_and_interact",
+                "reach_rank"
+            ],
+            "task_item" : [
+                "fabric",
+                "magn_glass",
+                "grooming_brush",
+                "scroll",
+                "harmony"
+            ],
+            "task_levels" : [
+                "1761a",
+                "1762b,1763c,1764b",
+                "1765c,1766b,1767a",
+                "1768c,1769b,1770a",
+                "none"
+            ],
+            "task_count"  : [
+                1,
+                3,
+                3,
+                3,
+                89
+            ],
+            "task_action_target" : [
+                "none",
+                "none",
+                "none",
+                "none",
+                "none"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+
+{
+    "sheet1" : [
+        {
+            "dialogue_id" : "generic_01",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Good morning!"
+        },
+        {
+            "dialogue_id" : "generic_01",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Morning!"
+        },
+        {
+            "dialogue_id" : "generic_01",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "How is it going?"
+        },
+        {
+            "dialogue_id" : "generic_01",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Good. You?",
+            "emo_reaction_chr1" : "happy",
+            "emo_reaction_chr2" : "happy"
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "chr1"        : "Lily",
+            "chr2"        : "Kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Hey Kip."
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hey Lily, what's cookin?"
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "I wonder what I'm going to do this weekend."
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Party!"
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Barbecue?"
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "sentence"    : 6,
+            "who"         : "chr2",
+            "text"        : "No, party!"
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "sentence"    : 7,
+            "who"         : "chr1",
+            "text"        : "I think I'm a bit old for that.",
+            "emo_reaction_chr2" : "sad"
+        },
+        {
+            "dialogue_id" : "generic_03",
+            "chr1"        : "Kip, Taka",
+            "chr2"        : "Lily, Walter",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Noodles are coming, right?",
+            "lvl_start"   : 10,
+            "lvl_end"     : 20
+        },
+        {
+            "dialogue_id" : "generic_03",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "You didn't order noodles."
+        },
+        {
+            "dialogue_id" : "generic_03",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Oh.",
+            "emo_reaction_chr1" : "confused"
+        },
+        {
+            "dialogue_id" : "generic_03",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Do you want noodles?",
+            "emo_reaction_chr2" : "confused"
+        },
+        {
+            "dialogue_id" : "generic_03",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "No."
+        },
+        {
+            "dialogue_id" : "generic_04",
+            "chr1"        : "Kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "You know what I really like? Toast."
+        },
+        {
+            "dialogue_id" : "generic_04",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Oh, yeah. Toast is great. Do you put butter on it?"
+        },
+        {
+            "dialogue_id" : "generic_04",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "On what?",
+            "emo_reaction_chr1" : "confused"
+        },
+        {
+            "dialogue_id" : "generic_04",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "On toast."
+        },
+        {
+            "dialogue_id" : "generic_04",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Butter on toast?",
+            "emo_reaction_chr1" : "confused"
+        },
+        {
+            "dialogue_id" : "generic_04",
+            "sentence"    : 6,
+            "who"         : "chr2",
+            "text"        : "Yes, it's really good with butter."
+        }
+    ]
+}

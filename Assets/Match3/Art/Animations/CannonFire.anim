@@ -1,0 +1,1417 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "CannonFire"
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -11.70732, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 1.5
+        value: {x: -16, y: 0, z: 0}
+        inSlope: {x: -11.70732, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "TrailPlane 1"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: -11.70732, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 1.5
+        value: {x: 0, y: -16, z: 0}
+        inSlope: {x: 0, y: -11.70732, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "TrailPlane 2"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 11.70732, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 1.5
+        value: {x: 16, y: 0, z: 0}
+        inSlope: {x: 11.70732, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "TrailPlane 3"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 11.70732, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 1.5
+        value: {x: 0, y: 16, z: 0}
+        inSlope: {x: 0, y: 11.70732, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "TrailPlane 4"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -11.70732, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 1.5
+        value: {x: -16, y: 0, z: 0}
+        inSlope: {x: -11.70732, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TrailPlane 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: -11.70732, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 1.5
+        value: {x: 0, y: -16, z: 0}
+        inSlope: {x: 0, y: -11.70732, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TrailPlane 2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 11.70732, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 1.5
+        value: {x: 16, y: 0, z: 0}
+        inSlope: {x: 11.70732, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TrailPlane 3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.1333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 11.70732, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 1.5
+        value: {x: 0, y: 16, z: 0}
+        inSlope: {x: 0, y: 11.70732, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: TrailPlane 4
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0, y: 0, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 48, y: 48, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.45
+        value: {x: 12, y: 12, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "Ring"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0, y: 0, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 48, y: 48, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.45
+        value: {x: 12, y: 12, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Ring
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.9166667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "Ring"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.45
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_Enabled"
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 12e11236fac77e4e90d53ed137e29d06, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: 0
+        outSlope: -4
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.3833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._TintColor.r"
+    path: "Ring"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: 0
+        outSlope: -4
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.3833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._TintColor.g"
+    path: "Ring"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: 0
+        outSlope: -4
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.3833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._TintColor.b"
+    path: "Ring"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.3833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._TintColor.a"
+    path: "Ring"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "Drops"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 5.51435
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.45
+        value: 1
+        inSlope: 3.157895
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._FadeIn"
+    path: "TrailPlane 1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 12
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.2166667
+        value: 1
+        inSlope: 12
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._FadeIn"
+    path: "TrailPlane 1\x2fIcon"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 5.496348
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.45
+        value: 1
+        inSlope: 3.157895
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._FadeIn"
+    path: "TrailPlane 2"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 12
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.2166667
+        value: 1
+        inSlope: 12
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._FadeIn"
+    path: "TrailPlane 2\x2fIcon"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: Infinity
+        outSlope: -0.6521739
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "TrailPlane 3"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 12
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.2166667
+        value: 1
+        inSlope: 12
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._FadeIn"
+    path: "TrailPlane 3\x2fIcon"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 5.539827
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.45
+        value: 1
+        inSlope: 3.157895
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._FadeIn"
+    path: "TrailPlane 3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: Infinity
+        outSlope: -0.6521739
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "TrailPlane 4"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 5.553468
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.45
+        value: 1
+        inSlope: 3.157895
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._FadeIn"
+    path: "TrailPlane 4"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 12
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.2166667
+        value: 1
+        inSlope: 12
+        outSlope: 0
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "material._FadeIn"
+    path: "TrailPlane 4\x2fIcon"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "TrailPlane 2"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "TrailPlane 1"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.08333334
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "CenterGLow"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "Fan4"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "Fan3"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "Fan2"
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 1.666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: "m_IsActive"
+    path: "Fan1"
+    classID: 1
+    script: {fileID: 0}
+  m_PPtrCurves:
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_MuscleClipSize: 0
+  m_MuscleClip:
+    serializedVersion: 3
+    m_DeltaPose:
+      m_RootX:
+        t: {x: 0, y: 0, z: 0}
+        q: {x: 0, y: 0, z: 0, w: 1}
+        s: {x: 1, y: 1, z: 1}
+      m_LookAtPosition: {x: 0, y: 0, z: 0}
+      m_LookAtWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_GoalArray:
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      m_LeftHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_RightHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      m_TDoFArray:
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+    m_StartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_StopX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_LeftFootStartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RightFootStartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_AverageSpeed: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    pptrCurveMapping:
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+    m_HasGenericRootTransform: 0
+    m_HasMotionFloatCurves: 0
+    m_GenerateMotionCurves: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: -11.70732
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: -16
+        inSlope: -11.70732
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: TrailPlane 1
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: TrailPlane 1
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: TrailPlane 1
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: TrailPlane 2
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: -11.70732
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: -16
+        inSlope: -11.70732
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: TrailPlane 2
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: TrailPlane 2
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 11.70732
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 16
+        inSlope: 11.70732
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: TrailPlane 3
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: TrailPlane 3
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: TrailPlane 3
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: TrailPlane 4
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 11.70732
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 16
+        inSlope: 11.70732
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: TrailPlane 4
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: TrailPlane 4
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.2
+        value: 0
+        inSlope: 0
+        outSlope: 48
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.45
+        value: 12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Ring
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.2
+        value: 0
+        inSlope: 0
+        outSlope: 48
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.45
+        value: 12
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Ring
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.45
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Ring
+    classID: 4
+    script: 
+  m_Events:
+  - time: 0.1
+    functionName: "PlayShake"
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

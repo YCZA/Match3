@@ -1,0 +1,104 @@
+{
+	"leagues" :
+	[
+		{
+        		"start" : 100,
+        		"end"   : 1499684400,
+        		"config" :
+        		{
+                		"name": "TrophyTest_1",
+                		"eventType": 1,
+                		"pointsToQualify": 2
+        		},
+        		"id"    : "pcs3usqerbym3mnfr2eqgmdqva"
+		},
+				{
+        		"start" : 1499684400,
+        		"end"   : 1499688000,
+        		"config" :
+        		{
+                		"name": "TrophyTest_2",
+                		"eventType": 2,
+                		"pointsToQualify": 2
+        		},
+        		"id"    : "4occe2fklzpmrwbcfgq7qvjvqm"
+		},
+				{
+        		"start" : 1499688000,
+        		"end"   : 1499691600,
+        		"config" :
+        		{
+                		"name": "TrophyTest_3",
+                		"eventType": 3,
+                		"pointsToQualify": 2
+        		},
+        		"id"    : "emrkizxarroqqqdnly3a6u4pnu"
+		},	
+		{
+        		"start" : 1499691600,
+        		"end"   : 1499695200,
+        		"config" :
+        		{
+                		"name": "4pm",
+                		"eventType": 1,
+                		"pointsToQualify": 1
+        		},
+        		"id"    : "lldcakc2kf5ks27jzrxkgtgduy"
+		},	
+				{
+        		"start" : 1499695200,
+        		"end"   : 1499698800,
+        		"config" :
+        		{
+                		"name": "5pm",
+                		"eventType": 2,
+                		"pointsToQualify": 1
+        		},
+        		"id"    : "igvwllocz4wftuz4g2apprqe74"
+		},	
+		{
+        		"start" : 1499698800,
+        		"end"   : 1499702400,
+        		"config" :
+        		{
+                		"name": "6pm",
+                		"eventType": 3,
+                		"pointsToQualify": 1
+        		},
+        		"id"    : "ioitlsb4a7ojzodqmydee6pjpa"
+		},	
+		{
+        		"start" : 1499702400,
+        		"end"   : 1499704200,
+        		"config" :
+        		{
+                		"name": "6pm+",
+                		"eventType": 3,
+                		"pointsToQualify": 12
+        		},
+        		"id"    : "ssfwzlf7lfsrtysqj6vgwkadbe"
+		},
+				{
+        		"start" : 10,
+        		"end"   : 1499767200,
+        		"config" :
+        		{
+                		"name": "YATestLeague",
+                		"eventType": 3,
+                		"pointsToQualify": 12
+        		},
+        		"id"    : "xfo2loudqun6xumvg7gequehne"
+		},
+				{
+        		"start" : 10,
+        		"end"   : 1499774400,
+        		"config" :
+        		{
+                		"name": "YATestLeague",
+                		"eventType": 3,
+                		"pointsToQualify": 12
+        		},
+        		"id"    : "w4a25442oc236nh4fkaiughasm"
+		}
+	]
+}

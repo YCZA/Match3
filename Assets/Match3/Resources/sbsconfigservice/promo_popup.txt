@@ -1,0 +1,7 @@
+{
+  "promo_name" : "alphabet_anniversary_2018",
+  "title_key" : "ui.anniversary.promopopup.title_1st",
+  "speechbubble_key" : "ui.anniversary.promopopup.speechbubble_1st",
+  "start_date" : "2018-11-07T12:00:00",
+  "end_date" : "2018-12-09T12:00:00"
+}

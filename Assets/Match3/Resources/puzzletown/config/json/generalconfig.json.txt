@@ -1,0 +1,257 @@
+
+{
+    "tier_factor" : [
+        {
+            "tier" : "a",
+            "coin_multiplier" : 1
+        },
+        {
+            "tier" : "b",
+            "coin_multiplier" : 2
+        },
+        {
+            "tier" : "c",
+            "coin_multiplier" : 3
+        }
+    ],
+    "balance"     : {
+        "buy_coins_per_diamond" : 5,
+        "facebook_login_reward" : 70,
+        "facebook_hud_icon_level" : 10,
+        "starter_pack_hud_icon_level" : 10,
+        "starter_pack_hud_dismiss_count" : 3,
+        "offer_cooldown_hours"           : 24
+    },
+    "notifications" : {
+        "inactive_1_day" : 82800,
+        "inactive_3_days" : 342000,
+        "inactive_7_days" : 601200,
+        "not_logged_in_fb" : 1800,
+        "min_duration_harvest_building" : 7200,
+        "attention_indicator_cooldown"  : 86400,
+        "low_time_event"                : 18000
+    },
+    "lives_dev"     : {
+        "resource_key" : "lives",
+        "recharge_rate" : 1200,
+        "max_lives"     : 5,
+        "diamonds_purchase_thresh" : 0,
+        "watch_video_thresh"       : 4,
+        "ask_friend_thresh"        : 5,
+        "diamonds_cost_to_refill"  : 100,
+        "request_from_friend_cooldown" : 90,
+        "refresh_cooldown"             : 15
+    },
+    "lives_stag"    : {
+        "resource_key" : "lives",
+        "recharge_rate" : 1200,
+        "max_lives"     : 5,
+        "diamonds_purchase_thresh" : 0,
+        "watch_video_thresh"       : 4,
+        "ask_friend_thresh"        : 5,
+        "diamonds_cost_to_refill"  : 100,
+        "request_from_friend_cooldown" : 43200,
+        "refresh_cooldown"             : 15
+    },
+    "lives_prod"    : {
+        "resource_key" : "lives",
+        "recharge_rate" : 1200,
+        "max_lives"     : 5,
+        "diamonds_purchase_thresh" : 0,
+        "watch_video_thresh"       : 4,
+        "ask_friend_thresh"        : 5,
+        "diamonds_cost_to_refill"  : 100,
+        "request_from_friend_cooldown" : 43200,
+        "refresh_cooldown"             : 15
+    },
+    "tier_unlocked" : {
+        "unlock_tier_c_at_level" : 17,
+        "last_area"              : 29
+    },
+    "villager"      : {
+        "deco_interaction_cooldown_period" : 10,
+        "villager_interaction_cooldown_period" : 10,
+        "seconds_to_trigger_start_roaming"     : 1,
+        "start_game_quote_probablity"          : 50,
+        "lose_game_quote_probablity"           : 50,
+        "win_game_quote_probablity"            : 50
+    },
+    "spin_prizes"   : [
+        {
+            "amount" : 600,
+            "position" : 0,
+            "prize"    : "UnlimitedLives",
+            "probability" : 5
+        },
+        {
+            "amount" : 3,
+            "position" : 1,
+            "prize"    : "Diamonds",
+            "probability" : 15
+        },
+        {
+            "amount" : 50,
+            "position" : 2,
+            "prize"    : "Coins",
+            "probability" : 20
+        },
+        {
+            "amount" : 5,
+            "position" : 3,
+            "prize"    : "Diamonds",
+            "probability" : 15
+        },
+        {
+            "amount" : 900,
+            "position" : 4,
+            "prize"    : "UnlimitedLives",
+            "probability" : 5
+        },
+        {
+            "amount" : 30,
+            "position" : 5,
+            "prize"    : "Coins",
+            "probability" : 15
+        },
+        {
+            "amount" : 300,
+            "position" : 6,
+            "prize"    : "UnlimitedLives",
+            "probability" : 10
+        },
+        {
+            "amount" : 7,
+            "position" : 7,
+            "prize"    : "Diamonds",
+            "probability" : 15
+        }
+    ],
+    "boosters"      : [
+        {
+            "type" : "boost_hammer",
+            "amount" : 3,
+            "cost"   : 75,
+            "unlock_at_lvl" : 12
+        },
+        {
+            "type" : "boost_star",
+            "amount" : 3,
+            "cost"   : 120,
+            "unlock_at_lvl" : 16
+        },
+        {
+            "type" : "boost_rainbow",
+            "amount" : 3,
+            "cost"   : 130,
+            "unlock_at_lvl" : 29
+        },
+        {
+            "type" : "moves",
+            "amount" : 5,
+            "cost"   : 70,
+            "offer_price" : 35
+        },
+        {
+            "type" : "boost_pre_rainbow",
+            "amount" : 3,
+            "cost"   : 80,
+            "unlock_at_lvl" : 26
+        },
+        {
+            "type" : "boost_pre_bomb_linegem",
+            "amount" : 3,
+            "cost"   : 90,
+            "unlock_at_lvl" : 17
+        },
+        {
+            "type" : "boost_pre_double_fish",
+            "amount" : 3,
+            "cost"   : 100,
+            "unlock_at_lvl" : 20
+        }
+    ],
+    "jackpot_prizes" : [
+        {
+            "prize1" : "HammerBoost",
+            "amount1" : 1,
+            "prize2"  : "Diamonds",
+            "amount2" : 10,
+            "probability" : 25
+        },
+        {
+            "prize1" : "UnlimitedLives",
+            "amount1" : 1800,
+            "probability" : 25
+        },
+        {
+            "prize1" : "StarBoost",
+            "amount1" : 1,
+            "prize2"  : "Coins",
+            "amount2" : 50,
+            "probability" : 25
+        },
+        {
+            "prize1" : "Coins",
+            "amount1" : 100,
+            "probability" : 25
+        }
+    ],
+    "rating_filter"  : {
+        "sessions_without_crashes" : 3,
+        "wait_num_levels"          : 15,
+        "rounds_played_this_session" : 3
+    },
+    "invite_friends" : {
+        "showForPayingUser" : 1,
+        "coolDown"          : 43200,
+        "minLevel"          : 20,
+        "maxNumFriendsShown" : 50
+    },
+    "wheel_settings" : {
+        "spin_cooldown" : 600,
+        "minimum_level" : 11,
+        "ad_expire_time_min" : 19
+    },
+    "chapter_buildings" : {
+        "max_count" : 4,
+        "fadeout_time" : 5,
+        "fadein_time"  : 0,
+        "levels_required" : 1
+    },
+    "loading_screens"   : [
+        {
+            "id" : "loadingscreen-01",
+            "assetBundle" : "loadingscreen"
+        },
+        {
+            "id" : "loadingscreen-02",
+            "assetBundle" : "loadingscreen"
+        },
+        {
+            "id" : "loadingscreen-03",
+            "assetBundle" : "loadingscreen"
+        },
+        {
+            "id" : "loadingscreen-04",
+            "assetBundle" : "loadingscreen"
+        },
+        {
+            "id" : "loadingscreen-05",
+            "assetBundle" : "loadingscreen"
+        },
+        {
+            "id" : "loadingscreen-06",
+            "assetBundle" : "loadingscreen"
+        },
+        {
+            "id" : "loadingscreen-landscape",
+            "assetBundle" : "loadingscreen"
+        }
+    ],
+    "tournaments"       : {
+        "unlock_at_level" : 25,
+        "league_over_query_max_delay_seconds" : 1,
+        "tease_at_level"                      : 5,
+        "teaser_popup_at_level"               : 13
+    }
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6dcc25dd9a80cbf6d7cc7d4c4919d1d, type: 3}
+  m_Name: "StarExplodeAnimator"
+  m_EditorClassIdentifier: 
+  boardView: {fileID: 0}
+  animController: {fileID: 0}
+  dropAnimator: {fileID: 0}
+  duration: 1
+  matchAnimator: {fileID: 11400000, guid: d77f8c331cdf4210af7e9dd9f42a8723, type: 2}
+  cascadeDelay: 0.085
+  lineAnimator: {fileID: 11400000, guid: 9de59e8d6d7d4f519da7bf40b378b74f, type: 2}

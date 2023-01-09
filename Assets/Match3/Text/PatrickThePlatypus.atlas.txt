@@ -1,0 +1,139 @@
+
+PatrickThePlatypus.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BeakBotton
+  rotate: false
+  xy: 895, 106
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+BeakTop
+  rotate: true
+  xy: 206, 2
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+BlinkLeft1Third
+  rotate: false
+  xy: 823, 102
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+BlinkLeft2Third
+  rotate: false
+  xy: 667, 86
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+BlinkLeftFull
+  rotate: false
+  xy: 706, 86
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+BlinkRight1Third
+  rotate: true
+  xy: 225, 3
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+BlinkRight2Third
+  rotate: false
+  xy: 745, 86
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+BlinkRightFull
+  rotate: false
+  xy: 784, 86
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 371, 26
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+Hands1HPLeft
+  rotate: false
+  xy: 250, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Hands1HPRight
+  rotate: false
+  xy: 860, 106
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+PupilLeft
+  rotate: false
+  xy: 134, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+PupilRight
+  rotate: false
+  xy: 170, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Shell1HP
+  rotate: false
+  xy: 254, 53
+  size: 115, 73
+  orig: 115, 73
+  offset: 0, 0
+  index: -1
+Shell2HPBottom
+  rotate: false
+  xy: 134, 40
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+Shell2HPTop
+  rotate: false
+  xy: 474, 40
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+Shell3HP
+  rotate: true
+  xy: 2, 8
+  size: 118, 130
+  orig: 118, 130
+  offset: 0, 0
+  index: -1
+ShellBack2HP
+  rotate: false
+  xy: 474, 84
+  size: 111, 42
+  orig: 111, 42
+  offset: 0, 0
+  index: -1
+TAIL2HP
+  rotate: true
+  xy: 587, 79
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1

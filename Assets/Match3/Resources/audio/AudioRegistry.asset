@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c65df2aafd8953eb3b10a7aa2636713e, type: 3}
+  m_Name: "AudioRegistry"
+  m_EditorClassIdentifier: 
+  audioItemDictionary:
+    _keys: 64000000650000006600000067000000680000006E0000006F000000700000007100000072000000730000007400000075000000760000007700000078000000790000007A0000007E0000007F000000800000008200000083000000C9000000CA000000CB000000CE000000CF000000900100009101000092010000930100009401000085000000D4000000D5000000D6000000D7000000D800000095010000D9000000DA000000DD000000DE000000DF000000E0000000E200000086000000E3000000E4000000E5000000E600000087000000890000008C0000008D0000008F0000009000000091000000F0000000F2000000F3000000F4000000F7000000F8000000920000008E00000094000000950000009600000097000000980000009D0000009E0000009F00000096010000
+    _values:
+    - audioId: 100
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 117003559fd346578df3fc9dded04c03, type: 3}
+      loadType: 0
+      volume: 0.3
+    - audioId: 101
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 443ae2a250504280894aedfba41b505c, type: 3}
+      loadType: 0
+      volume: 0.05
+    - audioId: 102
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: badcdb3be1a84a75b80bd84a965763bd, type: 3}
+      loadType: 0
+      volume: 0.3
+    - audioId: 103
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: bfc42deb0d26478cbbbbb5cb8951c509, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 104
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 470a59fe3381482aa89b50134abbaf4e, type: 3}
+      loadType: 0
+      volume: 0.8
+    - audioId: 110
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 384d0ea0f3814d9d9727bac26cef0664, type: 3}
+      loadType: 0
+      volume: 0.7
+    - audioId: 111
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 84824850b09743208cc89ad51a7e76ba, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 112
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 84824850b09743208cc89ad51a7e76ba, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 113
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: ce65fb8b1adb42e8a4912f5c0c58a451, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 114
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 18a3d44a149e4b1ba3ffbb5d95ae582f, type: 3}
+      loadType: 0
+      volume: 0.8
+    - audioId: 115
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 75f19eb0439f491499684836efde9532, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 116
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 107e92d7c10246d0abedc7448d06ec6d, type: 3}
+      loadType: 0
+      volume: 0.6
+    - audioId: 117
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 9d60ab73775345c2b156b519b8909aad, type: 3}
+      loadType: 0
+      volume: 0.6
+    - audioId: 118
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: f6b46e7f939449cbab5ad459a84d9244, type: 3}
+      loadType: 0
+      volume: 0.6
+    - audioId: 119
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 3a5e7ebd193c41fdb1aa80a53e4bccf8, type: 3}
+      loadType: 0
+      volume: 0.6
+    - audioId: 120
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 47812776519342d69c61531934418cda, type: 3}
+      loadType: 0
+      volume: 0.6
+    - audioId: 121
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 2c12149bb3c8486e9ee6b2ed4f5f6255, type: 3}
+      loadType: 0
+      volume: 0.6
+    - audioId: 122
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 692b167f05fa483faa1cdeff0db74649, type: 3}
+      loadType: 0
+      volume: 0.6
+    - audioId: 126
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: ee1f75c7fcb14455865fab34613336b4, type: 3}
+      loadType: 0
+      volume: 0.1
+    - audioId: 127
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 013079dbf3a74d80a4fae38e4e76d46a, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 128
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 1192927dbeae4db28d9b4b77505a9dda, type: 3}
+      loadType: 0
+      volume: 0.8
+    - audioId: 130
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 84824850b09743208cc89ad51a7e76ba, type: 3}
+      loadType: 0
+      volume: 0.1
+    - audioId: 131
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 0e8f373882e241998a0448901ebaf9ec, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 201
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: f4afd328e7b4476d9a714de9c434bfce, type: 3}
+      loadType: 2
+      volume: 1
+    - audioId: 202
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 44925415b2d34d3cad316bdeea3fed11, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 203
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 74975b9ba9114b7fb5572a9cf54b39a3, type: 3}
+      loadType: 2
+      volume: 1
+    - audioId: 206
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 50c9830cbd654e0fb4ea8ce158d743bc, type: 3}
+      loadType: 0
+      volume: 0.1
+    - audioId: 207
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 11f239d3c22448a7a26330592dbc2449, type: 3}
+      loadType: 0
+      volume: 0.1
+    - audioId: 400
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 085168c826ae4e56b493deed189c03c0, type: 3}
+      loadType: 0
+      volume: 0.7
+    - audioId: 401
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 5cf644d05fc04b17a4164f70bf896dac, type: 3}
+      loadType: 0
+      volume: 0.7
+    - audioId: 402
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 9ec8b2c9479f4dcb84ae8972d5ad23e8, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 403
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: ee404ce4f12b4b7eb8a37fc6c1b655b9, type: 3}
+      loadType: 0
+      volume: 0.3
+    - audioId: 404
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: c8fdd840f1cf47c7bb76b3be9aa95116, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 133
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 743f4f5ff0fb4935936c40ca7ca0882e, type: 3}
+      loadType: 0
+      volume: 0.8
+    - audioId: 212
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 50b71d6bb18b4d6aacb12b71d5cf4608, type: 3}
+      loadType: 0
+      volume: 0.3
+    - audioId: 213
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: f158281582ab4bbd9506104726d316e5, type: 3}
+      loadType: 0
+      volume: 0.3
+    - audioId: 214
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 023db7e5184a49669c7259c3dcecccda, type: 3}
+      loadType: 0
+      volume: 0.3
+    - audioId: 215
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: a77463c008244d069c4c1be331c611ac, type: 3}
+      loadType: 0
+      volume: 0.3
+    - audioId: 216
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 71764ac53287473eab9230e65571b841, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 405
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: e8da6c093a3243a99e034d45d476dcf2, type: 3}
+      loadType: 1
+      volume: 0.5
+    - audioId: 217
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 0371133720f94ff1ba9fa39305f11f12, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 218
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 9a0c8df9a98b429697e3ab8b7b0f01d5, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 221
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 33d05c4e2fdb4cc58655e0cc582234d5, type: 3}
+      loadType: 0
+      volume: 0.05
+    - audioId: 222
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 33d05c4e2fdb4cc58655e0cc582234d5, type: 3}
+      loadType: 0
+      volume: 0.05
+    - audioId: 223
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 65e61343094f428388ddcc8c44632463, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 224
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: a1f5f8fad687401d877ea916050fdedb, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 226
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: d03e194f2324428da9168ac5e5ac60bc, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 134
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 9873e68654f641e586da0da1cdc4b893, type: 3}
+      loadType: 0
+      volume: 0.3
+    - audioId: 227
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: db39649f402040e9a8217f2e79d28d73, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 228
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 1a63851bf12a424da083769c86452c12, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 229
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 225bd7601b0946c9ab15c487cf6d3ab1, type: 3}
+      loadType: 0
+      volume: 0.5
+    - audioId: 230
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: dcce7e56d575458e9dc41c2599342fd0, type: 3}
+      loadType: 2
+      volume: 0.5
+    - audioId: 135
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: bfc42deb0d26478cbbbbb5cb8951c509, type: 3}
+      loadType: 0
+      volume: 1
+    - audioId: 137
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 75f19eb0439f491499684836efde9532, type: 3}
+      loadType: 1
+      volume: 0.5
+    - audioId: 140
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 6888581439594889b8f75c304d20ce4f, type: 3}
+      loadType: 1
+      volume: 0.7
+    - audioId: 141
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 41eb74e375194bf094aabf5e70f2c4e6, type: 3}
+      loadType: 1
+      volume: 0.5
+    - audioId: 143
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 8dd8dc4a63f04444b7e21a9d36c8aff2, type: 3}
+      loadType: 1
+      volume: 0.2
+    - audioId: 144
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 0ce9ebd9a4a44e76835fff0db55ee915, type: 3}
+      loadType: 1
+      volume: 0.5
+    - audioId: 145
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 6b0e636ecbca4f308b340dd14fb7f288, type: 3}
+      loadType: 1
+      volume: 0.1
+    - audioId: 240
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 0514f860b3f647e79752c254a75276d1, type: 3}
+      loadType: 1
+      volume: 1
+    - audioId: 242
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 1a63851bf12a424da083769c86452c12, type: 3}
+      loadType: 1
+      volume: 1
+    - audioId: 243
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 3f8f2528c3f44c26bb72fffff53693f9, type: 3}
+      loadType: 1
+      volume: 0.3
+    - audioId: 244
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 95cf72d0f4494ffa877f87d409158a52, type: 3}
+      loadType: 1
+      volume: 0.5
+    - audioId: 247
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: d03e194f2324428da9168ac5e5ac60bc, type: 3}
+      loadType: 1
+      volume: 1
+    - audioId: 248
+      audioCategory: 2
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: d9134bcf5d6c4c4bb1b39698e6f9e7f4, type: 3}
+      loadType: 1
+      volume: 0.2
+    - audioId: 146
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 33d05c4e2fdb4cc58655e0cc582234d5, type: 3}
+      loadType: 1
+      volume: 0.05
+    - audioId: 142
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 4713d4bc673f4c12a3d74bb6690f161d, type: 3}
+      loadType: 1
+      volume: 0.8
+    - audioId: 148
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 2be1a98c37df4539a747fb1587d0efd5, type: 3}
+      loadType: 1
+      volume: 0.3
+    - audioId: 149
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: b905118fe0014a8daed42f217aa291f2, type: 3}
+      loadType: 1
+      volume: 0.3
+    - audioId: 150
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 604062bdb9cf40229bed7431cf225fa9, type: 3}
+      loadType: 1
+      volume: 0.3
+    - audioId: 151
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 07ad5f2654c24fbbb8b32cd265134e77, type: 3}
+      loadType: 1
+      volume: 0.3
+    - audioId: 152
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 5fff09d22a6a40019c0a6225d35b1556, type: 3}
+      loadType: 1
+      volume: 0.3
+    - audioId: 157
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: bc222e29caf14878b6aa198e800e81a6, type: 3}
+      loadType: 1
+      volume: 0.4
+    - audioId: 158
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: ef1872ba6f804876a626db6134d831aa, type: 3}
+      loadType: 1
+      volume: 0.15
+    - audioId: 159
+      audioCategory: 1
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: bc40f4981a444de99d0845f7f56b0cd7, type: 3}
+      loadType: 1
+      volume: 0.8
+    - audioId: 406
+      audioCategory: 4
+      description: "enter a description for the sound event"
+      audioClip: {fileID: 8300000, guid: 4714ec33372143f9a73a59e8214a6e88, type: 3}
+      loadType: 2
+      volume: 0.5

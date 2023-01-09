@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1790704293682829264
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790704293682829254}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790704293682829254
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790704293682829264}
+  - component: {fileID: 1790704293682829269}
+  m_Layer: 0
+  m_Name: "SpriteManager_Multiplier"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790704293682829269
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790704293682829254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c1662c3fd6a713d2bf94101f3136be4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fallback: {fileID: 0}
+  resources:
+  - {fileID: 21300000, guid: b5f63938767a452dbde7d7efb0af6047, type: 3}
+  - {fileID: 21300000, guid: 4b00b053f0c54c05a886cc66e4cd2a62, type: 3}
+  - {fileID: 21300000, guid: 737c132b017d4a68b5a0343f2908e642, type: 3}
+  - {fileID: 21300000, guid: 688a9c420c034a1bb3b57f160b90de2e, type: 3}
+  - {fileID: 21300000, guid: cf653048926d47d6ad654aba226da40f, type: 3}
+  resourceNameOverrides:
+    _keys: []
+    _values: []

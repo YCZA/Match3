@@ -1,0 +1,11 @@
+{
+  "balancing": {
+    "easy_diamond_reward": 5,
+    "medium_diamond_reward": 10,
+    "hard_diamond_reward": 15,
+    "open_threshold": 200,
+    "full_amount": 400,
+    "unlock_level": 20,
+    "hours_between_auto_show": 48
+  }
+}

@@ -1,0 +1,184 @@
+
+{
+    "challenge_definitions_v2" : [
+        {
+            "id" : "collect_gem_red",
+            "task" : "collect_gem",
+            "item" : "red_before_hurray",
+            "unlock_level" : 1,
+            "easy"         : 100,
+            "medium"       : 440,
+            "hard"         : 1575
+        },
+        {
+            "id" : "collect_gem_green",
+            "task" : "collect_gem",
+            "item" : "green_before_hurray",
+            "unlock_level" : 1,
+            "easy"         : 100,
+            "medium"       : 440,
+            "hard"         : 1575
+        },
+        {
+            "id" : "collect_gem_blue",
+            "task" : "collect_gem",
+            "item" : "blue_before_hurray",
+            "unlock_level" : 1,
+            "easy"         : 100,
+            "medium"       : 440,
+            "hard"         : 1575
+        },
+        {
+            "id" : "collect_gem_purple",
+            "task" : "collect_gem",
+            "item" : "purple_before_hurray",
+            "unlock_level" : 1,
+            "easy"         : 100,
+            "medium"       : 440,
+            "hard"         : 1575
+        },
+        {
+            "id" : "collect_gem_yellow",
+            "task" : "collect_gem",
+            "item" : "yellow_before_hurray",
+            "unlock_level" : 1,
+            "easy"         : 100,
+            "medium"       : 440,
+            "hard"         : 1575
+        },
+        {
+            "id" : "collect_gem_coins",
+            "task" : "collect_gem",
+            "item" : "coins_before_hurray",
+            "unlock_level" : 1,
+            "easy"         : 100,
+            "medium"       : 440,
+            "hard"         : 1575,
+            "predefined_order" : 1
+        },
+        {
+            "id" : "collect_gem_orange",
+            "task" : "collect_gem",
+            "item" : "orange_before_hurray",
+            "unlock_level" : 10,
+            "easy"         : 100,
+            "medium"       : 440,
+            "hard"         : 1575
+        },
+        {
+            "id" : "create_super_linegem",
+            "task" : "create_supergem",
+            "item" : "linegem",
+            "unlock_level" : 1,
+            "easy"         : 12,
+            "medium"       : 50,
+            "hard"         : 120
+        },
+        {
+            "id" : "create_super_bomb",
+            "task" : "create_supergem",
+            "item" : "bomb",
+            "unlock_level" : 1,
+            "easy"         : 6,
+            "medium"       : 25,
+            "hard"         : 60
+        },
+        {
+            "id" : "create_super_rainbow",
+            "task" : "create_supergem",
+            "item" : "rainbow",
+            "unlock_level" : 1,
+            "easy"         : 1,
+            "medium"       : 6,
+            "hard"         : 17
+        },
+        {
+            "id" : "create_super_fish",
+            "task" : "create_supergem",
+            "item" : "fish",
+            "unlock_level" : 1,
+            "easy"         : 12,
+            "medium"       : 48,
+            "hard"         : 116,
+            "predefined_order" : 3
+        },
+        {
+            "id" : "match_super_line_bomb",
+            "task" : "match_supergems",
+            "item" : "linegem_bomb",
+            "unlock_level" : 1,
+            "easy"         : -1,
+            "medium"       : 6,
+            "hard"         : 15
+        },
+        {
+            "id" : "match_super_line_rainbow",
+            "task" : "match_supergems",
+            "item" : "linegem_rainbow",
+            "unlock_level" : 1,
+            "easy"         : -1,
+            "medium"       : 4,
+            "hard"         : 14
+        },
+        {
+            "id" : "match_super_bomb_rainbow",
+            "task" : "match_supergems",
+            "item" : "bomb_rainbow",
+            "unlock_level" : 1,
+            "easy"         : -1,
+            "medium"       : 4,
+            "hard"         : 14
+        },
+        {
+            "id" : "match_super_line_line",
+            "task" : "match_supergems",
+            "item" : "linegem_linegem",
+            "unlock_level" : 1,
+            "easy"         : -1,
+            "medium"       : 6,
+            "hard"         : 23
+        },
+        {
+            "id" : "match_super_bomb_bomb",
+            "task" : "match_supergems",
+            "item" : "bomb_bomb",
+            "unlock_level" : 1,
+            "easy"         : -1,
+            "medium"       : 4,
+            "hard"         : 9,
+            "predefined_order" : 2
+        },
+        {
+            "id" : "match_super_rainbow_rainbow",
+            "task" : "match_supergems",
+            "item" : "rainbow_rainbow",
+            "unlock_level" : 1,
+            "easy"         : -1,
+            "medium"       : 3,
+            "hard"         : 9
+        }
+    ],
+    "balancing_v2"             : {
+        "mystery_box_paw_price" : 400,
+        "paw_reward_easy"       : 10,
+        "paw_reward_medium"     : 30,
+        "paw_reward_hard"       : 80,
+        "challenge_extend_diamond_price" : 25,
+        "challenge_extend_minutes"       : 180,
+        "icon_enabled_level"             : 5,
+        "play_minimum_level"             : 18,
+        "easy_additional_reward"         : "coins",
+        "easy_additional_amount"         : 25,
+        "medium_additional_reward"       : "diamonds",
+        "medium_additional_amount"       : 3,
+        "hard_additional_reward"         : "diamonds",
+        "hard_additional_amount"         : 6,
+        "cool_down_timer_minutes"        : 480,
+        "diamond_skip_price"             : 2,
+        "easy_diamond_skip_price"        : 1,
+        "medium_diamond_skip_price"      : 2,
+        "hard_diamond_skip_price"        : 3,
+        "reset_time_day"                 : 0,
+        "reset_time_minutes"             : 1
+    }
+}

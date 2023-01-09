@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0395e0a7cd52873611bc40e03888d150, type: 3}
+  m_Name: "ChameleonMatchAnimator"
+  m_EditorClassIdentifier: 
+  boardView: {fileID: 0}
+  animController: {fileID: 0}
+  dropAnimator: {fileID: 0}
+  duration: 0.3
+  matchAnimator: {fileID: 11400000, guid: d77f8c331cdf4210af7e9dd9f42a8723, type: 2}
+  updateGemFx: {fileID: 1790704293682829688, guid: cb63786a009d413bb73ec413f410a0b2, type: 2}
+  chameleonCollectedFx: {fileID: 1790704293682829260, guid: 3533b8daded6436ba8929abcf577bc68, type: 2}
+  colorChangeDelay: 0.3
+  colorChangeBlockingDelay: 0.5

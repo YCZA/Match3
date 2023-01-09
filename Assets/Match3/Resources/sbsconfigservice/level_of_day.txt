@@ -1,0 +1,117 @@
+{
+  "general": {
+    "unlock_level": 27,
+    "start_hour": 9,
+    "control_reward_1_type": "diamonds",
+    "control_reward_1_amount": 15,
+    "control_reward_2_type": "lives_unlimited",
+    "control_reward_2_amount": 30
+  },
+  "rewards": [
+    {
+      "day": 1,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 30
+    },
+    {
+      "day": 2,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 35
+    },
+    {
+      "day": 3,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 40
+    },
+    {
+      "day": 4,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 45
+    },
+    {
+      "day": 5,
+      "reward_1_type": "boost_hammer",
+      "reward_1_amount": 1,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 50
+    },
+    {
+      "day": 6,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 55
+    },
+    {
+      "day": 7,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 60
+    },
+    {
+      "day": 8,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 65
+    },
+    {
+      "day": 9,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 70
+    },
+    {
+      "day": 10,
+      "reward_1_type": "boost_star",
+      "reward_1_amount": 1,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 75
+    },
+    {
+      "day": 11,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 80
+    },
+    {
+      "day": 12,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 85
+    },
+    {
+      "day": 13,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 90
+    },
+    {
+      "day": 14,
+      "reward_1_type": "diamonds",
+      "reward_1_amount": 15,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 105
+    },
+    {
+      "day": 15,
+      "reward_1_type": "boost_rainbow",
+      "reward_1_amount": 1,
+      "reward_2_type": "lives_unlimited",
+      "reward_2_amount": 120
+    }
+  ]
+}

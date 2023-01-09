@@ -1,0 +1,5433 @@
+
+{
+    "villager_villager" : [
+        {
+            "dialogue_id" : "generic_01",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How you holding-up?",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_01",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "My favourite hammock was destroyed..."
+        },
+        {
+            "dialogue_id" : "generic_01",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Don't worry, we'll build a new one."
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you think we'll catch the totem-cutter?",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_02",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Yeah... if Cubby gets off his fat tail and helps."
+        },
+        {
+            "dialogue_id" : "generic_03",
+            "chr1"        : "olivia",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Your fur looks so silky...",
+            "lvl_start"   : 150,
+            "lvl_end"     : 160
+        },
+        {
+            "dialogue_id" : "generic_03",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Thanks, I've been grooming all day.",
+            "emo_reaction_chr2" : "smile"
+        },
+        {
+            "dialogue_id" : "generic_04",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The earthquake destroyed my scratching post.",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_04",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Try the palm trees."
+        },
+        {
+            "dialogue_id" : "generic_05",
+            "chr1"        : "kip",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Lily, did you drink all my cream?",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_05",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It spilled!"
+        },
+        {
+            "dialogue_id" : "generic_05",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "... into my mouth."
+        },
+        {
+            "dialogue_id" : "generic_06",
+            "chr1"        : "kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Let's play chase!",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_07",
+            "chr1"        : "kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The totem-cutter is a monster!",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_07",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "Why won't anyone believe me?"
+        },
+        {
+            "dialogue_id" : "generic_07",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "You blame everything on monsters."
+        },
+        {
+            "dialogue_id" : "generic_07",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Like the time you licked my bananas..."
+        },
+        {
+            "dialogue_id" : "generic_07",
+            "sentence"    : 5,
+            "who"         : "chr2",
+            "text"        : "...and the time you chewed my socks..."
+        },
+        {
+            "dialogue_id" : "generic_07",
+            "sentence"    : 6,
+            "who"         : "chr1",
+            "text"        : "OK, OK, I get it."
+        },
+        {
+            "dialogue_id" : "generic_08",
+            "chr1"        : "kip",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How much milk do I need to get fat?",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_08",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "Like you. "
+        },
+        {
+            "dialogue_id" : "generic_08",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "It's genetic!"
+        },
+        {
+            "dialogue_id" : "generic_08",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Sorry..."
+        },
+        {
+            "dialogue_id" : "generic_09",
+            "chr1"        : "kip",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ava, are the workers really your brothers? ",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_09",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Yep, we were a big litter."
+        },
+        {
+            "dialogue_id" : "generic_10",
+            "chr1"        : "elsie",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How's  it going bro?",
+            "lvl_start"   : 50,
+            "lvl_end"     : 500
+        },
+        {
+            "dialogue_id" : "generic_10",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I drank a whole cup of milk. "
+        },
+        {
+            "dialogue_id" : "generic_10",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I'm trying to get fat like Cubby"
+        },
+        {
+            "dialogue_id" : "generic_10",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "You got a long way to go."
+        },
+        {
+            "dialogue_id" : "generic_11",
+            "chr1"        : "kip",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I'm bored, Ava.",
+            "lvl_start"   : 150,
+            "lvl_end"     : 161
+        },
+        {
+            "dialogue_id" : "generic_11",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Wanna do some chores?"
+        },
+        {
+            "dialogue_id" : "generic_11",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Errr..."
+        },
+        {
+            "dialogue_id" : "generic_11",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "There's plants that need sniffing! "
+        },
+        {
+            "dialogue_id" : "generic_12",
+            "chr1"        : "any",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ava, this area used to have so many trees.",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_12",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Can we plant some more?"
+        },
+        {
+            "dialogue_id" : "generic_12",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "I'll need approval from the Chief. "
+        },
+        {
+            "dialogue_id" : "generic_13",
+            "chr1"        : "kip",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ava, can we plant more flowers?",
+            "lvl_start"   : 300,
+            "lvl_end"     : 600
+        },
+        {
+            "dialogue_id" : "generic_13",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "If the Chief agrees, I'll get to work."
+        },
+        {
+            "dialogue_id" : "generic_14",
+            "chr1"        : "ava",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr2",
+            "text"        : "You know what we need?",
+            "lvl_start"   : 150,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_14",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Lot's of hammocks. Catnaps are important! "
+        },
+        {
+            "dialogue_id" : "generic_14",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Hmm, maybe the Chief will build a few."
+        },
+        {
+            "dialogue_id" : "generic_15",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The earthquake broke our hut!",
+            "lvl_start"   : 1,
+            "lvl_end"     : 9
+        },
+        {
+            "dialogue_id" : "generic_15",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Don\u2019t worry bro, the Chief\u2019s got everything under control."
+        },
+        {
+            "dialogue_id" : "generic_16",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Everything\u2019s smashed\u2026 this is clawful...",
+            "lvl_start"   : 1,
+            "lvl_end"     : 5
+        },
+        {
+            "dialogue_id" : "generic_16",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Stay pawsitive, Kip! We can rebuild!"
+        },
+        {
+            "dialogue_id" : "generic_17",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Mr. Crabby ran away\u2026 he was my best friend.",
+            "lvl_start"   : 6,
+            "lvl_end"     : 10
+        },
+        {
+            "dialogue_id" : "generic_17",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief is gonna find your pet, Kip. Hold on!"
+        },
+        {
+            "dialogue_id" : "generic_18",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Is our hut fixed? I gotta check on my toys.",
+            "lvl_start"   : 6,
+            "lvl_end"     : 9
+        },
+        {
+            "dialogue_id" : "generic_18",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief\u2019s working on it. Go chase your tail!"
+        },
+        {
+            "dialogue_id" : "generic_19",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elsie, why did the Great Totem fall?",
+            "lvl_start"   : 1,
+            "lvl_end"     : 10
+        },
+        {
+            "dialogue_id" : "generic_19",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I don\u2019t know Kip. Old age? Termites?"
+        },
+        {
+            "dialogue_id" : "generic_20",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why didn\u2019t our totem stop the earthquake, like usual?",
+            "lvl_start"   : 1,
+            "lvl_end"     : 10
+        },
+        {
+            "dialogue_id" : "generic_20",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It must\u2019ve fallen last night, Kip. "
+        },
+        {
+            "dialogue_id" : "generic_21",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elsie, I saw a scary person on the beach last night\u2026",
+            "lvl_start"   : 1,
+            "lvl_end"     : 10
+        },
+        {
+            "dialogue_id" : "generic_21",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I told you, it was just a bad dream, Kip. "
+        },
+        {
+            "dialogue_id" : "generic_22",
+            "chr1"        : "kip",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Who in the tribe would cut down the Great Totem?",
+            "lvl_start"   : 12,
+            "lvl_end"     : 29
+        },
+        {
+            "dialogue_id" : "generic_22",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What a clawful thing to do, Kip..."
+        },
+        {
+            "dialogue_id" : "generic_23",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elsie, have you found the guard yet?",
+            "lvl_start"   : 12,
+            "lvl_end"     : 18
+        },
+        {
+            "dialogue_id" : "generic_23",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief is on it, Ava. We gotta clear the rubble first."
+        },
+        {
+            "dialogue_id" : "generic_24",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Mr. Crabby needs ants! He\u2019s hungry!",
+            "lvl_start"   : 12,
+            "lvl_end"     : 13
+        },
+        {
+            "dialogue_id" : "generic_24",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "OK, Kip! I wrote the task in Chief\u2019s diary."
+        },
+        {
+            "dialogue_id" : "generic_25",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "It\u2019s furrbidden to touch the Great Totem, let alone cut it down!",
+            "lvl_start"   : 12,
+            "lvl_end"     : 25
+        },
+        {
+            "dialogue_id" : "generic_25",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Maybe it was a mistake?"
+        },
+        {
+            "dialogue_id" : "generic_25",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "MISTAKE!? You're too trusting, Elsie. "
+        },
+        {
+            "dialogue_id" : "generic_26",
+            "chr1"        : "elsie",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I hope we find the guard soon!",
+            "lvl_start"   : 12,
+            "lvl_end"     : 13
+        },
+        {
+            "dialogue_id" : "generic_26",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "That fatty probably slept through the earthquake."
+        },
+        {
+            "dialogue_id" : "generic_26",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Don\u2019t fat cat shame, Ava."
+        },
+        {
+            "dialogue_id" : "generic_27",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I'm FURRIOUS, Elsie!",
+            "lvl_start"   : 12,
+            "lvl_end"     : 25
+        },
+        {
+            "dialogue_id" : "generic_27",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "I can't believe someone cut down the Great Totem.",
+            "lvl_start"   : 21,
+            "lvl_end"     : 30
+        },
+        {
+            "dialogue_id" : "generic_27",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Calm down Ava... We'll get to the bottom of this. "
+        },
+        {
+            "dialogue_id" : "generic_28",
+            "chr1"        : "elsie",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, who cut down the totem? Got any suspects?",
+            "lvl_start"   : 21,
+            "lvl_end"     : 30
+        },
+        {
+            "dialogue_id" : "generic_28",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm, I can\u2019t think straight on an empty belly."
+        },
+        {
+            "dialogue_id" : "generic_28",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "But I\u2019ll find the purrpetrator!",
+            "lvl_start"   : 21,
+            "lvl_end"     : 30
+        },
+        {
+            "dialogue_id" : "generic_29",
+            "chr1"        : "cubby",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ava, once the grill is fixed, you wanna eat with me?",
+            "lvl_start"   : 21,
+            "lvl_end"     : 22
+        },
+        {
+            "dialogue_id" : "generic_29",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I want you to move your fat tail and catch the totem cutter!"
+        },
+        {
+            "dialogue_id" : "generic_29",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "My tail's 99% muscle!"
+        },
+        {
+            "dialogue_id" : "generic_30",
+            "chr1"        : "kip",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby are you gonna grill honey bananas?",
+            "lvl_start"   : 21,
+            "lvl_end"     : 30
+        },
+        {
+            "dialogue_id" : "generic_30",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Sure thing, Kip. Once the grill is fixed!"
+        },
+        {
+            "dialogue_id" : "generic_31",
+            "chr1"        : "kip",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ava I saw a monster on the beach last night\u2026",
+            "lvl_start"   : 21,
+            "lvl_end"     : 30
+        },
+        {
+            "dialogue_id" : "generic_31",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I haven\u2019t got time for games, Kip. Go bother your sister."
+        },
+        {
+            "dialogue_id" : "generic_32",
+            "chr1"        : "kip",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, your belly\u2019s purring!",
+            "lvl_start"   : 21,
+            "lvl_end"     : 30
+        },
+        {
+            "dialogue_id" : "generic_32",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I\u2019m starving Kip! We gotta get that grill fixed."
+        },
+        {
+            "dialogue_id" : "generic_33",
+            "chr1"        : "any",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby did you question everyone yet?",
+            "lvl_start"   : 31,
+            "lvl_end"     : 39
+        },
+        {
+            "dialogue_id" : "generic_33",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I\u2019m still gathering evidence!"
+        },
+        {
+            "dialogue_id" : "generic_33",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I\u2019ll find the PURRpertrator of this crime!"
+        },
+        {
+            "dialogue_id" : "generic_34",
+            "chr1"        : "any",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How's the investigation going?",
+            "lvl_start"   : 31,
+            "lvl_end"     : 39
+        },
+        {
+            "dialogue_id" : "generic_34",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Tough... "
+        },
+        {
+            "dialogue_id" : "generic_34",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I might need to take another breakfast break!"
+        },
+        {
+            "dialogue_id" : "generic_35",
+            "chr1"        : "kip",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Who do you think cut down the totem, Ava?",
+            "lvl_start"   : 31,
+            "lvl_end"     : 39
+        },
+        {
+            "dialogue_id" : "generic_35",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I don't trust anyone Kip. Keep your eyes peeled!"
+        },
+        {
+            "dialogue_id" : "generic_36",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I don't think Cubby knows what he's doing, Elsie.",
+            "lvl_start"   : 31,
+            "lvl_end"     : 39
+        },
+        {
+            "dialogue_id" : "generic_36",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Don't worry, Chief is helping him with the investigation. "
+        },
+        {
+            "dialogue_id" : "generic_37",
+            "chr1"        : "elsie",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, you're covered in sand. Take a bath.",
+            "lvl_start"   : 30,
+            "lvl_end"     : 45
+        },
+        {
+            "dialogue_id" : "generic_37",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I don't wanna..."
+        },
+        {
+            "dialogue_id" : "generic_37",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "No brother of mine is gonna be badly groomed!"
+        },
+        {
+            "dialogue_id" : "generic_37",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "But I hate getting hairballs!"
+        },
+        {
+            "dialogue_id" : "generic_38",
+            "chr1"        : "ava",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, why aren't you searching for this 'monster'?",
+            "lvl_start"   : 41,
+            "lvl_end"     : 47
+        },
+        {
+            "dialogue_id" : "generic_38",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I need my butt scratcher... I mean spear!"
+        },
+        {
+            "dialogue_id" : "generic_38",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Once Chief fixes my hut, I'll grab it."
+        },
+        {
+            "dialogue_id" : "generic_39",
+            "chr1"        : "any",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, tell me more about this 'monster' you saw last night?",
+            "lvl_start"   : 41,
+            "lvl_end"     : 51
+        },
+        {
+            "dialogue_id" : "generic_39",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It wore a cloak and had glowing eyes... Like fireflies..."
+        },
+        {
+            "dialogue_id" : "generic_39",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "It ran into the jungle when the earthquake started."
+        },
+        {
+            "dialogue_id" : "generic_40",
+            "chr1"        : "elsie",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How's the repairs on your hut going?",
+            "lvl_start"   : 41,
+            "lvl_end"     : 47
+        },
+        {
+            "dialogue_id" : "generic_40",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief's working on it! "
+        },
+        {
+            "dialogue_id" : "generic_41",
+            "chr1"        : "elsie",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you think Kip really saw a monster?",
+            "lvl_start"   : 41,
+            "lvl_end"     : 51
+        },
+        {
+            "dialogue_id" : "generic_41",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "No way, there's no dangerous animals on this island. "
+        },
+        {
+            "dialogue_id" : "generic_41",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "That's why the ancestors settled here. "
+        },
+        {
+            "dialogue_id" : "generic_42",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elsie, tell me the story of the ancestors again!",
+            "lvl_start"   : 41,
+            "lvl_end"     : 52
+        },
+        {
+            "dialogue_id" : "generic_42",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Many moons ago the ancestors lived on a cold island..."
+        },
+        {
+            "dialogue_id" : "generic_42",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "They had problems with the other mammals there... so they left."
+        },
+        {
+            "dialogue_id" : "generic_42",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "On a big raft and into the ocean?"
+        },
+        {
+            "dialogue_id" : "generic_42",
+            "sentence"    : 5,
+            "who"         : "chr2",
+            "text"        : "Yes! And they found Tropicat Island, all empty and secluded."
+        },
+        {
+            "dialogue_id" : "generic_42",
+            "sentence"    : 6,
+            "who"         : "chr1",
+            "text"        : "Empty because of all the EARTHQUAKES!"
+        },
+        {
+            "dialogue_id" : "generic_42",
+            "sentence"    : 7,
+            "who"         : "chr2",
+            "text"        : "Purrcisely! But the Great Totem calmed the earthquakes and our village was built."
+        },
+        {
+            "dialogue_id" : "generic_43",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "If Cubby did his job, the Great Totem would've never fallen. ",
+            "lvl_start"   : 41,
+            "lvl_end"     : 53
+        },
+        {
+            "dialogue_id" : "generic_43",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "He should be guarding it night and day. "
+        },
+        {
+            "dialogue_id" : "generic_43",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Give him a break, Ava. "
+        },
+        {
+            "dialogue_id" : "generic_44",
+            "chr1"        : "any",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "What did you see the night of the earthquake, Kip?",
+            "lvl_start"   : 51,
+            "lvl_end"     : 60
+        },
+        {
+            "dialogue_id" : "generic_44",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I saw the monster on the beach... In the moonlight. "
+        },
+        {
+            "dialogue_id" : "generic_44",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "It had a big axe, glowing eyes... But..."
+        },
+        {
+            "dialogue_id" : "generic_44",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "But what, Kip? "
+        },
+        {
+            "dialogue_id" : "generic_45",
+            "chr1"        : "elsie",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How\u2019s the search for the totem cutter going?",
+            "lvl_start"   : 56,
+            "lvl_end"     : 60
+        },
+        {
+            "dialogue_id" : "generic_45",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I\u2019ve found some strange animal tracks."
+        },
+        {
+            "dialogue_id" : "generic_45",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Kip\u2019s right\u2026 there\u2019s something out there\u2026"
+        },
+        {
+            "dialogue_id" : "generic_46",
+            "chr1"        : "elsie",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby and Chief are finding strange tracks in the jungle.",
+            "lvl_start"   : 56,
+            "lvl_end"     : 60
+        },
+        {
+            "dialogue_id" : "generic_46",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "We should show them to Olivia the wildlife expert."
+        },
+        {
+            "dialogue_id" : "generic_46",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "She'll identify them. "
+        },
+        {
+            "dialogue_id" : "generic_47",
+            "chr1"        : "ava",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia any idea what animal those tracks belong to?",
+            "lvl_start"   : 61,
+            "lvl_end"     : 69
+        },
+        {
+            "dialogue_id" : "generic_47",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I need to check the wildlife encyclopedia..."
+        },
+        {
+            "dialogue_id" : "generic_47",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "As soon as my study is fixed, I can research!"
+        },
+        {
+            "dialogue_id" : "generic_48",
+            "chr1"        : "kip",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia the totem-cutter isn't a monster?",
+            "lvl_start"   : 61,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_48",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "No Kip\u2026 it\u2019s somekind of foreign animal! "
+        },
+        {
+            "dialogue_id" : "generic_48",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Did it sail on a boat? Like the ancestors did?"
+        },
+        {
+            "dialogue_id" : "generic_48",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "I suppose it must have, Kip. "
+        },
+        {
+            "dialogue_id" : "generic_49",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia is this foreign animal dangerous?",
+            "lvl_start"   : 61,
+            "lvl_end"     : 69
+        },
+        {
+            "dialogue_id" : "generic_49",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Well\u2026 if it cut down the totem, it must be aggressive\u2026"
+        },
+        {
+            "dialogue_id" : "generic_49",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Once I get inside my study I can identify its tracks and find out more!"
+        },
+        {
+            "dialogue_id" : "generic_50",
+            "chr1"        : "elsie",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How\u2019s the repairs going, Olivia?",
+            "lvl_start"   : 61,
+            "lvl_end"     : 69
+        },
+        {
+            "dialogue_id" : "generic_50",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief\u2019s fixing-up my study! Should be done soon!"
+        },
+        {
+            "dialogue_id" : "generic_51",
+            "chr1"        : "any",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Have we been visited by a foreign animal before?",
+            "lvl_start"   : 61,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_51",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Never! The ancestors came here to get away from others..."
+        },
+        {
+            "dialogue_id" : "generic_51",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "They almost perished reaching this island. "
+        },
+        {
+            "dialogue_id" : "generic_52",
+            "chr1"        : "elsie",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia says the totem-cutter comes from a different island.",
+            "lvl_start"   : 61,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_52",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I didn\u2019t think it was possible to sail so far! "
+        },
+        {
+            "dialogue_id" : "generic_52",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "If the ancestors did it\u2026 I guess others can too."
+        },
+        {
+            "dialogue_id" : "generic_53",
+            "chr1"        : "kip",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby have you ever visited another island before?",
+            "lvl_start"   : 61,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_53",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "No way, Kip. "
+        },
+        {
+            "dialogue_id" : "generic_53",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Who knows what\u2019s out there..."
+        },
+        {
+            "dialogue_id" : "generic_54",
+            "chr1"        : "ava",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The tribe is scared\u2026 no-one\u2019s seen a foreign creature before\u2026",
+            "lvl_start"   : 61,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_54",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief has it under control. Don\u2019t worry."
+        },
+        {
+            "dialogue_id" : "generic_55",
+            "chr1"        : "kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Who wrote the wildlife encyclopedia?",
+            "lvl_start"   : 71,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_55",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It was written long ago by the ancestors."
+        },
+        {
+            "dialogue_id" : "generic_55",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "They travelled to many islands before settling here."
+        },
+        {
+            "dialogue_id" : "generic_56",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Have you seen any missing pages lying around?",
+            "lvl_start"   : 71,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_56",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "They\u2019re from Olivia\u2019s wildlife encyclopedia."
+        },
+        {
+            "dialogue_id" : "generic_56",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I\u2019ll keep a look-out!"
+        },
+        {
+            "dialogue_id" : "generic_57",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Look out for those missing encyclopedia pages!",
+            "lvl_start"   : 71,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_57",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "\u2018Animals beginning with D\u2019..."
+        },
+        {
+            "dialogue_id" : "generic_58",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, what kinds of animals are on different islands?",
+            "lvl_start"   : 65,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_58",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "There's the GOAT!"
+        },
+        {
+            "dialogue_id" : "generic_58",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "A bizarre creature that eats everything, until there\u2019s nothing left."
+        },
+        {
+            "dialogue_id" : "generic_58",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "I'm glad the ancestors settled on an island without goats!"
+        },
+        {
+            "dialogue_id" : "generic_59",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, what kinds of animals are on different islands?",
+            "lvl_start"   : 65,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_59",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm\u2026 there\u2019s things called PIGS! "
+        },
+        {
+            "dialogue_id" : "generic_59",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Terrifying creatures that build villages out of poop!"
+        },
+        {
+            "dialogue_id" : "generic_59",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Eww\u2026 I'm glad our ancestors settled here. "
+        },
+        {
+            "dialogue_id" : "generic_60",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, what kinds of animals are on different islands?",
+            "lvl_start"   : 65,
+            "lvl_end"     : 80
+        },
+        {
+            "dialogue_id" : "generic_60",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "There's the BEAR!"
+        },
+        {
+            "dialogue_id" : "generic_60",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "A criminal creature that always steals picnic baskets."
+        },
+        {
+            "dialogue_id" : "generic_60",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "I'm glad our ancestors settled far away from bears. "
+        },
+        {
+            "dialogue_id" : "generic_61",
+            "chr1"        : "kip",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby have you ever visited another island before?",
+            "lvl_start"   : 81,
+            "lvl_end"     : 121
+        },
+        {
+            "dialogue_id" : "generic_61",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "No way, Kip. "
+        },
+        {
+            "dialogue_id" : "generic_61",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Who knows what\u2019s out there..."
+        },
+        {
+            "dialogue_id" : "generic_62",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I wonder where the Chief disappears to every night.",
+            "lvl_start"   : 81,
+            "lvl_end"     : 121
+        },
+        {
+            "dialogue_id" : "generic_62",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Maybe {userName} has something better to do?"
+        },
+        {
+            "dialogue_id" : "generic_62",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Something better than rebuilding our village!?"
+        },
+        {
+            "dialogue_id" : "generic_63",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, how's your panic attack?",
+            "lvl_start"   : 81,
+            "lvl_end"     : 90
+        },
+        {
+            "dialogue_id" : "generic_63",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "P-p-p-panicky..."
+        },
+        {
+            "dialogue_id" : "generic_63",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "The catnip is on it's way!"
+        },
+        {
+            "dialogue_id" : "generic_64",
+            "chr1"        : "ava",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, what are we gonna do about this dog?",
+            "lvl_start"   : 81,
+            "lvl_end"     : 90
+        },
+        {
+            "dialogue_id" : "generic_64",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I was planning on taking a catnap and waiting for stuff to work itself out. "
+        },
+        {
+            "dialogue_id" : "generic_64",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Maybe we should make Kip the guard..."
+        },
+        {
+            "dialogue_id" : "generic_65",
+            "chr1"        : "kip",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I wanna play chase!",
+            "lvl_start"   : 81,
+            "lvl_end"     : 160
+        },
+        {
+            "dialogue_id" : "generic_65",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Now's not the time Kip... There's a dangerous animal loose.  "
+        },
+        {
+            "dialogue_id" : "generic_65",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Stay away from the jungle!"
+        },
+        {
+            "dialogue_id" : "generic_66",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Can I come fruit-picking with you and Chief?",
+            "lvl_start"   : 81,
+            "lvl_end"     : 100
+        },
+        {
+            "dialogue_id" : "generic_66",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Not with this 'dog' thingy loose on the island, Kip. "
+        },
+        {
+            "dialogue_id" : "generic_66",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Stay close to Cubby... "
+        },
+        {
+            "dialogue_id" : "generic_66",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Actually, you're probably safer near Ava."
+        },
+        {
+            "dialogue_id" : "generic_67",
+            "chr1"        : "elsie",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia I heard you\u2019re in love with Cubby! ",
+            "lvl_start"   : 91,
+            "lvl_end"     : 130
+        },
+        {
+            "dialogue_id" : "generic_67",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Have you been spying on me?"
+        },
+        {
+            "dialogue_id" : "generic_67",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Someone\u2019s gotta keep track of the gossip!"
+        },
+        {
+            "dialogue_id" : "generic_68",
+            "chr1"        : "elsie",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, have you seen the shaman?",
+            "lvl_start"   : 91,
+            "lvl_end"     : 100
+        },
+        {
+            "dialogue_id" : "generic_68",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I swear I saw his apprentice running around..."
+        },
+        {
+            "dialogue_id" : "generic_68",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Hmm... Watch out for Lily. She's a little strange."
+        },
+        {
+            "dialogue_id" : "generic_69",
+            "chr1"        : "any",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, I heard the shaman's apprentice has a crush on you.",
+            "lvl_start"   : 91,
+            "lvl_end"     : 100
+        },
+        {
+            "dialogue_id" : "generic_69",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Mr. Crabby says I\u2019m too young for a committed relationship."
+        },
+        {
+            "dialogue_id" : "generic_69",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Crabs can't talk Kip..."
+        },
+        {
+            "dialogue_id" : "generic_70",
+            "chr1"        : "elsie",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ava, why are you always so mean to Cubby?",
+            "lvl_start"   : 81,
+            "lvl_end"     : 121
+        },
+        {
+            "dialogue_id" : "generic_70",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "He\u2019s always liked you."
+        },
+        {
+            "dialogue_id" : "generic_70",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Cubby's too soft. I need a real tomcat. "
+        },
+        {
+            "dialogue_id" : "generic_70",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "And mind your own business, Elsie."
+        },
+        {
+            "dialogue_id" : "generic_71",
+            "chr1"        : "ava",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, you need to start working out.",
+            "lvl_start"   : 91,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_71",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "The dog is gonna kick your tail when it shows up."
+        },
+        {
+            "dialogue_id" : "generic_71",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I\u2019m working out inside my mind, Ava."
+        },
+        {
+            "dialogue_id" : "generic_71",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "The brain is the most powerful muscle of all."
+        },
+        {
+            "dialogue_id" : "generic_72",
+            "chr1"        : "olivia",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I've read something most intriguing in the encyclopedia!",
+            "lvl_start"   : 91,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_72",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "Many moons ago, some of our ancestors joined a tribe of dogs."
+        },
+        {
+            "dialogue_id" : "generic_72",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "They betrayed their own kind. "
+        },
+        {
+            "dialogue_id" : "generic_72",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Wow\u2026 what happened to them?"
+        },
+        {
+            "dialogue_id" : "generic_72",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Unclear... perhaps they still live with the dogs to this day."
+        },
+        {
+            "dialogue_id" : "generic_73",
+            "chr1"        : "any",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Any sign of the shaman?",
+            "lvl_start"   : 91,
+            "lvl_end"     : 100
+        },
+        {
+            "dialogue_id" : "generic_73",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I saw his apprentice run into the jungle, but she was too fast for me. "
+        },
+        {
+            "dialogue_id" : "generic_73",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "She was talking to someone\u2026 but I couldn\u2019t see who."
+        },
+        {
+            "dialogue_id" : "generic_74",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Are we seriously throwing a tea party for this dog?",
+            "lvl_start"   : 101,
+            "lvl_end"     : 110
+        },
+        {
+            "dialogue_id" : "generic_74",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Calm down Ava\u2026 let\u2019s give Lily a chance."
+        },
+        {
+            "dialogue_id" : "generic_74",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "That kitten is INSANE."
+        },
+        {
+            "dialogue_id" : "generic_75",
+            "chr1"        : "any",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Lily, the dog cut down the Great Totem... He can't be your friend...",
+            "lvl_start"   : 101,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_75",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "That\u2019s not true\u2026 it CAN\u2019T be true\u2026 "
+        },
+        {
+            "dialogue_id" : "generic_75",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Doggy is alone. He\u2019s scared. You just need to meet him."
+        },
+        {
+            "dialogue_id" : "generic_76",
+            "chr1"        : "lily",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, when are we getting married?",
+            "lvl_start"   : 2000,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_76",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Never. You\u2019re stinky and your coconut doll is creepy."
+        },
+        {
+            "dialogue_id" : "generic_76",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Hee, you're so funny Kip."
+        },
+        {
+            "dialogue_id" : "generic_76",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Uh... I gotta go wash my tail."
+        },
+        {
+            "dialogue_id" : "generic_77",
+            "chr1"        : "ava",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Are we seriously throwing a tea party for this dog?",
+            "lvl_start"   : 101,
+            "lvl_end"     : 110
+        },
+        {
+            "dialogue_id" : "generic_77",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Calm down Ava\u2026 let\u2019s give Lily a chance."
+        },
+        {
+            "dialogue_id" : "generic_77",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "That kitten is INSANE."
+        },
+        {
+            "dialogue_id" : "generic_78",
+            "chr1"        : "ava",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Are we seriously throwing a tea party for this dog?",
+            "lvl_start"   : 101,
+            "lvl_end"     : 110
+        },
+        {
+            "dialogue_id" : "generic_78",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Calm down Ava\u2026 let\u2019s give Lily a chance."
+        },
+        {
+            "dialogue_id" : "generic_78",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "That kitten is INSANE."
+        },
+        {
+            "dialogue_id" : "generic_79",
+            "chr1"        : "cubby",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How you doing Olivia?",
+            "lvl_start"   : 101,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_79",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "So much better now I've seen you today!"
+        },
+        {
+            "dialogue_id" : "generic_79",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Aww... Shucks. "
+        },
+        {
+            "dialogue_id" : "generic_80",
+            "chr1"        : "olivia",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I've read something most intriguing in the encyclopedia!",
+            "lvl_start"   : 101,
+            "lvl_end"     : 110
+        },
+        {
+            "dialogue_id" : "generic_80",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "Many moons ago, some of our ancestors joined a tribe of dogs."
+        },
+        {
+            "dialogue_id" : "generic_80",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "They betrayed their own kind. "
+        },
+        {
+            "dialogue_id" : "generic_80",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Wow\u2026 what happened to them?"
+        },
+        {
+            "dialogue_id" : "generic_80",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Unclear... perhaps they still live with the dogs to this day."
+        },
+        {
+            "dialogue_id" : "generic_81",
+            "chr1"        : "elsie",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia I heard you\u2019re in love with Cubby! ",
+            "lvl_start"   : 101,
+            "lvl_end"     : 130
+        },
+        {
+            "dialogue_id" : "generic_81",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Have you been spying on me?"
+        },
+        {
+            "dialogue_id" : "generic_81",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Someone\u2019s gotta keep track of the gossip!"
+        },
+        {
+            "dialogue_id" : "generic_82",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I wonder where the Chief disappears to every night.",
+            "lvl_start"   : 111,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_82",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Maybe {userName} has something better to do?"
+        },
+        {
+            "dialogue_id" : "generic_82",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Something better than rebuilding our village!?"
+        },
+        {
+            "dialogue_id" : "generic_83",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, what kinds of animals are on different islands?",
+            "lvl_start"   : 111,
+            "lvl_end"     : 121
+        },
+        {
+            "dialogue_id" : "generic_83",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm\u2026 there\u2019s things called PIGS! "
+        },
+        {
+            "dialogue_id" : "generic_83",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Terrifying creatures that build villages out of poop!"
+        },
+        {
+            "dialogue_id" : "generic_83",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Eww\u2026 I'm glad our ancestors settled here. "
+        },
+        {
+            "dialogue_id" : "generic_84",
+            "chr1"        : "any",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Lily, the dog cut down the Great Totem... He can't be your friend...",
+            "lvl_start"   : 2000,
+            "lvl_end"     : 901
+        },
+        {
+            "dialogue_id" : "generic_84",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "That\u2019s not true\u2026 it CAN\u2019T be true\u2026 "
+        },
+        {
+            "dialogue_id" : "generic_84",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Doggy is alone. He\u2019s scared. You just need to meet him."
+        },
+        {
+            "dialogue_id" : "generic_85",
+            "chr1"        : "lily",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, when are we getting married?",
+            "lvl_start"   : 2000
+        },
+        {
+            "dialogue_id" : "generic_85",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Never. You\u2019re stinky and your coconut doll is creepy."
+        },
+        {
+            "dialogue_id" : "generic_85",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Hee, you're so funny Kip."
+        },
+        {
+            "dialogue_id" : "generic_85",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Uh... I gotta go wash my tail."
+        },
+        {
+            "dialogue_id" : "generic_86",
+            "chr1"        : "any",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Lily, just tell us where the shaman is.",
+            "lvl_start"   : 111,
+            "lvl_end"     : 120
+        },
+        {
+            "dialogue_id" : "generic_86",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "We need his help to catch the dog."
+        },
+        {
+            "dialogue_id" : "generic_86",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Doggy is my friend... I'm not helping you meanies."
+        },
+        {
+            "dialogue_id" : "generic_87",
+            "chr1"        : "any",
+            "chr2"        : "taka",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka, how are you gonna catch the dog?",
+            "lvl_start"   : 121,
+            "lvl_end"     : 130
+        },
+        {
+            "dialogue_id" : "generic_87",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Well I'm not allowed to cast a fireball of burning rage. "
+        },
+        {
+            "dialogue_id" : "generic_87",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "And I'm definitely not allowed to raise frogs from the grave and form an undead horde. "
+        },
+        {
+            "dialogue_id" : "generic_87",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "So I guess I gotta think of a new spell!"
+        },
+        {
+            "dialogue_id" : "generic_88",
+            "chr1"        : "taka",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I got an idea for a new spell!",
+            "lvl_start"   : 121,
+            "lvl_end"     : 130
+        },
+        {
+            "dialogue_id" : "generic_88",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "I'll create a ball of flame!"
+        },
+        {
+            "dialogue_id" : "generic_88",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "That sounds like a fireball. "
+        },
+        {
+            "dialogue_id" : "generic_88",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "No, no, no... 'ball of flame'... Big difference."
+        },
+        {
+            "dialogue_id" : "generic_89",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Is Taka really crazy?",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_89",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "He chews too much catnip, Kip."
+        },
+        {
+            "dialogue_id" : "generic_89",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I don't want you talking to him. "
+        },
+        {
+            "dialogue_id" : "generic_90",
+            "chr1"        : "lily",
+            "chr2"        : "taka",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Master Taka, you won't hurt the dog, right?",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_90",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "\"Hurt\" is a complicated word my apprentice."
+        },
+        {
+            "dialogue_id" : "generic_90",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Does a fireball hurt if no-one hears you scream in pain?"
+        },
+        {
+            "dialogue_id" : "generic_90",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Uh... Yeah?"
+        },
+        {
+            "dialogue_id" : "generic_90",
+            "sentence"    : 5,
+            "who"         : "chr2",
+            "text"        : "Oh... Maybe it isn't that complicated... "
+        },
+        {
+            "dialogue_id" : "generic_91",
+            "chr1"        : "any",
+            "chr2"        : "taka",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka, a frog tried to bite me today. ",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_91",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Ah... My undead amphibian army need feeding."
+        },
+        {
+            "dialogue_id" : "generic_91",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "I thought we agreed you wouldn't raise anything from the dead."
+        },
+        {
+            "dialogue_id" : "generic_91",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Did I say undead? I mean unwed..."
+        },
+        {
+            "dialogue_id" : "generic_91",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "You have an army of unwed frogs? "
+        },
+        {
+            "dialogue_id" : "generic_91",
+            "sentence"    : 6,
+            "who"         : "chr2",
+            "text"        : "Frogs are covered in pond slime. It kills the romance."
+        },
+        {
+            "dialogue_id" : "generic_91",
+            "sentence"    : 7,
+            "who"         : "chr1",
+            "text"        : "Oh... I didn't know that."
+        },
+        {
+            "dialogue_id" : "generic_92",
+            "chr1"        : "taka",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, why don't you study meowgic and become my apprentice?",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_92",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Cause I wanna be a guard kitty, like Cubby. "
+        },
+        {
+            "dialogue_id" : "generic_92",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "But a shaman wields terrifying power!"
+        },
+        {
+            "dialogue_id" : "generic_92",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Cubby sleeps all day and can fit four bananas in his mouth."
+        },
+        {
+            "dialogue_id" : "generic_92",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Hmm... Impressive."
+        },
+        {
+            "dialogue_id" : "generic_93",
+            "chr1"        : "cubby",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka gives me the creeps. ",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_93",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I heard he killed the last shaman with a fireball."
+        },
+        {
+            "dialogue_id" : "generic_94",
+            "chr1"        : "any",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elsie, do you know where the Chief comes from?",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_94",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm, {userName} doesn't like to talk about that."
+        },
+        {
+            "dialogue_id" : "generic_94",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Chief certainly is the silent type..."
+        },
+        {
+            "dialogue_id" : "generic_95",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka gives me the creeps. ",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_95",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I heard he killed the last shaman with a fireball."
+        },
+        {
+            "dialogue_id" : "generic_96",
+            "chr1"        : "olivia",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka gives me the creeps. ",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_96",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I heard he killed the last shaman with a fireball."
+        },
+        {
+            "dialogue_id" : "generic_97",
+            "chr1"        : "olivia",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka gives me the creeps. ",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_97",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I heard he killed the last shaman with a fireball."
+        },
+        {
+            "dialogue_id" : "generic_98",
+            "chr1"        : "any",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Lily, the dog cut down the Great Totem... He can't be your friend...",
+            "lvl_start"   : 130,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_98",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "That\u2019s not true\u2026 it CAN\u2019T be true\u2026 "
+        },
+        {
+            "dialogue_id" : "generic_98",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Doggy is alone. He\u2019s scared. You just need to meet him."
+        },
+        {
+            "dialogue_id" : "generic_99",
+            "chr1"        : "cubby",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How you doing Olivia?",
+            "lvl_start"   : 121,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_99",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Cubby, I was just thinking about you."
+        },
+        {
+            "dialogue_id" : "generic_99",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I've discovered a new species of herb!  "
+        },
+        {
+            "dialogue_id" : "generic_99",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Ooh, maybe it tastes good with grilled bananas."
+        },
+        {
+            "dialogue_id" : "generic_99",
+            "sentence"    : 5,
+            "who"         : "chr2",
+            "text"        : "We can try it out later."
+        },
+        {
+            "dialogue_id" : "generic_99",
+            "sentence"    : 6,
+            "who"         : "chr1",
+            "text"        : "Sounds like a date!"
+        },
+        {
+            "dialogue_id" : "generic_100",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Did you hear the growling coming from the well?",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_100",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "The dog must be real angry\u2026"
+        },
+        {
+            "dialogue_id" : "generic_101",
+            "chr1"        : "lily",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Don\u2019t hurt doggy! You promise?",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_101",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "That thing is dangerous Lily. It\u2019s not your friend."
+        },
+        {
+            "dialogue_id" : "generic_102",
+            "chr1"        : "ava",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, you better grab the mutt as soon as Chief fixes the well.",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_102",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I\u2019m psyching myself-up!"
+        },
+        {
+            "dialogue_id" : "generic_103",
+            "chr1"        : "ava",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "That dog is toast, Elsie. It\u2019s time for revenge.",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_103",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Calm down, Ava. Remember: \u2018Pause before claws.\u2019"
+        },
+        {
+            "dialogue_id" : "generic_104",
+            "chr1"        : "olivia",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I must conduct a full inspection of the dog!",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_104",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "I\u2019ll study its language, anatomy, stinkiness, slobber density...."
+        },
+        {
+            "dialogue_id" : "generic_104",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "This is so exciting!"
+        },
+        {
+            "dialogue_id" : "generic_105",
+            "chr1"        : "taka",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "This dog might know magic\u2026",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_105",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "I better prepare a few fireballs of rage, just incase."
+        },
+        {
+            "dialogue_id" : "generic_105",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "No Taka\u2026 no fireballs."
+        },
+        {
+            "dialogue_id" : "generic_106",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I can\u2019t believe the dog got stuck in the well.",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_106",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I guess the Sun Ritual made it thirsty."
+        },
+        {
+            "dialogue_id" : "generic_107",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Woah so hot\u2026 ",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_107",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Yeah, the Sun Ritual really worked!"
+        },
+        {
+            "dialogue_id" : "generic_108",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "It's hotter than a pepper patch.",
+            "lvl_start"   : 161,
+            "lvl_end"     : 170
+        },
+        {
+            "dialogue_id" : "generic_108",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "The dog will be begging for water. "
+        },
+        {
+            "dialogue_id" : "generic_109",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, how's the dog doing?",
+            "lvl_start"   : 173,
+            "lvl_end"     : 180
+        },
+        {
+            "dialogue_id" : "generic_109",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "His condition is worsening. "
+        },
+        {
+            "dialogue_id" : "generic_109",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "We should really put a fence around that well. "
+        },
+        {
+            "dialogue_id" : "generic_110",
+            "chr1"        : "any",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, shouldn't you be guarding the prisoner?",
+            "lvl_start"   : 171,
+            "lvl_end"     : 180
+        },
+        {
+            "dialogue_id" : "generic_110",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "He's sleeping. "
+        },
+        {
+            "dialogue_id" : "generic_110",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I heard you should let sleeping dogs lie, or something. "
+        },
+        {
+            "dialogue_id" : "generic_111",
+            "chr1"        : "ava",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why are we caring for this dog?",
+            "lvl_start"   : 171,
+            "lvl_end"     : 180
+        },
+        {
+            "dialogue_id" : "generic_111",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "He's responsible for all this destruction!"
+        },
+        {
+            "dialogue_id" : "generic_111",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "We haven't heard his side of the story. "
+        },
+        {
+            "dialogue_id" : "generic_112",
+            "chr1"        : "elsie",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I can't wait 'til the spring's fixed.",
+            "lvl_start"   : 181,
+            "lvl_end"     : 190
+        },
+        {
+            "dialogue_id" : "generic_112",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "It's been moons since I've had a good bath. "
+        },
+        {
+            "dialogue_id" : "generic_113",
+            "chr1"        : "lily",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Where's doggy?",
+            "lvl_start"   : 181,
+            "lvl_end"     : 190
+        },
+        {
+            "dialogue_id" : "generic_113",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "He's still locked-up, Lily."
+        },
+        {
+            "dialogue_id" : "generic_113",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "But he's not dangerous. "
+        },
+        {
+            "dialogue_id" : "generic_113",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "It's for his own protection. Ava's gone feral!"
+        },
+        {
+            "dialogue_id" : "generic_114",
+            "chr1"        : "lily",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Where's doggy?",
+            "lvl_start"   : 181,
+            "lvl_end"     : 190
+        },
+        {
+            "dialogue_id" : "generic_114",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "He's still locked-up, Lily."
+        },
+        {
+            "dialogue_id" : "generic_114",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "But he's not dangerous. "
+        },
+        {
+            "dialogue_id" : "generic_114",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "It's for his own protection. Ava's gone feral!"
+        },
+        {
+            "dialogue_id" : "generic_115",
+            "chr1"        : "lily",
+            "chr2"        : "taka",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Where's doggy?",
+            "lvl_start"   : 181,
+            "lvl_end"     : 190
+        },
+        {
+            "dialogue_id" : "generic_115",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "He's still locked-up, Lily."
+        },
+        {
+            "dialogue_id" : "generic_115",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "But he's not dangerous. "
+        },
+        {
+            "dialogue_id" : "generic_115",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "It's for his own protection. Ava's gone feral!"
+        },
+        {
+            "dialogue_id" : "generic_116",
+            "chr1"        : "taka",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I must pee in the Spring of Purrification. ",
+            "lvl_start"   : 181,
+            "lvl_end"     : 190
+        },
+        {
+            "dialogue_id" : "generic_116",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What!? Why?"
+        },
+        {
+            "dialogue_id" : "generic_116",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Where do you think it gets its meowgic healing power from?"
+        },
+        {
+            "dialogue_id" : "generic_117",
+            "chr1"        : "any",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elsie, how's the spring coming along?",
+            "lvl_start"   : 181,
+            "lvl_end"     : 190
+        },
+        {
+            "dialogue_id" : "generic_117",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief's working on it! "
+        },
+        {
+            "dialogue_id" : "generic_118",
+            "chr1"        : "elsie",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "So the dog found a message asking for someone to cut down the totem?",
+            "lvl_start"   : 191,
+            "lvl_end"     : 200
+        },
+        {
+            "dialogue_id" : "generic_118",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "And it came with directions to our island. Our HIDDEN island. "
+        },
+        {
+            "dialogue_id" : "generic_118",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Perhaps the ancestors created a map when they sailed here. "
+        },
+        {
+            "dialogue_id" : "generic_118",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Maybe. But they're long gone. "
+        },
+        {
+            "dialogue_id" : "generic_119",
+            "chr1"        : "taka",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you think the dog's telling the truth about the message?",
+            "lvl_start"   : 191,
+            "lvl_end"     : 200
+        },
+        {
+            "dialogue_id" : "generic_119",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Sounds like a shaggy dog tale to me. "
+        },
+        {
+            "dialogue_id" : "generic_120",
+            "chr1"        : "ava",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The dog's lying about the message. ",
+            "lvl_start"   : 191,
+            "lvl_end"     : 200
+        },
+        {
+            "dialogue_id" : "generic_120",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "No-one knows how to find our island. There's no map."
+        },
+        {
+            "dialogue_id" : "generic_120",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "He just stumbled here by accident and wanted to hurt our village. "
+        },
+        {
+            "dialogue_id" : "generic_121",
+            "chr1"        : "lily",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Doggy is telling the truth about the message!",
+            "lvl_start"   : 191,
+            "lvl_end"     : 210
+        },
+        {
+            "dialogue_id" : "generic_121",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "There's someone out there... Someone bad!"
+        },
+        {
+            "dialogue_id" : "generic_122",
+            "chr1"        : "lily",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Doggy, why don't you hide in my hut?",
+            "lvl_start"   : 201,
+            "lvl_end"     : 210
+        },
+        {
+            "dialogue_id" : "generic_122",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "No-one will know..."
+        },
+        {
+            "dialogue_id" : "generic_122",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I'm sorry, Lily. I've caused enough trouble here. "
+        },
+        {
+            "dialogue_id" : "generic_123",
+            "chr1"        : "ava",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "So Cubby let you out of the hut?",
+            "lvl_start"   : 201,
+            "lvl_end"     : 210
+        },
+        {
+            "dialogue_id" : "generic_123",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Yep, I'm a free doggy!"
+        },
+        {
+            "dialogue_id" : "generic_123",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I'm keeping my eye on you. "
+        },
+        {
+            "dialogue_id" : "generic_124",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I swear I'm telling the truth about the message.",
+            "lvl_start"   : 201,
+            "lvl_end"     : 220
+        },
+        {
+            "dialogue_id" : "generic_124",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "There's someone else out there... They tricked me!"
+        },
+        {
+            "dialogue_id" : "generic_125",
+            "chr1"        : "taka",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I'm sensing some strange meowgic on the island. ",
+            "lvl_start"   : 201,
+            "lvl_end"     : 220
+        },
+        {
+            "dialogue_id" : "generic_125",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "Keep your eyes open..."
+        },
+        {
+            "dialogue_id" : "generic_126",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I uh... just wanted to say sorry about the totem cutting...",
+            "lvl_start"   : 211,
+            "lvl_end"     : 220
+        },
+        {
+            "dialogue_id" : "generic_127",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Good afternoon!",
+            "lvl_start"   : 211,
+            "lvl_end"     : 590
+        },
+        {
+            "dialogue_id" : "generic_128",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "May the hounds of Valhowlla guide your way.",
+            "lvl_start"   : 211,
+            "lvl_end"     : 550
+        },
+        {
+            "dialogue_id" : "generic_129",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Can I help you with anything?",
+            "lvl_start"   : 211,
+            "lvl_end"     : 550
+        },
+        {
+            "dialogue_id" : "generic_130",
+            "chr1"        : "any",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How's the rescue mission coming along?",
+            "lvl_start"   : 211,
+            "lvl_end"     : 220
+        },
+        {
+            "dialogue_id" : "generic_130",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief's helping me with a few items!",
+            "lvl_start"   : 211
+        },
+        {
+            "dialogue_id" : "generic_131",
+            "chr1"        : "any",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The swamp crocs swam here from a neighbouring island. ",
+            "lvl_start"   : 211,
+            "lvl_end"     : 220
+        },
+        {
+            "dialogue_id" : "generic_131",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "They've terrorized us ever since. "
+        },
+        {
+            "dialogue_id" : "generic_131",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Those crocs have never seen a dog before. "
+        },
+        {
+            "dialogue_id" : "generic_131",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "They won't know what hit 'em!"
+        },
+        {
+            "dialogue_id" : "generic_132",
+            "chr1"        : "kip",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Thanks for saving me, doggy!",
+            "lvl_start"   : 221,
+            "lvl_end"     : 231
+        },
+        {
+            "dialogue_id" : "generic_132",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "You're a hero!"
+        },
+        {
+            "dialogue_id" : "generic_132",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "No problem little guy!"
+        },
+        {
+            "dialogue_id" : "generic_133",
+            "chr1"        : "lily",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Thanks for saving me, doggy!",
+            "lvl_start"   : 221,
+            "lvl_end"     : 231
+        },
+        {
+            "dialogue_id" : "generic_133",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "You're a hero!"
+        },
+        {
+            "dialogue_id" : "generic_133",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "No problem Lily."
+        },
+        {
+            "dialogue_id" : "generic_134",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "My new hut is amazing!",
+            "lvl_start"   : 221,
+            "lvl_end"     : 241
+        },
+        {
+            "dialogue_id" : "generic_134",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "It's got a table, a real bed and best of all..."
+        },
+        {
+            "dialogue_id" : "generic_134",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "...I don't feel sea sick in the mornings!"
+        },
+        {
+            "dialogue_id" : "generic_135",
+            "chr1"        : "taka",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "There's dark meowgic brewing on the island. ",
+            "lvl_start"   : 231,
+            "lvl_end"     : 240
+        },
+        {
+            "dialogue_id" : "generic_135",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "I fear it may be related to the dog's lost message..."
+        },
+        {
+            "dialogue_id" : "generic_136",
+            "chr1"        : "olivia",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I can't wait 'til the observatory is finished.",
+            "lvl_start"   : 231,
+            "lvl_end"     : 240
+        },
+        {
+            "dialogue_id" : "generic_136",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "It's been moons since I've star gazed."
+        },
+        {
+            "dialogue_id" : "generic_137",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Will I really be able to navigate using the stars?",
+            "lvl_start"   : 231,
+            "lvl_end"     : 240
+        },
+        {
+            "dialogue_id" : "generic_137",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "That's how our ancestors traveled the isles."
+        },
+        {
+            "dialogue_id" : "generic_138",
+            "chr1"        : "elsie",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka says he senses dark meowgic on the island. ",
+            "lvl_start"   : 231,
+            "lvl_end"     : 240
+        },
+        {
+            "dialogue_id" : "generic_138",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What could it mean?"
+        },
+        {
+            "dialogue_id" : "generic_139",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "ch1",
+            "text"        : "Where do the ancestors live? ",
+            "lvl_start"   : 251,
+            "lvl_end"     : 270
+        },
+        {
+            "dialogue_id" : "generic_139",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Beyond the Great Cat Flap in the stars. Somewhere in the Milky Way. "
+        },
+        {
+            "dialogue_id" : "generic_139",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "The Milky Way? That sounds delicious."
+        },
+        {
+            "dialogue_id" : "generic_140",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why does the elder live in the jungle?",
+            "lvl_start"   : 251,
+            "lvl_end"     : 262
+        },
+        {
+            "dialogue_id" : "generic_140",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "He said he wanted to spend his 9th life getting in touch with nature."
+        },
+        {
+            "dialogue_id" : "generic_141",
+            "chr1"        : "cubby",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How you doing Olivia?",
+            "lvl_start"   : 251,
+            "lvl_end"     : 262
+        },
+        {
+            "dialogue_id" : "generic_141",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Cubby, I was just thinking about you."
+        },
+        {
+            "dialogue_id" : "generic_141",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I've discovered a new species of herb!  "
+        },
+        {
+            "dialogue_id" : "generic_141",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Ooh, maybe it tastes good with grilled bananas."
+        },
+        {
+            "dialogue_id" : "generic_141",
+            "sentence"    : 5,
+            "who"         : "chr2",
+            "text"        : "We can try it out later."
+        },
+        {
+            "dialogue_id" : "generic_141",
+            "sentence"    : 6,
+            "who"         : "chr1",
+            "text"        : "Sounds like a date!"
+        },
+        {
+            "dialogue_id" : "generic_142",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I wonder if the ancestors will like what we did with the village...",
+            "lvl_start"   : 251,
+            "lvl_end"     : 262
+        },
+        {
+            "dialogue_id" : "generic_142",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm, well they started with mud huts. This is a big improvement."
+        },
+        {
+            "dialogue_id" : "generic_143",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The Great Kikuna is returning! I can't wait!",
+            "lvl_start"   : 261,
+            "lvl_end"     : 270
+        },
+        {
+            "dialogue_id" : "generic_143",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "All purraise Kikuna, the founder of Tropicat Village."
+        },
+        {
+            "dialogue_id" : "generic_144",
+            "chr1"        : "lily",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The elder smells like wet leaves. I don\u2019t like it.",
+            "lvl_start"   : 261,
+            "lvl_end"     : 280
+        },
+        {
+            "dialogue_id" : "generic_144",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Lily\u2026 that\u2019s not very nice. The elder is very old."
+        },
+        {
+            "dialogue_id" : "generic_144",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Too old for a bath?"
+        },
+        {
+            "dialogue_id" : "generic_145",
+            "chr1"        : "kip",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The elder smells like bad bananas. I don\u2019t like it.",
+            "lvl_start"   : 261,
+            "lvl_end"     : 280
+        },
+        {
+            "dialogue_id" : "generic_145",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Kip\u2026 that\u2019s not very nice. The elder is very old."
+        },
+        {
+            "dialogue_id" : "generic_145",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Too old to groom?"
+        },
+        {
+            "dialogue_id" : "generic_146",
+            "chr1"        : "any",
+            "chr2"        : "alapa",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elder, when will ancestor Kikuna return to the village?",
+            "lvl_start"   : 261,
+            "lvl_end"     : 280
+        },
+        {
+            "dialogue_id" : "generic_146",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Quit mewing, you youngsters are so impatient."
+        },
+        {
+            "dialogue_id" : "generic_146",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Once we\u2019ve finished restoring the ancient sites he\u2019ll return."
+        },
+        {
+            "dialogue_id" : "generic_147",
+            "chr1"        : "kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "That tree is talking to me\u2026 can\u2019t you hear it?",
+            "lvl_start"   : 261,
+            "lvl_end"     : 280
+        },
+        {
+            "dialogue_id" : "generic_147",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It\u2019s just a tree Kip, chill out."
+        },
+        {
+            "dialogue_id" : "generic_147",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "But it's creepy... "
+        },
+        {
+            "dialogue_id" : "generic_148",
+            "chr1"        : "olivia",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Did you know, ancestor Kikuna built huts with his bare paws?",
+            "lvl_start"   : 270,
+            "lvl_end"     : 280
+        },
+        {
+            "dialogue_id" : "generic_148",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "That what I read! And he could leap over buildings like big wild cat!"
+        },
+        {
+            "dialogue_id" : "generic_148",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I can\u2019t wait to meet him!"
+        },
+        {
+            "dialogue_id" : "generic_149",
+            "chr1"        : "kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Something\u2019s wrong with that tree! It's got a big face!",
+            "lvl_start"   : 261,
+            "lvl_end"     : 280
+        },
+        {
+            "dialogue_id" : "generic_149",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It just looks like a regular tree to me, Kip."
+        },
+        {
+            "dialogue_id" : "generic_150",
+            "chr1"        : "kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "So ancestor Kikuna convinced the tribe to build a village?",
+            "lvl_start"   : 271,
+            "lvl_end"     : 290
+        },
+        {
+            "dialogue_id" : "generic_150",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Yes, but his brother Tika wanted us to stay wild, in the jungles."
+        },
+        {
+            "dialogue_id" : "generic_150",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Tika hated the village so much, he tried to burn it down."
+        },
+        {
+            "dialogue_id" : "generic_151",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Have you seen the elder anywhere?",
+            "lvl_start"   : 281,
+            "lvl_end"     : 290
+        },
+        {
+            "dialogue_id" : "generic_151",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Nope\u2026 that old cat disappeared\u2026 "
+        },
+        {
+            "dialogue_id" : "generic_151",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Strange..."
+        },
+        {
+            "dialogue_id" : "generic_152",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why didn\u2019t the Great Kikuna show up?",
+            "lvl_start"   : 281,
+            "lvl_end"     : 290
+        },
+        {
+            "dialogue_id" : "generic_152",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I wonder if the elder was telling the truth about his \u2018prophecy\u2019?"
+        },
+        {
+            "dialogue_id" : "generic_153",
+            "chr1"        : "any",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip what\u2019s Tika\u2019s spirit saying?",
+            "lvl_start"   : 291,
+            "lvl_end"     : 298
+        },
+        {
+            "dialogue_id" : "generic_153",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "He\u2019s angry\u2026 at his brother, at the tribe, at the village\u2026"
+        },
+        {
+            "dialogue_id" : "generic_153",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I don\u2019t think he\u2019s evil\u2026 he\u2019s just upset that no one ever listened to him."
+        },
+        {
+            "dialogue_id" : "generic_153",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "But I know I can change his mind!"
+        },
+        {
+            "dialogue_id" : "generic_154",
+            "chr1"        : "elsie",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Tika\u2019s spirit is calmed and the elder confessed to his crimes.",
+            "lvl_start"   : 301,
+            "lvl_end"     : 309
+        },
+        {
+            "dialogue_id" : "generic_154",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "I feel like we\u2019re starting a new chapter!"
+        },
+        {
+            "dialogue_id" : "generic_154",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Hopefully things will calm down around here\u2026"
+        },
+        {
+            "dialogue_id" : "generic_155",
+            "chr1"        : "olivia",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Hey Cubby, how\u2019re you doing today?",
+            "lvl_start"   : 301,
+            "lvl_end"     : 315
+        },
+        {
+            "dialogue_id" : "generic_155",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "A little gassy\u2026 "
+        },
+        {
+            "dialogue_id" : "generic_155",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Hmm, I got some tea for that."
+        },
+        {
+            "dialogue_id" : "generic_156",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The village is looking better than ever!",
+            "lvl_start"   : 301,
+            "lvl_end"     : 320
+        },
+        {
+            "dialogue_id" : "generic_156",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief\u2019s rebuilding is going so well."
+        },
+        {
+            "dialogue_id" : "generic_157",
+            "chr1"        : "olivia",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby\u2026",
+            "lvl_start"   : 310,
+            "lvl_end"     : 318
+        },
+        {
+            "dialogue_id" : "generic_157",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What is it Olivia?"
+        },
+        {
+            "dialogue_id" : "generic_157",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Will you\u2026 uh \u2026. Will you\u2026."
+        },
+        {
+            "dialogue_id" : "generic_157",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Spit it out, Olivia. Will I what?"
+        },
+        {
+            "dialogue_id" : "generic_157",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Will you... be walking randomly around the village today?"
+        },
+        {
+            "dialogue_id" : "generic_157",
+            "sentence"    : 6,
+            "who"         : "chr2",
+            "text"        : "Of course, I always do that. We all do that."
+        },
+        {
+            "dialogue_id" : "generic_157",
+            "sentence"    : 7,
+            "who"         : "chr1",
+            "text"        : "Good. Just checking..."
+        },
+        {
+            "dialogue_id" : "generic_158",
+            "chr1"        : "kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Skibby dibby dop doop\u2026",
+            "lvl_start"   : 321,
+            "lvl_end"     : 331
+        },
+        {
+            "dialogue_id" : "generic_158",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What are you doing Kip?"
+        },
+        {
+            "dialogue_id" : "generic_158",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "I\u2019m scatting to celebrate the village being saved."
+        },
+        {
+            "dialogue_id" : "generic_158",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Skibby dop dip dooby. Bop bebop."
+        },
+        {
+            "dialogue_id" : "generic_158",
+            "sentence"    : 5,
+            "who"         : "chr2",
+            "text"        : "Go scat somewhere else."
+        },
+        {
+            "dialogue_id" : "generic_159",
+            "chr1"        : "lily",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia loves Cubby!",
+            "lvl_start"   : 321,
+            "lvl_end"     : 331
+        },
+        {
+            "dialogue_id" : "generic_159",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "Kissing in a tree. Smooching on the beach. Purring in a hut."
+        },
+        {
+            "dialogue_id" : "generic_159",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Lily, go away."
+        },
+        {
+            "dialogue_id" : "generic_159",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Hugging on a hill. Cuddling on a cliff. Petting in a park."
+        },
+        {
+            "dialogue_id" : "generic_159",
+            "sentence"    : 5,
+            "who"         : "chr2",
+            "text"        : "Kittens are so annoying..."
+        },
+        {
+            "dialogue_id" : "generic_160",
+            "chr1"        : "taka",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "If you want Cubby to marry you I can make it happen.",
+            "lvl_start"   : 321,
+            "lvl_end"     : 331
+        },
+        {
+            "dialogue_id" : "generic_160",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "All it takes is a mind control spell. "
+        },
+        {
+            "dialogue_id" : "generic_160",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "No Taka, that's not right. "
+        },
+        {
+            "dialogue_id" : "generic_160",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Just a little one?"
+        },
+        {
+            "dialogue_id" : "generic_160",
+            "sentence"    : 5,
+            "who"         : "chr2",
+            "text"        : "No!"
+        },
+        {
+            "dialogue_id" : "generic_161",
+            "chr1"        : "any",
+            "chr2"        : "taka",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka, a frog tried to bite me today. ",
+            "lvl_start"   : 255,
+            "lvl_end"     : 285
+        },
+        {
+            "dialogue_id" : "generic_161",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Ah... My undead amphibian army need feeding."
+        },
+        {
+            "dialogue_id" : "generic_161",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "I thought we agreed you wouldn't raise anything from the dead."
+        },
+        {
+            "dialogue_id" : "generic_161",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Did I say undead? I mean unwed..."
+        },
+        {
+            "dialogue_id" : "generic_161",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "You have an army of unwed frogs? "
+        },
+        {
+            "dialogue_id" : "generic_161",
+            "sentence"    : 6,
+            "who"         : "chr2",
+            "text"        : "Frogs are covered in pond slime. It kills the romance."
+        },
+        {
+            "dialogue_id" : "generic_161",
+            "sentence"    : 7,
+            "who"         : "chr1",
+            "text"        : "Oh... I didn't know that."
+        },
+        {
+            "dialogue_id" : "generic_162",
+            "chr1"        : "taka",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, why don't you study meowgic and become my apprentice?",
+            "lvl_start"   : 255,
+            "lvl_end"     : 300
+        },
+        {
+            "dialogue_id" : "generic_162",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Cause I wanna be a guard kitty, like Cubby. "
+        },
+        {
+            "dialogue_id" : "generic_162",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "But a shaman wields terrifying power!"
+        },
+        {
+            "dialogue_id" : "generic_162",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Cubby sleeps all day and can fit four bananas in his mouth."
+        },
+        {
+            "dialogue_id" : "generic_162",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Hmm... Impressive."
+        },
+        {
+            "dialogue_id" : "generic_163",
+            "chr1"        : "cubby",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka gives me the creeps. ",
+            "lvl_start"   : 270,
+            "lvl_end"     : 320
+        },
+        {
+            "dialogue_id" : "generic_163",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I heard he killed the last shaman with a fireball."
+        },
+        {
+            "dialogue_id" : "generic_164",
+            "chr1"        : "any",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elsie, do you know where the Chief comes from?",
+            "lvl_start"   : 290,
+            "lvl_end"     : 320
+        },
+        {
+            "dialogue_id" : "generic_164",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm, {userName} doesn't like to talk about that."
+        },
+        {
+            "dialogue_id" : "generic_164",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Chief certainly is the silent type..."
+        },
+        {
+            "dialogue_id" : "generic_165",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka gives me the creeps. ",
+            "lvl_start"   : 251,
+            "lvl_end"     : 260
+        },
+        {
+            "dialogue_id" : "generic_165",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I heard he killed the last shaman with a fireball."
+        },
+        {
+            "dialogue_id" : "generic_166",
+            "chr1"        : "lily",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, when are we getting married?",
+            "lvl_start"   : 301,
+            "lvl_end"     : 331
+        },
+        {
+            "dialogue_id" : "generic_166",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Never. You\u2019re stinky and your coconut doll is creepy."
+        },
+        {
+            "dialogue_id" : "generic_166",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Hee, you're so funny Kip."
+        },
+        {
+            "dialogue_id" : "generic_166",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Uh... I gotta go wash my tail."
+        },
+        {
+            "dialogue_id" : "generic_167",
+            "chr1"        : "elsie",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, you're covered in sand. Take a bath.",
+            "lvl_start"   : 240,
+            "lvl_end"     : 300
+        },
+        {
+            "dialogue_id" : "generic_167",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I don't wanna..."
+        },
+        {
+            "dialogue_id" : "generic_167",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "No brother of mine is gonna be badly groomed!"
+        },
+        {
+            "dialogue_id" : "generic_167",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "But I hate getting hairballs!"
+        },
+        {
+            "dialogue_id" : "generic_168",
+            "chr1"        : "kip",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I\u2019ve got a message from Olivia!",
+            "lvl_start"   : 331,
+            "lvl_end"     : 340
+        },
+        {
+            "dialogue_id" : "generic_168",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What is it, Kip?"
+        },
+        {
+            "dialogue_id" : "generic_168",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Ahh\u2026 darn it I forgot."
+        },
+        {
+            "dialogue_id" : "generic_168",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "I better go ask her again."
+        },
+        {
+            "dialogue_id" : "generic_169",
+            "chr1"        : "cubby",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you think Olivia will ever come out of her hut?",
+            "lvl_start"   : 331,
+            "lvl_end"     : 340
+        },
+        {
+            "dialogue_id" : "generic_169",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "I\u2019m getting really worried\u2026"
+        },
+        {
+            "dialogue_id" : "generic_169",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I\u2019m sure it\u2019ll be OK, Cubby. "
+        },
+        {
+            "dialogue_id" : "generic_170",
+            "chr1"        : "cubby",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ava, I\u2019m not talking to you right now. I\u2019m too mad.",
+            "lvl_start"   : 331,
+            "lvl_end"     : 340
+        },
+        {
+            "dialogue_id" : "generic_170",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Then why did you just walk up to me and talk?"
+        },
+        {
+            "dialogue_id" : "generic_170",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Hey\u2026 You walked up to me!"
+        },
+        {
+            "dialogue_id" : "generic_171",
+            "chr1"        : "ava",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why is everyone looking at me funny?",
+            "lvl_start"   : 331,
+            "lvl_end"     : 340
+        },
+        {
+            "dialogue_id" : "generic_171",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Because you ruined Olivia\u2019s proposal, Ava!"
+        },
+        {
+            "dialogue_id" : "generic_171",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "That was not cool."
+        },
+        {
+            "dialogue_id" : "generic_172",
+            "chr1"        : "ava",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why is everyone looking at me funny?",
+            "lvl_start"   : 331,
+            "lvl_end"     : 340
+        },
+        {
+            "dialogue_id" : "generic_172",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Because you ruined Olivia\u2019s proposal, Ava!"
+        },
+        {
+            "dialogue_id" : "generic_172",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "That was not cool."
+        },
+        {
+            "dialogue_id" : "generic_173",
+            "chr1"        : "ava",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why is everyone looking at me funny?",
+            "lvl_start"   : 331,
+            "lvl_end"     : 340
+        },
+        {
+            "dialogue_id" : "generic_173",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Because you ruined Olivia\u2019s proposal, Ava!"
+        },
+        {
+            "dialogue_id" : "generic_173",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "That was not cool."
+        },
+        {
+            "dialogue_id" : "generic_174",
+            "chr1"        : "taka",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, why did you hesitate when Olivia proposed?",
+            "lvl_start"   : 331,
+            "lvl_end"     : 340
+        },
+        {
+            "dialogue_id" : "generic_174",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It\u2019s not everyday a cat gets two marriage proposals at once!"
+        },
+        {
+            "dialogue_id" : "generic_174",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "I was freaked out."
+        },
+        {
+            "dialogue_id" : "generic_175",
+            "chr1"        : "lily",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, I think I saw a pink flamingo!",
+            "lvl_start"   : 341,
+            "lvl_end"     : 350
+        },
+        {
+            "dialogue_id" : "generic_175",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What!? Where!?"
+        },
+        {
+            "dialogue_id" : "generic_175",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Haha, just joking."
+        },
+        {
+            "dialogue_id" : "generic_175",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "That\u2019s not funny."
+        },
+        {
+            "dialogue_id" : "generic_176",
+            "chr1"        : "kip",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, I think I saw a pink flamingo!",
+            "lvl_start"   : 341,
+            "lvl_end"     : 350
+        },
+        {
+            "dialogue_id" : "generic_176",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What!? Where!?"
+        },
+        {
+            "dialogue_id" : "generic_176",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Haha, just joking."
+        },
+        {
+            "dialogue_id" : "generic_176",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "That\u2019s not funny."
+        },
+        {
+            "dialogue_id" : "generic_177",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, what\u2019s your favorite animal ever?",
+            "lvl_start"   : 341,
+            "lvl_end"     : 350
+        },
+        {
+            "dialogue_id" : "generic_177",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Oh, the pink flamingo of course!"
+        },
+        {
+            "dialogue_id" : "generic_177",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "But\u2026 there hasn\u2019t been a sighting for a long time."
+        },
+        {
+            "dialogue_id" : "generic_177",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "They probably all flew away."
+        },
+        {
+            "dialogue_id" : "generic_178",
+            "chr1"        : "any",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "What's so great about pink flamingos?",
+            "lvl_start"   : 341,
+            "lvl_end"     : 350
+        },
+        {
+            "dialogue_id" : "generic_178",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Why do you ask?"
+        },
+        {
+            "dialogue_id" : "generic_178",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Uhh... Just curious..."
+        },
+        {
+            "dialogue_id" : "generic_178",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Did you know they grow to around 5 feet, but only weigh around 7 pounds!?"
+        },
+        {
+            "dialogue_id" : "generic_178",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Woah! That is pretty amazing."
+        },
+        {
+            "dialogue_id" : "generic_178",
+            "sentence"    : 6,
+            "who"         : "chr2",
+            "text"        : "Yep, that's a flamingo fact!"
+        },
+        {
+            "dialogue_id" : "generic_179",
+            "chr1"        : "taka",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Lily, the zombie frogs are getting restless\u2026 ",
+            "lvl_start"   : 341,
+            "lvl_end"     : 355
+        },
+        {
+            "dialogue_id" : "generic_179",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "You raised too many of them, master Taka! "
+        },
+        {
+            "dialogue_id" : "generic_179",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "I know\u2026 but I needed the zombie frogs to eat the zombie flies."
+        },
+        {
+            "dialogue_id" : "generic_180",
+            "chr1"        : "elsie",
+            "chr2"        : "taka",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia and Cubby are getting married, isn\u2019t it furrtastic!",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_180",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Wonderfur!"
+        },
+        {
+            "dialogue_id" : "generic_181",
+            "chr1"        : "elsie",
+            "chr2"        : "alapa",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia and Cubby are getting married, isn\u2019t it furrtastic!",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_181",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Wonderfur!"
+        },
+        {
+            "dialogue_id" : "generic_182",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia and Cubby are getting married, isn\u2019t it furrtastic!",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_182",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Wonderfur!"
+        },
+        {
+            "dialogue_id" : "generic_183",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia and Cubby are getting married, isn\u2019t it furrtastic!",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_183",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Wonderfur!"
+        },
+        {
+            "dialogue_id" : "generic_184",
+            "chr1"        : "kip",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia and Cubby are getting married, isn\u2019t it furrtastic!",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_184",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Wonderfur!"
+        },
+        {
+            "dialogue_id" : "generic_185",
+            "chr1"        : "elsie",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia and Cubby are getting married, isn\u2019t it furrtastic!",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_185",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Wonderfur!"
+        },
+        {
+            "dialogue_id" : "generic_186",
+            "chr1"        : "olivia",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, go away! You shouldn\u2019t see the bride before the wedding.",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_186",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Right\u2026 I\u2019ll go walk someplace else!"
+        },
+        {
+            "dialogue_id" : "generic_187",
+            "chr1"        : "elsie",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, I want you properly groomed for the wedding, OK?",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_187",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Why!? I\u2019m not the one getting married."
+        },
+        {
+            "dialogue_id" : "generic_188",
+            "chr1"        : "elsie",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Lily, please be on your best behavior at the wedding, OK?",
+            "lvl_start"   : 351,
+            "lvl_end"     : 360
+        },
+        {
+            "dialogue_id" : "generic_188",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Alright\u2026 but just this once!"
+        },
+        {
+            "dialogue_id" : "generic_189",
+            "chr1"        : "taka",
+            "chr2"        : "lily",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Lily, the zombie frogs are making a list of demands\u2026",
+            "lvl_start"   : 351,
+            "lvl_end"     : 400
+        },
+        {
+            "dialogue_id" : "generic_189",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "Number 1 on the list is \u201Cmore zombie frogs\u201D..."
+        },
+        {
+            "dialogue_id" : "generic_189",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Shall I get your stomping boots?"
+        },
+        {
+            "dialogue_id" : "generic_189",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Let's hope it doesn't come to that. "
+        },
+        {
+            "dialogue_id" : "generic_190",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How\u2019s your doglish coming along?",
+            "lvl_start"   : 351
+        },
+        {
+            "dialogue_id" : "generic_190",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Woof!"
+        },
+        {
+            "dialogue_id" : "generic_190",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "What did you say about my mama's tail? "
+        },
+        {
+            "dialogue_id" : "generic_190",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Hmm, I need to work on my vocabulary. "
+        },
+        {
+            "dialogue_id" : "generic_191",
+            "chr1"        : "olivia",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ragnaruff, are you sure we won\u2019t get lost on the cruise?",
+            "lvl_start"   : 361,
+            "lvl_end"     : 370
+        },
+        {
+            "dialogue_id" : "generic_191",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Don\u2019t worry, I\u2019m mapping out a route."
+        },
+        {
+            "dialogue_id" : "generic_192",
+            "chr1"        : "ava",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ragnaruff, be careful when you\u2019re on the seas.",
+            "lvl_start"   : 361,
+            "lvl_end"     : 370
+        },
+        {
+            "dialogue_id" : "generic_192",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "You don\u2019t wanna run into the Ship of Skulls..."
+        },
+        {
+            "dialogue_id" : "generic_192",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Pfft\u2026 I\u2019m not afraid of anything!"
+        },
+        {
+            "dialogue_id" : "generic_193",
+            "chr1"        : "olivia",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I can\u2019t wait for the cruise, Cubby! I\u2019ve never been off the island before.",
+            "lvl_start"   : 361,
+            "lvl_end"     : 370
+        },
+        {
+            "dialogue_id" : "generic_193",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Me neither\u2026 I just hope we don\u2019t sail too far from the shore."
+        },
+        {
+            "dialogue_id" : "generic_194",
+            "chr1"        : "kip",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I wanna go on the ship cruise with Ragnaruff!",
+            "lvl_start"   : 361,
+            "lvl_end"     : 370
+        },
+        {
+            "dialogue_id" : "generic_194",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "No, Kip. It\u2019s a romantic honeymoon cruise."
+        },
+        {
+            "dialogue_id" : "generic_194",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "So what?"
+        },
+        {
+            "dialogue_id" : "generic_194",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Sew buttons!"
+        },
+        {
+            "dialogue_id" : "generic_194",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Your jokes are the worst."
+        },
+        {
+            "dialogue_id" : "generic_195",
+            "chr1"        : "alapa",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Are you ready to be a papa cat, Cubby?",
+            "lvl_start"   : 371,
+            "lvl_end"     : 380
+        },
+        {
+            "dialogue_id" : "generic_195",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I-I think so\u2026"
+        },
+        {
+            "dialogue_id" : "generic_195",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "You think!? Pah! Get your act together!"
+        },
+        {
+            "dialogue_id" : "generic_196",
+            "chr1"        : "olivia",
+            "chr2"        : "taka",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka can you read my fortune? I wanna know what my kittens will be like.",
+            "lvl_start"   : 371,
+            "lvl_end"     : 376
+        },
+        {
+            "dialogue_id" : "generic_196",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I\u2019ll need fireflies for that, Olivia."
+        },
+        {
+            "dialogue_id" : "generic_196",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Oh right, I think Chief is looking for some. "
+        },
+        {
+            "dialogue_id" : "generic_197",
+            "chr1"        : "elsie",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, I\u2019m SO excited! I can\u2019t wait to see the kittens!",
+            "lvl_start"   : 371,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_197",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Me too, Elsie! I never thought I\u2019d get my own family."
+        },
+        {
+            "dialogue_id" : "generic_198",
+            "chr1"        : "kip",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, I\u2019m SO excited! I can\u2019t wait to see the kittens!",
+            "lvl_start"   : 371,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_198",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Me too, Elsie! I never thought I\u2019d get my own family."
+        },
+        {
+            "dialogue_id" : "generic_199",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, I\u2019m SO excited! I can\u2019t wait to see the kittens!",
+            "lvl_start"   : 371,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_199",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Me too, Elsie! I never thought I\u2019d get my own family."
+        },
+        {
+            "dialogue_id" : "generic_200",
+            "chr1"        : "taka",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Olivia, have you considered donating your kittens to me?",
+            "lvl_start"   : 371,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_200",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "I will raise them to be POWERFUL shamans! "
+        },
+        {
+            "dialogue_id" : "generic_200",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "The exposure to meowgic may drive them slightly insane... but only slightly!"
+        },
+        {
+            "dialogue_id" : "generic_200",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Uh... thanks for the offer, Taka, but I think we're good!"
+        },
+        {
+            "dialogue_id" : "generic_201",
+            "chr1"        : "lily",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, we\u2019re not gonna be the youngest anymore! We gotta act grown up.",
+            "lvl_start"   : 371,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_201",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Oh, I didn\u2019t think about that\u2026"
+        },
+        {
+            "dialogue_id" : "generic_201",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Well you better think about it. Thinking is what grown ups do!"
+        },
+        {
+            "dialogue_id" : "generic_201",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "But what stuff do grown ups think about?"
+        },
+        {
+            "dialogue_id" : "generic_201",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Uhh\u2026 important stuff! "
+        },
+        {
+            "dialogue_id" : "generic_201",
+            "sentence"    : 6,
+            "who"         : "chr2",
+            "text"        : "But how do they know what's important?"
+        },
+        {
+            "dialogue_id" : "generic_201",
+            "sentence"    : 7,
+            "who"         : "chr1",
+            "text"        : "Maybe they don\u2019t know... maybe they just think too much."
+        },
+        {
+            "dialogue_id" : "generic_201",
+            "sentence"    : 8,
+            "who"         : "chr2",
+            "text"        : "That would explain a lot."
+        },
+        {
+            "dialogue_id" : "generic_202",
+            "chr1"        : "elsie",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Can you believe it? We\u2019re gonna get tiny kittens on the island!",
+            "lvl_start"   : 371,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_202",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "They\u2019re more trouble than they\u2019re worth, if you ask me."
+        },
+        {
+            "dialogue_id" : "generic_203",
+            "chr1"        : "any",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How\u2019s the family hut going, Ava?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 390
+        },
+        {
+            "dialogue_id" : "generic_203",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Almost done. It\u2019s some of my finest work."
+        },
+        {
+            "dialogue_id" : "generic_204",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you think Cubby\u2019s been acting strange?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 391
+        },
+        {
+            "dialogue_id" : "generic_204",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm, he does seem a little weird. I wonder what\u2019s wrong\u2026"
+        },
+        {
+            "dialogue_id" : "generic_205",
+            "chr1"        : "any",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you have any pups back home, Ragnaruff?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 391
+        },
+        {
+            "dialogue_id" : "generic_205",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "No, but I have a nephew! Little Odinwolf is a real pawful."
+        },
+        {
+            "dialogue_id" : "generic_206",
+            "chr1"        : "kip",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, is everything alright?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 391
+        },
+        {
+            "dialogue_id" : "generic_206",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What? Yeah\u2026 I\u2019ve just got a lot on my mind."
+        },
+        {
+            "dialogue_id" : "generic_206",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Oh\u2026 well that makes a change."
+        },
+        {
+            "dialogue_id" : "generic_207",
+            "chr1"        : "elsie",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Any sign of Cubby yet, Ragnaruff?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 390
+        },
+        {
+            "dialogue_id" : "generic_207",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Not yet, but me and {userName} will track him down!"
+        },
+        {
+            "dialogue_id" : "generic_208",
+            "chr1"        : "taka",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Any sign of Cubby yet, Ragnaruff?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 390
+        },
+        {
+            "dialogue_id" : "generic_208",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Not yet, but me and {userName} will track him down!"
+        },
+        {
+            "dialogue_id" : "generic_209",
+            "chr1"        : "kip",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Any sign of Cubby yet, Ragnaruff?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 390
+        },
+        {
+            "dialogue_id" : "generic_209",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Not yet, but me and {userName} will track him down!"
+        },
+        {
+            "dialogue_id" : "generic_210",
+            "chr1"        : "lily",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "What\u2019s wrong with Cubby\u2026 why\u2019d he run away?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 390
+        },
+        {
+            "dialogue_id" : "generic_210",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Chief and Ragnaruff are looking into it."
+        },
+        {
+            "dialogue_id" : "generic_211",
+            "chr1"        : "elsie",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How\u2019s Olivia doing?",
+            "lvl_start"   : 381,
+            "lvl_end"     : 391
+        },
+        {
+            "dialogue_id" : "generic_211",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Just fine! But we need to find Cubby."
+        },
+        {
+            "dialogue_id" : "generic_212",
+            "chr1"        : "any",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How\u2019s the playground coming along, Ava?",
+            "lvl_start"   : 391,
+            "lvl_end"     : 400
+        },
+        {
+            "dialogue_id" : "generic_212",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It should keep those kittens busy and out of my fur."
+        },
+        {
+            "dialogue_id" : "generic_213",
+            "chr1"        : "taka",
+            "chr2"        : "cubby",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Cubby, have you thought about names for the kittens?",
+            "lvl_start"   : 391,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_213",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Not yet\u2026 I think Elsie is looking into it."
+        },
+        {
+            "dialogue_id" : "generic_214",
+            "chr1"        : "elsie",
+            "chr2"        : "ragnaruff",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Ragnaruff, I just wanted to say thanks, for helping out Cubby.",
+            "lvl_start"   : 391,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_214",
+            "sentence"    : 2,
+            "who"         : "chr1",
+            "text"        : "You\u2019ve had a really positive effect on the village since you\u2026 y\u2019know\u2026"
+        },
+        {
+            "dialogue_id" : "generic_214",
+            "sentence"    : 3,
+            "who"         : "chr2",
+            "text"        : "Destroyed it?"
+        },
+        {
+            "dialogue_id" : "generic_214",
+            "sentence"    : 4,
+            "who"         : "chr1",
+            "text"        : "Yeah!"
+        },
+        {
+            "dialogue_id" : "generic_215",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How\u2019s it going?",
+            "lvl_start"   : 398,
+            "lvl_end"     : 401
+        },
+        {
+            "dialogue_id" : "generic_215",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I\u2019m just enjoying the sunshine."
+        },
+        {
+            "dialogue_id" : "generic_216",
+            "chr1"        : "any",
+            "chr2"        : "cubby_kits",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How are the kittens doing?",
+            "lvl_start"   : 411,
+            "lvl_end"     : 1051
+        },
+        {
+            "dialogue_id" : "generic_216",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Sweeter than a banana! "
+        },
+        {
+            "dialogue_id" : "generic_217",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I can't wait to open the island to new visitors!",
+            "lvl_start"   : 421,
+            "lvl_end"     : 431
+        },
+        {
+            "dialogue_id" : "generic_217",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It's so exciting! I wonder who'll show up!"
+        },
+        {
+            "dialogue_id" : "generic_218",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you see any ship's on the horizon yet?",
+            "lvl_start"   : 431,
+            "lvl_end"     : 441
+        },
+        {
+            "dialogue_id" : "generic_218",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Nothing so far, but I'm sure the lighthouse will attract them."
+        },
+        {
+            "dialogue_id" : "generic_219",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The new kittens are so cute!",
+            "lvl_start"   : 411,
+            "lvl_end"     : 500
+        },
+        {
+            "dialogue_id" : "generic_219",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "They're purrrfect!"
+        },
+        {
+            "dialogue_id" : "generic_220",
+            "chr1"        : "elsie",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, you're covered in sand. Take a bath.",
+            "lvl_start"   : 411,
+            "lvl_end"     : 600
+        },
+        {
+            "dialogue_id" : "generic_220",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I don't wanna..."
+        },
+        {
+            "dialogue_id" : "generic_220",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "No brother of mine is gonna be badly groomed!"
+        },
+        {
+            "dialogue_id" : "generic_220",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "But I hate getting hairballs!"
+        },
+        {
+            "dialogue_id" : "generic_221",
+            "chr1"        : "taka",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, why don't you study meowgic and become my apprentice?",
+            "lvl_start"   : 411
+        },
+        {
+            "dialogue_id" : "generic_221",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Cause I wanna be a guard kitty, like Cubby. "
+        },
+        {
+            "dialogue_id" : "generic_221",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "But a shaman wields terrifying power!"
+        },
+        {
+            "dialogue_id" : "generic_221",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Cubby sleeps all day and can fit four bananas in his mouth."
+        },
+        {
+            "dialogue_id" : "generic_221",
+            "sentence"    : 5,
+            "who"         : "chr1",
+            "text"        : "Hmm... Impressive."
+        },
+        {
+            "dialogue_id" : "generic_222",
+            "chr1"        : "ragnaruff",
+            "chr2"        : "olivia",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka gives me the creeps. ",
+            "lvl_start"   : 411
+        },
+        {
+            "dialogue_id" : "generic_222",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I heard he killed the last shaman with a fireball."
+        },
+        {
+            "dialogue_id" : "generic_223",
+            "chr1"        : "lily",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Elsie, do you know where the Chief comes from?",
+            "lvl_start"   : 411
+        },
+        {
+            "dialogue_id" : "generic_223",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm, {userName} doesn't like to talk about that."
+        },
+        {
+            "dialogue_id" : "generic_223",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Chief certainly is the silent type..."
+        },
+        {
+            "dialogue_id" : "generic_224",
+            "chr1"        : "cubby",
+            "chr2"        : "ava",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Taka gives me the creeps. ",
+            "lvl_start"   : 411
+        },
+        {
+            "dialogue_id" : "generic_224",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I heard he killed the last shaman with a fireball."
+        },
+        {
+            "dialogue_id" : "generic_225",
+            "chr1"        : "lily",
+            "chr2"        : "kip",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Kip, when are we getting married?",
+            "lvl_start"   : 411,
+            "lvl_end"     : 511
+        },
+        {
+            "dialogue_id" : "generic_225",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Never. You\u2019re stinky and your coconut doll is creepy."
+        },
+        {
+            "dialogue_id" : "generic_225",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "Hee, you're so funny Kip."
+        },
+        {
+            "dialogue_id" : "generic_225",
+            "sentence"    : 4,
+            "who"         : "chr2",
+            "text"        : "Uh... I gotta go wash my tail."
+        },
+        {
+            "dialogue_id" : "generic_226",
+            "chr1"        : "blacktail",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Yarr, good day to you!",
+            "lvl_start"   : 461,
+            "lvl_end"     : 1051
+        },
+        {
+            "dialogue_id" : "generic_226",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Good day, Captain Blacktail."
+        },
+        {
+            "dialogue_id" : "generic_227",
+            "chr1"        : "blacktail",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Arr! Seen any booty?",
+            "lvl_start"   : 461,
+            "lvl_end"     : 911
+        },
+        {
+            "dialogue_id" : "generic_227",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Nope! But Chief finds coins in the jungle all the time."
+        },
+        {
+            "dialogue_id" : "generic_228",
+            "chr1"        : "blacktail",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "This village is beautiful! Yarr!",
+            "lvl_start"   : 461,
+            "lvl_end"     : 481
+        },
+        {
+            "dialogue_id" : "generic_228",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Our Chief does an amazing job. We're so lucky! "
+        },
+        {
+            "dialogue_id" : "generic_229",
+            "chr1"        : "blacktail",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I fancy a drink of clam brew!",
+            "lvl_start"   : 471,
+            "lvl_end"     : 581
+        },
+        {
+            "dialogue_id" : "generic_229",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Hmm\u2026 I'll stick with coconut milk. "
+        },
+        {
+            "dialogue_id" : "generic_230",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "You seen anything suspicious?",
+            "lvl_start"   : 481,
+            "lvl_end"     : 491
+        },
+        {
+            "dialogue_id" : "generic_230",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "No sign of any spies\u2026 yet!"
+        },
+        {
+            "dialogue_id" : "generic_231",
+            "chr1"        : "blacktail",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "The Duchess is after me\u2026 but I'll never go back to Impurrial Island.",
+            "lvl_start"   : 471,
+            "lvl_end"     : 481
+        },
+        {
+            "dialogue_id" : "generic_231",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "She sounds like a scary cat!"
+        },
+        {
+            "dialogue_id" : "generic_232",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "That Duchess is so stuck up!",
+            "lvl_start"   : 501,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_232",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "She has insulted everyone."
+        },
+        {
+            "dialogue_id" : "generic_233",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Someone should give the Duchess a piece of their mind.",
+            "lvl_start"   : 501,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_233",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "How about a piece of my claws?"
+        },
+        {
+            "dialogue_id" : "generic_234",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Who is the Duchess calling primitive?",
+            "lvl_start"   : 501,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_234",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Exactly! She\u2019s the one wearing a corset!"
+        },
+        {
+            "dialogue_id" : "generic_235",
+            "chr1"        : "duchess",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Is that a grass skirt?",
+            "lvl_start"   : 501,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_235",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Yes, it\u2019s very practical for this heat!"
+        },
+        {
+            "dialogue_id" : "generic_236",
+            "chr1"        : "duchess",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "What\u2019s that horrible smell?",
+            "lvl_start"   : 501,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_236",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "It\u2019s just seaweed. We ARE on an island."
+        },
+        {
+            "dialogue_id" : "generic_237",
+            "chr1"        : "duchess",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why can\u2019t a lady get proper tea here?",
+            "lvl_start"   : 501,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_237",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Our tea is perfectly fine!"
+        },
+        {
+            "dialogue_id" : "generic_238",
+            "chr1"        : "duchess",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "How do you manage without servants?",
+            "lvl_start"   : 501,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_238",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "We manage just fine by doing things for ourselves."
+        },
+        {
+            "dialogue_id" : "generic_239",
+            "chr1"        : "furbert",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I hope you\u2019re having a marvelous day.",
+            "lvl_start"   : 531,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_239",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "You\u2019re strange."
+        },
+        {
+            "dialogue_id" : "generic_240",
+            "chr1"        : "furbert",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you think Elsie likes my outfit?",
+            "lvl_start"   : 531,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_240",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I think she preferred the pirate hat."
+        },
+        {
+            "dialogue_id" : "generic_241",
+            "chr1"        : "furbert",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I\u2019m so completely in love that I could just sing!",
+            "lvl_start"   : 531,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_241",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Please don\u2019t."
+        },
+        {
+            "dialogue_id" : "generic_242",
+            "chr1"        : "any",
+            "chr2"        : "furbert",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "You look so different, Blacktail\u2026",
+            "lvl_start"   : 531,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_242",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Shhh, don\u2019t say that name, Mummy might hear you!"
+        },
+        {
+            "dialogue_id" : "generic_243",
+            "chr1"        : "furbert",
+            "chr2"        : "elsie",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "My beauty, my love, my passion! Tell me how I can please you!",
+            "lvl_start"   : 531,
+            "lvl_end"     : 560
+        },
+        {
+            "dialogue_id" : "generic_243",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Well\u2026 try saying \u201Cy\u2019arrrr\u201D once in a while."
+        },
+        {
+            "dialogue_id" : "generic_244",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "That Mee Li is a funny one.",
+            "lvl_start"   : 581,
+            "lvl_end"     : 621
+        },
+        {
+            "dialogue_id" : "generic_244",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "She told me she had invented a steam-powered banana peeler!"
+        },
+        {
+            "dialogue_id" : "generic_245",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Why does Mee Li smell of soot and smoke?",
+            "lvl_start"   : 581,
+            "lvl_end"     : 621
+        },
+        {
+            "dialogue_id" : "generic_245",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I think most of her inventions blow up!"
+        },
+        {
+            "dialogue_id" : "generic_246",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I wish i could visit Mee Li's island.",
+            "lvl_start"   : 581,
+            "lvl_end"     : 641
+        },
+        {
+            "dialogue_id" : "generic_246",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Me too! It sounds beautiful!"
+        },
+        {
+            "dialogue_id" : "generic_247",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "I like Mee Li's headpiece!",
+            "lvl_start"   : 581,
+            "lvl_end"     : 641
+        },
+        {
+            "dialogue_id" : "generic_247",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I want one too! We should start a fashion trend!"
+        },
+        {
+            "dialogue_id" : "generic_248",
+            "chr1"        : "any",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Mee Li gave me her new test prototype!",
+            "lvl_start"   : 581,
+            "lvl_end"     : 641
+        },
+        {
+            "dialogue_id" : "generic_248",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What does it do?"
+        },
+        {
+            "dialogue_id" : "generic_248",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "I have no idea!"
+        },
+        {
+            "dialogue_id" : "generic_249",
+            "chr1"        : "meeli",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "What a wonderful ecopawgical system we live in.",
+            "lvl_start"   : 581,
+            "lvl_end"     : 641
+        },
+        {
+            "dialogue_id" : "generic_249",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "You mean the grass? It's nice..."
+        },
+        {
+            "dialogue_id" : "generic_250",
+            "chr1"        : "any",
+            "chr2"        : "meeli",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Do you want to buy some Hydroclawium sprockets?",
+            "lvl_start"   : 581,
+            "lvl_end"     : 641
+        },
+        {
+            "dialogue_id" : "generic_250",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What do they do?"
+        },
+        {
+            "dialogue_id" : "generic_250",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "I have no idea, but won't it be fun to find out?"
+        },
+        {
+            "dialogue_id" : "generic_251",
+            "chr1"        : "meeli",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Have you seen my claw hammer?",
+            "lvl_start"   : 581,
+            "lvl_end"     : 641
+        },
+        {
+            "dialogue_id" : "generic_251",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "Is that a pun?"
+        },
+        {
+            "dialogue_id" : "generic_252",
+            "chr1"        : "meeli",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "FANTABULOUS!",
+            "lvl_start"   : 581,
+            "lvl_end"     : 641
+        },
+        {
+            "dialogue_id" : "generic_252",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "What is?"
+        },
+        {
+            "dialogue_id" : "generic_252",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "EVERYTHING!"
+        },
+        {
+            "dialogue_id" : "generic_253",
+            "chr1"        : "any",
+            "chr2"        : "meeli",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "What are you going to do about Kip's leaves?",
+            "lvl_start"   : 611,
+            "lvl_end"     : 621
+        },
+        {
+            "dialogue_id" : "generic_253",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "I'm working on it..."
+        },
+        {
+            "dialogue_id" : "generic_254",
+            "chr1"        : "kip_leaf",
+            "chr2"        : "any",
+            "sentence"    : 1,
+            "who"         : "chr1",
+            "text"        : "Gaze in awe upon my magnificent leaves.",
+            "lvl_start"   : 611,
+            "lvl_end"     : 621
+        },
+        {
+            "dialogue_id" : "generic_254",
+            "sentence"    : 2,
+            "who"         : "chr2",
+            "text"        : "You'll be cured soon!"
+        },
+        {
+            "dialogue_id" : "generic_254",
+            "sentence"    : 3,
+            "who"         : "chr1",
+            "text"        : "No, nobody's touching my leaves!"
+        }
+    ],
+    "villager_deco"     : [
+        {
+            "interaction_id" : 1,
+            "villager"       : "any",
+            "deco"           : "any",
+            "text"           : "The village is getting back on its feet.",
+            "reaction"       : "smile",
+            "lvl_end"        : 600
+        }
+    ],
+    "villager_player"   : [
+        {
+            "interaction_id" : "win1",
+            "sentence"       : 1,
+            "trigger"        : "win",
+            "character"      : "elsie",
+            "text"           : "Clawsome work, Chief!"
+        },
+        {
+            "interaction_id" : "win2",
+            "sentence"       : 1,
+            "trigger"        : "win",
+            "character"      : "kip",
+            "text"           : "Woah, that was so cool!"
+        },
+        {
+            "interaction_id" : "lose01",
+            "sentence"       : 1,
+            "trigger"        : "lose",
+            "character"      : "current_story",
+            "text"           : "Take a deep breath. Ready to try again?"
+        },
+        {
+            "interaction_id" : "greeting02",
+            "sentence"       : 1,
+            "trigger"        : "start",
+            "character"      : "current_story",
+            "text"           : "Welcome back. It's time to rebuild Tropicat Village!",
+            "lvl_start"      : 1,
+            "lvl_end"        : 400
+        },
+        {
+            "interaction_id" : "tap01",
+            "sentence"       : 1,
+            "trigger"        : "tap",
+            "character"      : "elsie",
+            "text"           : "Hey... that tickles!",
+            "lvl_end"        : 400,
+            "reaction"       : "smile"
+        }
+    ]
+}

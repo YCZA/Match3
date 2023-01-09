@@ -1,0 +1,118 @@
+
+ResistantBlockerDoober.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BeakBotton
+  rotate: true
+  xy: 234, 62
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+BeakTop
+  rotate: false
+  xy: 95, 2
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+BlinkLeft1Third
+  rotate: false
+  xy: 201, 31
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+BlinkLeft2Third
+  rotate: false
+  xy: 95, 19
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+BlinkLeftFull
+  rotate: false
+  xy: 139, 86
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+BlinkRight1Third
+  rotate: true
+  xy: 174, 53
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+BlinkRight2Third
+  rotate: false
+  xy: 176, 87
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+BlinkRightFull
+  rotate: false
+  xy: 214, 87
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 10
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+FootLeft
+  rotate: false
+  xy: 201, 59
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+FootRight
+  rotate: true
+  xy: 139, 53
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+HandLeft
+  rotate: false
+  xy: 131, 2
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+HandRight
+  rotate: true
+  xy: 233, 35
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+PupilLeft
+  rotate: false
+  xy: 132, 19
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+PupilRight
+  rotate: false
+  xy: 165, 19
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 95, 58
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1

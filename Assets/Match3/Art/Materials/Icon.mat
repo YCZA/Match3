@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icon
+  m_Shader: {fileID: 4800000, guid: 2ca79cc50b6a41c7b045678ca4f51554, type: 3}
+  m_ShaderKeywords: XYZAXIS
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 795cd880588347b89d1b05d9cd0612f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: a1488240b5b24cb8a2128d10a1ac6fe3, type: 3}
+        m_Scale: {x: 0.1, y: 0.2}
+        m_Offset: {x: 0, y: 0.1}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FadeIn: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GlowFrequency: 2
+    - _GlowIntensity: 1
+    - _GlowSpeed: 3
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OffsetSpeed: 0.5
+    - _OffsetStrength: 0.05
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GlowColor: {r: 0, g: 0.4206896, b: 1, a: 1}
+    - _MainColor: {r: 0.986207, g: 0, b: 1, a: 0.5}
+    - _MainColorA: {r: 0.9647059, g: 0.895247, b: 0.9369224, a: 1}
+    - _MainColorB: {r: 0.9215687, g: 0.3098039, b: 0.509804, a: 1}

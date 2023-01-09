@@ -1,0 +1,1595 @@
+
+{
+    "islands1" : {
+        "buildings" : [
+            {
+                "area" : 1,
+                "pos_x" : 20,
+                "pos_y" : 14,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_1",
+                "deco_set"    : "ch1_rubble"
+            },
+            {
+                "area" : 2,
+                "pos_x" : 21,
+                "pos_y" : 29,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_2",
+                "deco_set"    : "ch3_rubble"
+            },
+            {
+                "area" : 3,
+                "pos_x" : 45,
+                "pos_y" : 32,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_3",
+                "deco_set"    : "ch5_rubble"
+            },
+            {
+                "area" : 4,
+                "pos_x" : 40,
+                "pos_y" : 8,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_4",
+                "deco_set"    : "ch7_rubble"
+            },
+            {
+                "area" : 5,
+                "pos_x" : 59,
+                "pos_y" : 15,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_5",
+                "deco_set"    : "ch9_rubble"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 12,
+                "pos_y" : 13,
+                "destroyed" : false,
+                "building_id" : "iso_deco_stall_smoothie",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 11,
+                "pos_y" : 17,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 11,
+                "pos_y" : 16,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 11,
+                "pos_y" : 15,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 11,
+                "pos_y" : 14,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 11,
+                "pos_y" : 13,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 11,
+                "pos_y" : 12,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 12,
+                "pos_y" : 12,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 13,
+                "pos_y" : 12,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 14,
+                "pos_y" : 12,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 15,
+                "pos_y" : 12,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 16,
+                "pos_y" : 12,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 16,
+                "pos_y" : 13,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 16,
+                "pos_y" : 14,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 16,
+                "pos_y" : 15,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 16,
+                "pos_y" : 16,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 16,
+                "pos_y" : 17,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 12,
+                "pos_y" : 17,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 13,
+                "pos_y" : 17,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 14,
+                "pos_y" : 17,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            },
+            {
+                "area" : 1,
+                "pos_x" : 15,
+                "pos_y" : 17,
+                "destroyed" : false,
+                "building_id" : "iso_road_stone",
+                "deco_set"    : "generic"
+            }
+        ]
+    },
+    "islands2" : {
+        "buildings" : [
+            {
+                "area" : 10,
+                "pos_x" : 43,
+                "pos_y" : -20,
+                "destroyed" : true,
+                "building_id" : "iso_unique_farmhouse",
+                "deco_set"    : "ch19_farmhouse"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 43,
+                "pos_y" : -21,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_daisy",
+                "deco_set"    : "ch19_flower_daisy"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 44,
+                "pos_y" : -21,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_daisy",
+                "deco_set"    : "ch19_flower_daisy"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 45,
+                "pos_y" : -21,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_daisy",
+                "deco_set"    : "ch19_flower_daisy"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 42,
+                "pos_y" : -19,
+                "destroyed" : false,
+                "building_id" : "iso_road_farm",
+                "deco_set"    : "ch19_road_farm"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 42,
+                "pos_y" : -18,
+                "destroyed" : false,
+                "building_id" : "iso_road_farm",
+                "deco_set"    : "ch19_road_farm"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 42,
+                "pos_y" : -17,
+                "destroyed" : false,
+                "building_id" : "iso_road_farm",
+                "deco_set"    : "ch19_road_farm"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 41,
+                "pos_y" : -17,
+                "destroyed" : false,
+                "building_id" : "iso_road_farm",
+                "deco_set"    : "ch19_road_farm"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 46,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_deco_barrel_farm",
+                "deco_set"    : "ch19_barrel_farm"
+            },
+            {
+                "area" : 10,
+                "pos_x" : 46,
+                "pos_y" : -20,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_10",
+                "deco_set"    : "ch19_rubble"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 52,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_unique_chickencoop",
+                "deco_set"    : "ch20_chickencoop"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 50,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_animal_hen",
+                "deco_set"    : "ch20_hen"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 51,
+                "pos_y" : -23,
+                "destroyed" : true,
+                "building_id" : "iso_deco_haybale",
+                "deco_set"    : "ch20_haybale"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 52,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_deco_haybale",
+                "deco_set"    : "ch20_haybale"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 54,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_drystonewall",
+                "deco_set"    : "ch20_drystonewall"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 55,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_drystonewall",
+                "deco_set"    : "ch20_drystonewall"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 56,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_drystonewall",
+                "deco_set"    : "ch20_drystonewall"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 56,
+                "pos_y" : -23,
+                "destroyed" : true,
+                "building_id" : "iso_fence_drystonewall",
+                "deco_set"    : "ch20_drystonewall"
+            },
+            {
+                "area" : 11,
+                "pos_x" : 56,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_fence_drystonewall",
+                "deco_set"    : "ch20_drystonewall"
+            },
+            {
+                "area" : 12,
+                "pos_x" : 51,
+                "pos_y" : -12,
+                "destroyed" : true,
+                "building_id" : "iso_unique_olivegrove",
+                "deco_set"    : "ch21_olivegrove"
+            },
+            {
+                "area" : 12,
+                "pos_x" : 50,
+                "pos_y" : -13,
+                "destroyed" : false,
+                "building_id" : "iso_road_farm",
+                "deco_set"    : "ch21_road_farm"
+            },
+            {
+                "area" : 12,
+                "pos_x" : 50,
+                "pos_y" : -12,
+                "destroyed" : false,
+                "building_id" : "iso_road_farm",
+                "deco_set"    : "ch21_road_farm"
+            },
+            {
+                "area" : 12,
+                "pos_x" : 51,
+                "pos_y" : -13,
+                "destroyed" : false,
+                "building_id" : "iso_road_farm",
+                "deco_set"    : "ch21_road_farm"
+            },
+            {
+                "area" : 12,
+                "pos_x" : 45,
+                "pos_y" : -9,
+                "destroyed" : true,
+                "building_id" : "iso_deco_windmill",
+                "deco_set"    : "ch21_windmill"
+            },
+            {
+                "area" : 12,
+                "pos_x" : 44,
+                "pos_y" : -7,
+                "destroyed" : true,
+                "building_id" : "iso_deco_haystack",
+                "deco_set"    : "ch21_windmill"
+            },
+            {
+                "area" : 13,
+                "pos_x" : 62,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_unique_vegetablegarden",
+                "deco_set"    : "ch22_vegetablegarden"
+            },
+            {
+                "area" : 13,
+                "pos_x" : 60,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_deco_scarecrow",
+                "deco_set"    : "ch22_scarecrow"
+            },
+            {
+                "area" : 13,
+                "pos_x" : 63,
+                "pos_y" : -19,
+                "destroyed" : true,
+                "building_id" : "iso_nature_tree_olive",
+                "deco_set"    : "ch22_tree_olive"
+            }
+        ]
+    },
+    "islands3" : {
+        "buildings" : [
+            {
+                "area" : 14,
+                "pos_x" : 41,
+                "pos_y" : -15,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_11",
+                "deco_set"    : "ch23_rubble"
+            },
+            {
+                "area" : 14,
+                "pos_x" : 40,
+                "pos_y" : -14,
+                "destroyed" : true,
+                "building_id" : "iso_unique_horn_nordogs",
+                "deco_set"    : "ch23_horn_dog"
+            },
+            {
+                "area" : 14,
+                "pos_x" : 39,
+                "pos_y" : -11,
+                "destroyed" : true,
+                "building_id" : "iso_deco_lantern_nordogs",
+                "deco_set"    : "ch23_lantern"
+            },
+            {
+                "area" : 15,
+                "pos_x" : 52,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_unique_hall_feasting",
+                "deco_set"    : "ch24_hall_dog"
+            },
+            {
+                "area" : 15,
+                "pos_x" : 50,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_deco_statue_nordogs",
+                "deco_set"    : "ch24_statue_dog"
+            },
+            {
+                "area" : 16,
+                "pos_x" : 60,
+                "pos_y" : -12,
+                "destroyed" : true,
+                "building_id" : "iso_unique_statue_wolf",
+                "deco_set"    : "ch25_wolf_dog"
+            },
+            {
+                "area" : 16,
+                "pos_x" : 57,
+                "pos_y" : -10,
+                "destroyed" : true,
+                "building_id" : "iso_nature_pine_01",
+                "deco_set"    : "ch25_pine_forest"
+            },
+            {
+                "area" : 16,
+                "pos_x" : 60,
+                "pos_y" : -6,
+                "destroyed" : true,
+                "building_id" : "iso_nature_pine_01",
+                "deco_set"    : "ch25_pine_forest"
+            },
+            {
+                "area" : 16,
+                "pos_x" : 63,
+                "pos_y" : -6,
+                "destroyed" : true,
+                "building_id" : "iso_nature_pine_01",
+                "deco_set"    : "ch25_pine_forest"
+            },
+            {
+                "area" : 16,
+                "pos_x" : 65,
+                "pos_y" : -10,
+                "destroyed" : true,
+                "building_id" : "iso_nature_pine_01",
+                "deco_set"    : "ch25_pine_forest"
+            },
+            {
+                "area" : 16,
+                "pos_x" : 63,
+                "pos_y" : -15,
+                "destroyed" : true,
+                "building_id" : "iso_nature_pine_01",
+                "deco_set"    : "ch25_pine_forest"
+            },
+            {
+                "area" : 17,
+                "pos_x" : 62,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_unique_throne_nordogs",
+                "deco_set"    : "ch26_throne_dog"
+            },
+            {
+                "area" : 17,
+                "pos_x" : 65,
+                "pos_y" : -28,
+                "destroyed" : true,
+                "building_id" : "iso_deco_runestone_nordogs",
+                "deco_set"    : "ch26_runestone_dog"
+            }
+        ]
+    },
+    "islands4" : {
+        "buildings" : [
+            {
+                "area" : 18,
+                "pos_x" : 53,
+                "pos_y" : -27,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_12",
+                "deco_set"    : "ch27_rubble"
+            },
+            {
+                "area" : 18,
+                "pos_x" : 52,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_unique_temple_taka",
+                "deco_set"    : "ch27_taka_temple_meowgic"
+            },
+            {
+                "area" : 18,
+                "pos_x" : 49,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_deco_stone_magical",
+                "deco_set"    : "ch27_magical_stone_meowgic"
+            },
+            {
+                "area" : 19,
+                "pos_x" : 40,
+                "pos_y" : -14,
+                "destroyed" : true,
+                "building_id" : "iso_unique_cauldron",
+                "deco_set"    : "ch28_cauldron_meowgic"
+            },
+            {
+                "area" : 20,
+                "pos_x" : 62,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_unique_totemsite",
+                "deco_set"    : "ch29_totem_site_meowgic"
+            },
+            {
+                "area" : 20,
+                "pos_x" : 63,
+                "pos_y" : -25,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_tropical",
+                "deco_set"    : "ch29_totemsite_flowers"
+            },
+            {
+                "area" : 20,
+                "pos_x" : 64,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_tropical",
+                "deco_set"    : "ch29_totemsite_flowers"
+            },
+            {
+                "area" : 20,
+                "pos_x" : 64,
+                "pos_y" : -25,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_tropical",
+                "deco_set"    : "ch29_totemsite_flowers"
+            },
+            {
+                "area" : 20,
+                "pos_x" : 61,
+                "pos_y" : -23,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_tropical",
+                "deco_set"    : "ch29_totemsite_flowers"
+            },
+            {
+                "area" : 20,
+                "pos_x" : 61,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_tropical",
+                "deco_set"    : "ch29_totemsite_flowers"
+            },
+            {
+                "area" : 20,
+                "pos_x" : 60,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_nature_flower_tropical",
+                "deco_set"    : "ch29_totemsite_flowers"
+            },
+            {
+                "area" : 21,
+                "pos_x" : 60,
+                "pos_y" : -12,
+                "destroyed" : true,
+                "building_id" : "iso_unique_library",
+                "deco_set"    : "ch30_library_meowgic"
+            }
+        ]
+    },
+    "islands5" : {
+        "buildings" : [
+            {
+                "area" : 22,
+                "pos_x" : 53,
+                "pos_y" : -27,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_13",
+                "deco_set"    : "ch31_rubble"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 50,
+                "pos_y" : -28,
+                "destroyed" : true,
+                "building_id" : "iso_unique_catton_mansion",
+                "deco_set"    : "ch31_catton_abbey"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 53,
+                "pos_y" : -29,
+                "destroyed" : true,
+                "building_id" : "iso_road_catton_paved",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 53,
+                "pos_y" : -30,
+                "destroyed" : true,
+                "building_id" : "iso_road_catton_paved",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 53,
+                "pos_y" : -31,
+                "destroyed" : true,
+                "building_id" : "iso_road_catton_paved",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 52,
+                "pos_y" : -29,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 54,
+                "pos_y" : -29,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 49,
+                "pos_y" : -32,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 50,
+                "pos_y" : -32,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 51,
+                "pos_y" : -32,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 52,
+                "pos_y" : -32,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 54,
+                "pos_y" : -32,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 55,
+                "pos_y" : -32,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 56,
+                "pos_y" : -32,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 57,
+                "pos_y" : -32,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 55,
+                "pos_y" : -33,
+                "destroyed" : true,
+                "building_id" : "iso_deco_catton_tree_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 22,
+                "pos_x" : 50,
+                "pos_y" : -33,
+                "destroyed" : true,
+                "building_id" : "iso_deco_catton_tree_victorian",
+                "deco_set"    : "ch31_catton_entry"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 40,
+                "pos_y" : -14,
+                "destroyed" : true,
+                "building_id" : "iso_unique_catton_memorial",
+                "deco_set"    : "ch33_mcyowler_memorial"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 39,
+                "pos_y" : -11,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 39,
+                "pos_y" : -12,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 39,
+                "pos_y" : -13,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 39,
+                "pos_y" : -14,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 44,
+                "pos_y" : -11,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 44,
+                "pos_y" : -12,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 44,
+                "pos_y" : -13,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 44,
+                "pos_y" : -14,
+                "destroyed" : true,
+                "building_id" : "iso_nature_catton_flower_bell",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 41,
+                "pos_y" : -15,
+                "destroyed" : true,
+                "building_id" : "iso_deco_alphabet_A",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 42,
+                "pos_y" : -15,
+                "destroyed" : true,
+                "building_id" : "iso_deco_alphabet_M",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 23,
+                "pos_x" : 41,
+                "pos_y" : -9,
+                "destroyed" : true,
+                "building_id" : "iso_deco_catton_bench",
+                "deco_set"    : "ch33_memorial_sitting"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 69,
+                "pos_y" : -28,
+                "destroyed" : true,
+                "building_id" : "iso_unique_catton_ruins",
+                "deco_set"    : "ch36_mcyowler_ruins"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 67,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 66,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 65,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 65,
+                "pos_y" : -25,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 65,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 64,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 63,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 63,
+                "pos_y" : -27,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 62,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 61,
+                "pos_y" : -26,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 61,
+                "pos_y" : -25,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 61,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 62,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 62,
+                "pos_y" : -23,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 62,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 61,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 63,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 64,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 65,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 66,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 67,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 67,
+                "pos_y" : -23,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 24,
+                "pos_x" : 67,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_fence_catton_maze",
+                "deco_set"    : "ch36_hamster_maze"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 65,
+                "pos_y" : -11,
+                "destroyed" : true,
+                "building_id" : "iso_unique_catton_wedding",
+                "deco_set"    : "ch37_catton_wedding"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 64,
+                "pos_y" : -9,
+                "destroyed" : true,
+                "building_id" : "iso_road_catton_paved",
+                "deco_set"    : "ch38_mcyowler_proposal"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 63,
+                "pos_y" : -9,
+                "destroyed" : true,
+                "building_id" : "iso_road_catton_paved",
+                "deco_set"    : "ch38_mcyowler_proposal"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 62,
+                "pos_y" : -9,
+                "destroyed" : true,
+                "building_id" : "iso_road_catton_paved",
+                "deco_set"    : "ch38_mcyowler_proposal"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 61,
+                "pos_y" : -9,
+                "destroyed" : true,
+                "building_id" : "iso_road_catton_paved",
+                "deco_set"    : "ch38_mcyowler_proposal"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 60,
+                "pos_y" : -9,
+                "destroyed" : true,
+                "building_id" : "iso_road_catton_paved",
+                "deco_set"    : "ch38_mcyowler_proposal"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 62,
+                "pos_y" : -8,
+                "destroyed" : true,
+                "building_id" : "iso_deco_catton_table_wedding",
+                "deco_set"    : "ch38_mcyowler_proposal"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 61,
+                "pos_y" : -8,
+                "destroyed" : true,
+                "building_id" : "iso_deco_catton_flower_pot",
+                "deco_set"    : "ch38_mcyowler_proposal"
+            },
+            {
+                "area" : 25,
+                "pos_x" : 61,
+                "pos_y" : -7,
+                "destroyed" : true,
+                "building_id" : "iso_deco_catton_flower_pot",
+                "deco_set"    : "ch38_mcyowler_proposal"
+            }
+        ]
+    },
+    "islands6" : {
+        "buildings" : [
+            {
+                "area" : 26,
+                "pos_x" : 53,
+                "pos_y" : -27,
+                "destroyed" : true,
+                "building_id" : "iso_rubble_14",
+                "deco_set"    : "ch39_rubble"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 42,
+                "pos_y" : -16,
+                "destroyed" : true,
+                "building_id" : "iso_unique_furrenze_opera",
+                "deco_set"    : "ch39_furrenze_opera"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 44,
+                "pos_y" : -17,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 44,
+                "pos_y" : -18,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 44,
+                "pos_y" : -19,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 44,
+                "pos_y" : -20,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 44,
+                "pos_y" : -21,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 43,
+                "pos_y" : -17,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 43,
+                "pos_y" : -18,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 45,
+                "pos_y" : -17,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 45,
+                "pos_y" : -18,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 42,
+                "pos_y" : -17,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_lantern_street",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 26,
+                "pos_x" : 46,
+                "pos_y" : -17,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_lantern_street",
+                "deco_set"    : "ch40_furrenze_streets"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 54,
+                "pos_y" : -25,
+                "destroyed" : true,
+                "building_id" : "iso_unique_furrenze_stage",
+                "deco_set"    : "ch41_furrenze_stage"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 58,
+                "pos_y" : -20,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 57,
+                "pos_y" : -20,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 56,
+                "pos_y" : -20,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 55,
+                "pos_y" : -20,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 54,
+                "pos_y" : -20,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_paved",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 55,
+                "pos_y" : -19,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_market_cart",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 57,
+                "pos_y" : -19,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_market_cart",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 53,
+                "pos_y" : -21,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 53,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 53,
+                "pos_y" : -23,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 53,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 53,
+                "pos_y" : -25,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 52,
+                "pos_y" : -21,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 52,
+                "pos_y" : -22,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 52,
+                "pos_y" : -23,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 52,
+                "pos_y" : -24,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 27,
+                "pos_x" : 52,
+                "pos_y" : -25,
+                "destroyed" : true,
+                "building_id" : "iso_road_furrenze_grass_cut",
+                "deco_set"    : "ch42_furrenze_concessions"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 52,
+                "pos_y" : -13,
+                "destroyed" : true,
+                "building_id" : "iso_unique_furrenze_lab_meownardo",
+                "deco_set"    : "ch43_meownardo_lab"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 52,
+                "pos_y" : -7,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_tree_lemon",
+                "deco_set"    : "ch44_meownardo_grove"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 53,
+                "pos_y" : -7,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_tree_lemon",
+                "deco_set"    : "ch44_meownardo_grove"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 54,
+                "pos_y" : -7,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_tree_lemon",
+                "deco_set"    : "ch44_meownardo_grove"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 55,
+                "pos_y" : -7,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_tree_lemon",
+                "deco_set"    : "ch44_meownardo_grove"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 52,
+                "pos_y" : -8,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_hedge",
+                "deco_set"    : "ch44_meownardo_grove"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 53,
+                "pos_y" : -8,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_hedge",
+                "deco_set"    : "ch44_meownardo_grove"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 54,
+                "pos_y" : -8,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_hedge",
+                "deco_set"    : "ch44_meownardo_grove"
+            },
+            {
+                "area" : 28,
+                "pos_x" : 55,
+                "pos_y" : -8,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_hedge",
+                "deco_set"    : "ch44_meownardo_grove"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 66,
+                "pos_y" : -30,
+                "destroyed" : true,
+                "building_id" : "iso_unique_furrenze_tower",
+                "deco_set"    : "ch46_tower_hissa"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 63,
+                "pos_y" : -27,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 63,
+                "pos_y" : -28,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 63,
+                "pos_y" : -29,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 63,
+                "pos_y" : -30,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 63,
+                "pos_y" : -31,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 62,
+                "pos_y" : -27,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 61,
+                "pos_y" : -27,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 60,
+                "pos_y" : -27,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 62,
+                "pos_y" : -31,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 61,
+                "pos_y" : -31,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 60,
+                "pos_y" : -31,
+                "destroyed" : true,
+                "building_id" : "iso_fence_furrenze_fancy",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 62,
+                "pos_y" : -28,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_ruins_small",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 61,
+                "pos_y" : -28,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_ruins_small",
+                "deco_set"    : "ch45_tower_ruins"
+            },
+            {
+                "area" : 29,
+                "pos_x" : 62,
+                "pos_y" : -30,
+                "destroyed" : true,
+                "building_id" : "iso_deco_furrenze_ruins_small",
+                "deco_set"    : "ch45_tower_ruins"
+            }
+        ]
+    }
+}

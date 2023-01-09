@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75c6f535fa9b8eb8fffd1e3162d71b05, type: 3}
+  m_Name: "EffectColorManager"
+  m_EditorClassIdentifier: 
+  blue:
+    colorA: {r: 0.06592721, g: 0.04411763, b: 1, a: 0.747}
+    colorB: {r: 0.8308824, g: 0.9720081, b: 1, a: 1}
+    colorC: {r: 0, g: 0.39, b: 1, a: 0.734}
+  green:
+    colorA: {r: 0.108874, g: 0.7132353, b: 0.02622187, a: 0.741}
+    colorB: {r: 0.9775862, g: 1, b: 0.875, a: 1}
+    colorC: {r: 0.3655173, g: 1, b: 0, a: 1}
+  red:
+    colorA: {r: 0.834, g: 0.08574823, b: 0.08574823, a: 0.616}
+    colorB: {r: 1, g: 1, b: 1, a: 1}
+    colorC: {r: 1, g: 0, b: 0, a: 0.859}
+  yellow:
+    colorA: {r: 0.9852941, g: 0.8412973, b: 0.03622402, a: 0.853}
+    colorB: {r: 0.9572732, g: 1, b: 0.8341804, a: 1}
+    colorC: {r: 0.9939148, g: 1, b: 0.5588235, a: 1}
+  purple:
+    colorA: {r: 0.3776398, g: 0.1013733, b: 0.5514706, a: 0.697}
+    colorB: {r: 0.9655172, g: 0.9264706, b: 1, a: 1}
+    colorC: {r: 1, g: 0, b: 0.9310346, a: 0.834}
+  orange:
+    colorA: {r: 0.9926471, g: 0.09488535, b: 0.4477987, a: 0.734}
+    colorB: {r: 1, g: 0.8088235, b: 0.9077079, a: 1}
+    colorC: {r: 1, g: 0.375, b: 0.375, a: 0.878}
+  coins:
+    colorA: {r: 0.8970588, g: 0.3929319, b: 0, a: 0.728}
+    colorB: {r: 1, g: 0.9558824, b: 0.7132353, a: 1}
+    colorC: {r: 1, g: 0.6705883, b: 0.05098039, a: 1}

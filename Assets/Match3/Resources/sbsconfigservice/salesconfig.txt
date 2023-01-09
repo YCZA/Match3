@@ -1,0 +1,123 @@
+{
+  "packages": [
+    {
+      "name": "sale_pre_boosts",
+      "icon_name": "preboosts",
+      "iap_name": "sale_m",
+      "discount": 66,
+      "content_name": [
+        "diamonds_300",
+        "pre_boosts_3_1",
+        "coins_2000"
+      ]
+    },
+    {
+      "name": "sale_boosts",
+      "icon_name": "boosts",
+      "iap_name": "sale_m",
+      "discount": 66,
+      "content_name": [
+        "diamonds_300",
+        "boosts_3_1",
+        "coins_2000"
+      ]
+    },
+    {
+      "name": "sale_boosts_mix",
+      "icon_name": "mixed",
+      "iap_name": "sale_m",
+      "value": 2,
+      "content_name": [
+        "diamonds_300",
+        "mixed_boosts_3_1",
+        "coins_1000"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "item_tag": [
+        "diamonds_300"
+      ],
+      "item_resource": "diamonds",
+      "item_amount": 300
+    },
+    {
+      "item_tag": [
+        "coins_2000"
+      ],
+      "item_resource": "coins",
+      "item_amount": 2000
+    },
+    {
+      "item_tag": [
+        "pre_boosts_3_1"
+      ],
+      "item_resource": "boost_pre_rainbow",
+      "item_amount": 1
+    },
+    {
+      "item_tag": [
+        "pre_boosts_3_1"
+      ],
+      "item_resource": "boost_pre_bomb_linegem",
+      "item_amount": 1
+    },
+    {
+      "item_tag": [
+        "pre_boosts_3_1"
+      ],
+      "item_resource": "boost_pre_double_fish",
+      "item_amount": 1
+    },
+    {
+      "item_tag": [
+        "boosts_3_1"
+      ],
+      "item_resource": "boost_hammer",
+      "item_amount": 1
+    },
+    {
+      "item_tag": [
+        "boosts_3_1"
+      ],
+      "item_resource": "boost_star",
+      "item_amount": 1
+    },
+    {
+      "item_tag": [
+        "boosts_3_1"
+      ],
+      "item_resource": "boost_rainbow",
+      "item_amount": 1
+    },
+    {
+      "item_tag": [
+        "coins_1000"
+      ],
+      "item_resource": "coins",
+      "item_amount": 1000
+    },
+    {
+      "item_tag": [
+        "mixed_boosts_3_1"
+      ],
+      "item_resource": "boost_hammer",
+      "item_amount": 1
+    },
+    {
+      "item_tag": [
+        "mixed_boosts_3_1"
+      ],
+      "item_resource": "boost_star",
+      "item_amount": 1
+    },
+    {
+      "item_tag": [
+        "mixed_boosts_3_1"
+      ],
+      "item_resource": "boost_pre_rainbow",
+      "item_amount": 1
+    }
+  ]
+}

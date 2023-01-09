@@ -1,0 +1,1200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 012da80bf7c6a69627b744f4301b33a9, type: 3}
+  m_Name: EnterLevel1
+  m_EditorClassIdentifier: 
+  trigger: 0
+  level: 1
+  storyId: 
+  markerId: 
+  forceReturnToIsland: 0
+  steps:
+  - hideOverlay: 0
+    isTracked: 0
+    trackingEventId: 025_elsie_chief_are_you_ok
+    funnelTrackingStep: 25
+    altInputFlag: 0
+    showAnimation: 0
+    fadeOutAnimation: 0
+    showText: 0
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: -772, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -245, y: 181.18, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 800, y: 800, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 23, y: 829.9, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 768, y: 0, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskHighlight:
+        position: {x: 38.75, y: -6017, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: 297.7499, y: -800.7, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 0
+    landscapeOverlayLayout:
+      box:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      character:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      bubble:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 1
+    requiredAction: 6
+    script: {fileID: 11400000, guid: d20ce9ebab16419c9eaea37329674c58, type: 2}
+    maskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: 
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 1
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 0
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 0
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: 
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  - hideOverlay: 0
+    isTracked: 1
+    trackingEventId: 025_elsie_chief_are_you_ok
+    funnelTrackingStep: 25
+    altInputFlag: 0
+    showAnimation: 1
+    fadeOutAnimation: 0
+    showText: 1
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: -772, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -358, y: 39, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 377, y: 377, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 23, y: 439, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 768, y: 585.6383, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskHighlight:
+        position: {x: 38.75, y: -856.9, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: 297.7499, y: -800.7, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 1
+    landscapeOverlayLayout:
+      box:
+        position: {x: -640, y: -125, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -147, y: 167, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 838, y: 838, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 22.00002, y: -181, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 990, y: 360.99, z: 0}
+        anchorMin: {x: 0.5, y: 1}
+        anchorMax: {x: 0.5, y: 1}
+        pivot: {x: 0.5, y: 1}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 500, y: 500, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 0
+    requiredAction: 0
+    script: {fileID: 0}
+    maskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: 
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 0
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 0
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 1
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: tutorial.EnterLevel1.0
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  - hideOverlay: 0
+    isTracked: 1
+    trackingEventId: 025_elsie_chief_are_you_ok
+    funnelTrackingStep: 25
+    altInputFlag: 0
+    showAnimation: 1
+    fadeOutAnimation: 0
+    showText: 1
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: -772, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -358, y: 39, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 377, y: 377, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 23, y: 439, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 768, y: 585.6383, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskHighlight:
+        position: {x: 38.75, y: -856.9, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: 297.7499, y: -800.7, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 1
+    landscapeOverlayLayout:
+      box:
+        position: {x: -640, y: -125, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -147, y: 167, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 838, y: 838, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 22.00002, y: -181, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 990, y: 360.99, z: 0}
+        anchorMin: {x: 0.5, y: 1}
+        anchorMax: {x: 0.5, y: 1}
+        pivot: {x: 0.5, y: 1}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 500, y: 500, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 0
+    requiredAction: 6
+    script: {fileID: 11400000, guid: adbd6cc8c8115cf488f656e7206f4323, type: 2}
+    maskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: 
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 0
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 0
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 1
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: 
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  - hideOverlay: 0
+    isTracked: 1
+    trackingEventId: 025_elsie_chief_are_you_ok
+    funnelTrackingStep: 25
+    altInputFlag: 0
+    showAnimation: 0
+    fadeOutAnimation: 0
+    showText: 1
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: -772, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -358, y: 39, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 377, y: 377, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 23, y: 439, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 768, y: 585.6383, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskHighlight:
+        position: {x: 38.75, y: -856.9, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: 297.7499, y: -800.7, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 1
+    landscapeOverlayLayout:
+      box:
+        position: {x: -640, y: -125, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -147, y: 167, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 838, y: 838, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 22.00002, y: -181, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 990, y: 360.99, z: 0}
+        anchorMin: {x: 0.5, y: 1}
+        anchorMax: {x: 0.5, y: 1}
+        pivot: {x: 0.5, y: 1}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 500, y: 500, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 0
+    requiredAction: 0
+    script: {fileID: 0}
+    maskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: 
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 0
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 0
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 1
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: tutorial.EnterLevel1.1
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  - hideOverlay: 0
+    isTracked: 1
+    trackingEventId: 025_elsie_chief_are_you_ok
+    funnelTrackingStep: 25
+    altInputFlag: 0
+    showAnimation: 0
+    fadeOutAnimation: 0
+    showText: 1
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: -772, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -358, y: 39, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 377, y: 377, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 23, y: 439, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 768, y: 585.6383, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskHighlight:
+        position: {x: 38.75, y: -856.9, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: 297.7499, y: -800.7, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 1
+    landscapeOverlayLayout:
+      box:
+        position: {x: -640, y: -125, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -147, y: 167, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 838, y: 838, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 22.00002, y: -181, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 990, y: 360.99, z: 0}
+        anchorMin: {x: 0.5, y: 1}
+        anchorMax: {x: 0.5, y: 1}
+        pivot: {x: 0.5, y: 1}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 500, y: 500, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 0
+    requiredAction: 0
+    script: {fileID: 0}
+    maskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: 
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 0
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 0
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 1
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: tutorial.EnterLevel1.2
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  - hideOverlay: 0
+    isTracked: 1
+    trackingEventId: 025_elsie_chief_are_you_ok
+    funnelTrackingStep: 25
+    altInputFlag: 0
+    showAnimation: 0
+    fadeOutAnimation: 0
+    showText: 1
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: -772, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -358, y: 39, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 377, y: 377, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 23, y: 439, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 768, y: 585.6383, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskHighlight:
+        position: {x: 38.75, y: -856.9, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: 297.7499, y: -800.7, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 1
+    landscapeOverlayLayout:
+      box:
+        position: {x: -640, y: -125, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -147, y: 167, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 838, y: 838, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 22.00002, y: -181, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 990, y: 360.99, z: 0}
+        anchorMin: {x: 0.5, y: 1}
+        anchorMax: {x: 0.5, y: 1}
+        pivot: {x: 0.5, y: 1}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 500, y: 500, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 0
+    requiredAction: 0
+    script: {fileID: 0}
+    maskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: 
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 0
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 0
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 1
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: tutorial.EnterLevel1.3
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  - hideOverlay: 0
+    isTracked: 1
+    trackingEventId: 045_elsie_gotta_repair_great_totem
+    funnelTrackingStep: 45
+    altInputFlag: 0
+    showAnimation: 0
+    fadeOutAnimation: 1
+    showText: 1
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: -772, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -358, y: 39, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 377, y: 377, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 23, y: 439, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 768, y: 585.6383, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskHighlight:
+        position: {x: 38.75, y: -856.9, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: 297.7499, y: -800.7, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 1
+    landscapeOverlayLayout:
+      box:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      character:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      bubble:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 1
+    requiredAction: 5
+    script: {fileID: 0}
+    maskPadding:
+      top: 37
+      bottom: 50
+      left: 37
+      right: 40
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 1
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 1
+    clickMaskPositionDelay: 0
+    highlightTag: Tutorial - Town - Play
+    questTaskIndex: 0
+    arrowPosition: 1
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 0
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 1
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 1
+    highlightMove: 0
+    forceTownUI: 1
+    overrideTextKey: tutorial.EnterLevel1.4
+    speechBubbleAnimation: 1
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  - hideOverlay: 0
+    isTracked: 0
+    trackingEventId: 
+    funnelTrackingStep: 0
+    altInputFlag: 0
+    showAnimation: 0
+    fadeOutAnimation: 0
+    showText: 0
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      character:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      bubble:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 1
+    landscapeOverlayLayout:
+      box:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      character:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      bubble:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 1
+    requiredAction: 6
+    script: {fileID: 11400000, guid: d83eade74dc0499a801a7936506708d3, type: 2}
+    maskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: 
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 1
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 0
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 0
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: 
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  - hideOverlay: 0
+    isTracked: 0
+    trackingEventId: 
+    funnelTrackingStep: 0
+    altInputFlag: 0
+    showAnimation: 0
+    fadeOutAnimation: 0
+    showText: 0
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: -772, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -358, y: 39, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 377, y: 377, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 23, y: 439, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 768, y: 585.6383, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskHighlight:
+        position: {x: 38.75, y: -856.9, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: 297.7499, y: -800.7, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 95.5, y: 56.20001, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 1
+    landscapeOverlayLayout:
+      box:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      character:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      bubble:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 1
+    requiredAction: 6
+    script: {fileID: 11400000, guid: 2808f65a0f234347abd2eeb692b48816, type: 2}
+    maskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: Tutorial - Town - Play
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 0
+    iconInTextBox: 0
+    iconSprite: {fileID: 0}
+    leftBubbleIcon: 0
+    roundHighlight: 0
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 0
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: 
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 0
+    buildingId: 
+    markerId: 
+  index: 6

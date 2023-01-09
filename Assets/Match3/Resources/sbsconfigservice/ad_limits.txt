@@ -1,0 +1,7 @@
+{
+    "global_daily_limit": 9999,
+    "wheel_daily_limit": 9999,
+    "challenges_daily_limit": 9999,
+    "gift_daily_limit": 9999,
+    "lives_shop_daily_limit": 9999
+}

@@ -1,0 +1,230 @@
+
+treasureAtlas.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hp1 body
+  rotate: false
+  xy: 251, 10
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+hp1 mouth
+  rotate: false
+  xy: 496, 69
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+hp1 sand bg
+  rotate: false
+  xy: 118, 55
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+hp1 sand cover
+  rotate: false
+  xy: 166, 19
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+hp2 eye left
+  rotate: true
+  xy: 405, 86
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+hp2 eye right
+  rotate: true
+  xy: 66, 10
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+hp2 sand bg
+  rotate: false
+  xy: 2, 53
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+reveal  claw back bottom
+  rotate: false
+  xy: 468, 63
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+reveal  claw back top
+  rotate: false
+  xy: 324, 26
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+reveal  front claw bottom
+  rotate: false
+  xy: 286, 6
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+reveal body
+  rotate: false
+  xy: 285, 64
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+reveal eye left
+  rotate: true
+  xy: 2, 10
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+reveal eye left closed bottom
+  rotate: true
+  xy: 222, 19
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+reveal eye left closed top
+  rotate: false
+  xy: 359, 46
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+reveal eye right
+  rotate: false
+  xy: 350, 76
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+reveal eye right closed bottom
+  rotate: false
+  xy: 359, 15
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+reveal eye right closed top
+  rotate: false
+  xy: 286, 28
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+reveal front claw top
+  rotate: false
+  xy: 458, 91
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+reveal front leg centre
+  rotate: false
+  xy: 341, 6
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+reveal front leg left
+  rotate: true
+  xy: 355, 2
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+reveal front leg middle
+  rotate: false
+  xy: 393, 27
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+reveal legs back  right
+  rotate: true
+  xy: 468, 49
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+reveal legs back centre
+  rotate: false
+  xy: 408, 35
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+reveal legs back left
+  rotate: true
+  xy: 375, 2
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+reveal mouth
+  rotate: true
+  xy: 319, 5
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+reveal pupil left
+  rotate: false
+  xy: 405, 54
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+reveal pupil right
+  rotate: false
+  xy: 437, 55
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+reveal shadow
+  rotate: false
+  xy: 166, 2
+  size: 73, 15
+  orig: 73, 15
+  offset: 0, 0
+  index: -1
+reveal shell back
+  rotate: false
+  xy: 118, 8
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+reveal shell front
+  rotate: false
+  xy: 220, 58
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+reveal specular left
+  rotate: false
+  xy: 423, 41
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+reveal specular right
+  rotate: false
+  xy: 488, 50
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

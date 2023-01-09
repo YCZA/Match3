@@ -1,0 +1,374 @@
+{
+  "free_gifts": [
+    {
+      "id": "session_start_1",
+      "trigger_type": "session_start",
+      "trigger_detail": 2,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 30,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_2",
+      "trigger_type": "session_start",
+      "trigger_detail": 5,
+      "min_level": 0,
+      "max_level": 20,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 60,
+      "body_textkey": "ui.free_gift.2.body"
+    },
+    {
+      "id": "session_start_3",
+      "trigger_type": "session_start",
+      "trigger_detail": 5,
+      "min_level": 21,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 60,
+      "body_textkey": "ui.free_gift.3.body"
+    },
+    {
+      "id": "session_start_4",
+      "trigger_type": "session_start",
+      "trigger_detail": 10,
+      "min_level": 11,
+      "max_level": 30,
+      "gift_type": "coins",
+      "gift_amount": 100,
+      "body_textkey": "ui.free_gift.4.body"
+    },
+    {
+      "id": "session_start_5",
+      "trigger_type": "session_start",
+      "trigger_detail": 10,
+      "min_level": 31,
+      "max_level": 50,
+      "gift_type": "boost_pre_rainbow",
+      "gift_amount": 3,
+      "body_textkey": "ui.free_gift.5.body"
+    },
+    {
+      "id": "session_start_6",
+      "trigger_type": "session_start",
+      "trigger_detail": 10,
+      "min_level": 51,
+      "max_level": 99999,
+      "gift_type": "boost_rainbow",
+      "gift_amount": 2,
+      "body_textkey": "ui.free_gift.5.body"
+    },
+    {
+      "id": "session_start_7",
+      "trigger_type": "session_start",
+      "trigger_detail": 20,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 30,
+      "body_textkey": "ui.free_gift.2.body"
+    },
+    {
+      "id": "session_start_8",
+      "trigger_type": "session_start",
+      "trigger_detail": 30,
+      "min_level": 11,
+      "max_level": 50,
+      "gift_type": "coins",
+      "gift_amount": 200,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_9",
+      "trigger_type": "session_start",
+      "trigger_detail": 30,
+      "min_level": 51,
+      "max_level": 100,
+      "gift_type": "boost_pre_double_fish",
+      "gift_amount": 3,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_10",
+      "trigger_type": "session_start",
+      "trigger_detail": 30,
+      "min_level": 101,
+      "max_level": 99999,
+      "gift_type": "boost_hammer",
+      "gift_amount": 2,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_11",
+      "trigger_type": "session_start",
+      "trigger_detail": 40,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "diamonds",
+      "gift_amount": 20,
+      "body_textkey": "ui.free_gift.11.body"
+    },
+    {
+      "id": "session_start_12",
+      "trigger_type": "session_start",
+      "trigger_detail": 50,
+      "min_level": 31,
+      "max_level": 99999,
+      "gift_type": "boost_pre_bomb_linegem",
+      "gift_amount": 3,
+      "body_textkey": "ui.free_gift.7.body"
+    },
+    {
+      "id": "session_start_13",
+      "trigger_type": "session_start",
+      "trigger_detail": 65,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 20,
+      "body_textkey": "ui.free_gift.2.body"
+    },
+    {
+      "id": "session_start_14",
+      "trigger_type": "session_start",
+      "trigger_detail": 80,
+      "min_level": 31,
+      "max_level": 99999,
+      "gift_type": "boost_hammer",
+      "gift_amount": 2,
+      "body_textkey": "ui.free_gift.3.body"
+    },
+    {
+      "id": "session_start_15",
+      "trigger_type": "session_start",
+      "trigger_detail": 100,
+      "min_level": 31,
+      "max_level": 99999,
+      "gift_type": "boost_star",
+      "gift_amount": 2,
+      "body_textkey": "ui.free_gift.8.body"
+    },
+    {
+      "id": "session_start_16",
+      "trigger_type": "session_start",
+      "trigger_detail": 125,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 30,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_17",
+      "trigger_type": "session_start",
+      "trigger_detail": 150,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "diamonds",
+      "gift_amount": 50,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_18",
+      "trigger_type": "session_start",
+      "trigger_detail": 175,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 60,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_19",
+      "trigger_type": "session_start",
+      "trigger_detail": 200,
+      "min_level": 11,
+      "max_level": 99999,
+      "gift_type": "coins",
+      "gift_amount": 500,
+      "body_textkey": "ui.free_gift.9.body"
+    },
+    {
+      "id": "session_start_20",
+      "trigger_type": "session_start",
+      "trigger_detail": 250,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 45,
+      "body_textkey": "ui.free_gift.2.body"
+    },
+    {
+      "id": "session_start_21",
+      "trigger_type": "session_start",
+      "trigger_detail": 300,
+      "min_level": 31,
+      "max_level": 99999,
+      "gift_type": "boost_pre_rainbow",
+      "gift_amount": 3,
+      "body_textkey": "ui.free_gift.7.body"
+    },
+    {
+      "id": "session_start_22",
+      "trigger_type": "session_start",
+      "trigger_detail": 350,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 30,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_23",
+      "trigger_type": "session_start",
+      "trigger_detail": 400,
+      "min_level": 31,
+      "max_level": 99999,
+      "gift_type": "boost_hammer",
+      "gift_amount": 2,
+      "body_textkey": "ui.free_gift.9.body"
+    },
+    {
+      "id": "session_start_24",
+      "trigger_type": "session_start",
+      "trigger_detail": 450,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 60,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_25",
+      "trigger_type": "session_start",
+      "trigger_detail": 500,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "diamonds",
+      "gift_amount": 50,
+      "body_textkey": "ui.free_gift.11.body"
+    },
+    {
+      "id": "session_start_26",
+      "trigger_type": "session_start",
+      "trigger_detail": 550,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 20,
+      "body_textkey": "ui.free_gift.2.body"
+    },
+    {
+      "id": "session_start_27",
+      "trigger_type": "session_start",
+      "trigger_detail": 600,
+      "min_level": 11,
+      "max_level": 99999,
+      "gift_type": "coins",
+      "gift_amount": 500,
+      "body_textkey": "ui.free_gift.9.body"
+    },
+    {
+      "id": "session_start_28",
+      "trigger_type": "session_start",
+      "trigger_detail": 650,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 30,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_29",
+      "trigger_type": "session_start",
+      "trigger_detail": 700,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "diamonds",
+      "gift_amount": 100,
+      "body_textkey": "ui.free_gift.11.body"
+    },
+    {
+      "id": "session_start_30",
+      "trigger_type": "session_start",
+      "trigger_detail": 750,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 60,
+      "body_textkey": "ui.free_gift.2.body"
+    },
+    {
+      "id": "session_start_31",
+      "trigger_type": "session_start",
+      "trigger_detail": 800,
+      "min_level": 31,
+      "max_level": 99999,
+      "gift_type": "boost_rainbow",
+      "gift_amount": 2,
+      "body_textkey": "ui.free_gift.7.body"
+    },
+    {
+      "id": "session_start_32",
+      "trigger_type": "session_start",
+      "trigger_detail": 850,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 45,
+      "body_textkey": "ui.free_gift.1.body"
+    },
+    {
+      "id": "session_start_33",
+      "trigger_type": "session_start",
+      "trigger_detail": 900,
+      "min_level": 31,
+      "max_level": 99999,
+      "gift_type": "boost_pre_bomb_linegem",
+      "gift_amount": 3,
+      "body_textkey": "ui.free_gift.7.body"
+    },
+    {
+      "id": "session_start_34",
+      "trigger_type": "session_start",
+      "trigger_detail": 950,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "lives_unlimited",
+      "gift_amount": 60,
+      "body_textkey": "ui.free_gift.9.body"
+    },
+    {
+      "id": "session_start_35",
+      "trigger_type": "session_start",
+      "trigger_detail": 1000,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "coins",
+      "gift_amount": 1000,
+      "body_textkey": "ui.free_gift.10.body"
+    },
+    {
+      "id": "session_start_36",
+      "trigger_type": "session_start",
+      "trigger_detail": 5000,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "diamonds",
+      "gift_amount": 150,
+      "body_textkey": "ui.free_gift.11.body"
+    },
+    {
+      "id": "session_start_37",
+      "trigger_type": "session_start",
+      "trigger_detail": 10000,
+      "min_level": 0,
+      "max_level": 99999,
+      "gift_type": "coins",
+      "gift_amount": 2000,
+      "body_textkey": "ui.free_gift.12.body"
+    }
+  ]
+}

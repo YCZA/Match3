@@ -1,0 +1,6 @@
+{
+  "serviceInitialization": 10,
+  "kvsRead": 5,
+  "default_request": 5,
+  "giftlink_verification_request" : 60
+}

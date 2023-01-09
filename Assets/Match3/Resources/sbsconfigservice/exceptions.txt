@@ -1,0 +1,46 @@
+{
+  "whitelist": [
+    {
+      "Name": "ExecutionEngineException",
+      "Message": "SIGILL"
+    },
+    {
+      "Name": "SbsInvalidSignatureException",
+      "CallstackFragment": "SbsNetworkingUnityBase",
+      "Report": true
+    },
+    {
+      "Name": "Stale touch detected!",
+      "Report": false
+    },
+    {
+      "Name": "java.",
+      "Report": true,
+      "RequireExactMatch": false
+    },
+    {
+      "Name": "javax.",
+      "Report": true,
+      "RequireExactMatch": false
+    }
+  ],
+
+  "handlerRules": [
+    {
+      "message": "can't be loaded because it was not built with the right version or build target.",
+      "actionType": 1
+    },
+    {
+      "message": "Rebuild the AssetBundle to fix this error.",
+      "actionType": 1
+    },
+    {
+      "message": "A script behaviour (script unknown or not yet loaded) has a different serialization layout when loading.",
+      "actionType": 1
+    },
+    {
+      "name": "Tryng to load a stream which is already loaded.",
+      "actionType": 1
+    }
+  ]
+}

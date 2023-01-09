@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Trail
+  m_Shader: {fileID: 4800000, guid: 2ca79cc50b6a41c7b045678ca4f51554, type: 3}
+  m_ShaderKeywords: XYZAXIS
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 16b1af3648e54901be822ff21b77b7df, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: a1488240b5b24cb8a2128d10a1ac6fe3, type: 3}
+        m_Scale: {x: 0.15, y: 0.35}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FadeIn: 1
+    - _GlowFrequency: 5
+    - _GlowIntensity: 1
+    - _GlowSpeed: 6
+    - _OffsetSpeed: 500
+    - _OffsetStrength: 0.3
+    m_Colors:
+    - _GlowColor: {r: 0, g: 0.2551723, b: 1, a: 1}
+    - _MainColorA: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColorB: {r: 0.9215687, g: 0.3098039, b: 0.509804, a: 1}

@@ -1,0 +1,244 @@
+{
+  "sets": [
+    {
+      "set": 1,
+      "level": 1,
+      "file_name": "1",
+      "objective": "water"
+    },
+    {
+      "set": 1,
+      "level": 2,
+      "file_name": "2",
+      "objective": "water"
+    },
+    {
+      "set": 1,
+      "level": 3,
+      "file_name": "3",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 1,
+      "level": 4,
+      "file_name": "4",
+      "objective": "treasure"
+    },
+    {
+      "set": 1,
+      "level": 5,
+      "file_name": "5",
+      "objective": "recipe"
+    },
+    {
+      "set": 1,
+      "level": 6,
+      "file_name": "6",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 1,
+      "level": 7,
+      "file_name": "7",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 1,
+      "level": 8,
+      "file_name": "8",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 1,
+      "level": 9,
+      "file_name": "9",
+      "objective": "water"
+    },
+    {
+      "set": 1,
+      "level": 10,
+      "file_name": "10",
+      "objective": "climber"
+    },
+    {
+      "set": 2,
+      "level": 1,
+      "file_name": "1",
+      "objective": "droppable"
+    },
+    {
+      "set": 2,
+      "level": 2,
+      "file_name": "2",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 2,
+      "level": 3,
+      "file_name": "3",
+      "objective": "treasure"
+    },
+    {
+      "set": 2,
+      "level": 4,
+      "file_name": "4",
+      "objective": "water"
+    },
+    {
+      "set": 2,
+      "level": 5,
+      "file_name": "5",
+      "objective": "droppable"
+    },
+    {
+      "set": 2,
+      "level": 6,
+      "file_name": "6",
+      "objective": "treasure"
+    },
+    {
+      "set": 2,
+      "level": 7,
+      "file_name": "7",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 2,
+      "level": 8,
+      "file_name": "8",
+      "objective": "water"
+    },
+    {
+      "set": 2,
+      "level": 9,
+      "file_name": "9",
+      "objective": "water"
+    },
+    {
+      "set": 2,
+      "level": 10,
+      "file_name": "10",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 3,
+      "level": 1,
+      "file_name": "1",
+      "objective": "droppable"
+    },
+    {
+      "set": 3,
+      "level": 2,
+      "file_name": "2",
+      "objective": "resistant_blocker"
+    },
+    {
+      "set": 3,
+      "level": 3,
+      "file_name": "3",
+      "objective": "recipe"
+    },
+    {
+      "set": 3,
+      "level": 4,
+      "file_name": "4",
+      "objective": "water"
+    },
+    {
+      "set": 3,
+      "level": 5,
+      "file_name": "5",
+      "objective": "climber"
+    },
+    {
+      "set": 3,
+      "level": 6,
+      "file_name": "6",
+      "objective": "water"
+    },
+    {
+      "set": 3,
+      "level": 7,
+      "file_name": "7",
+      "objective": "resistant_blocker"
+    },
+    {
+      "set": 3,
+      "level": 8,
+      "file_name": "8",
+      "objective": "climber"
+    },
+    {
+      "set": 3,
+      "level": 9,
+      "file_name": "9",
+      "objective": "water"
+    },
+    {
+      "set": 3,
+      "level": 10,
+      "file_name": "10",
+      "objective": "recipe"
+    },
+    {
+      "set": 4,
+      "level": 1,
+      "file_name": "1",
+      "objective": "water"
+    },
+    {
+      "set": 4,
+      "level": 2,
+      "file_name": "2",
+      "objective": "climber"
+    },
+    {
+      "set": 4,
+      "level": 3,
+      "file_name": "3",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 4,
+      "level": 4,
+      "file_name": "4",
+      "objective": "droppable"
+    },
+    {
+      "set": 4,
+      "level": 5,
+      "file_name": "5",
+      "objective": "hiddenitem"
+    },
+    {
+      "set": 4,
+      "level": 6,
+      "file_name": "6",
+      "objective": "water"
+    },
+    {
+      "set": 4,
+      "level": 7,
+      "file_name": "7",
+      "objective": "droppable"
+    },
+    {
+      "set": 4,
+      "level": 8,
+      "file_name": "8",
+      "objective": "treasure"
+    },
+    {
+      "set": 4,
+      "level": 9,
+      "file_name": "9",
+      "objective": "treasure"
+    },
+    {
+      "set": 4,
+      "level": 10,
+      "file_name": "10",
+      "objective": "recipe"
+    }
+  ]
+}

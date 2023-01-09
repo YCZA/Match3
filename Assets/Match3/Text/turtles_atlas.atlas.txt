@@ -1,0 +1,286 @@
+
+turtles_atlas.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+turtle front leg left
+  rotate: true
+  xy: 170, 63
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+turtle front leg right
+  rotate: true
+  xy: 237, 62
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+turtle hind leg left
+  rotate: false
+  xy: 789, 92
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+turtle hind leg right
+  rotate: false
+  xy: 846, 92
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+turtle left eye lid closed
+  rotate: false
+  xy: 216, 18
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+turtle left eye lid half
+  rotate: false
+  xy: 259, 18
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+turtle left eye outer
+  rotate: false
+  xy: 693, 80
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+turtle left eye pupil
+  rotate: false
+  xy: 544, 34
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+turtle left eye specular
+  rotate: false
+  xy: 1003, 113
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+turtle right eye specular
+  rotate: false
+  xy: 1003, 113
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+turtle left eye white
+  rotate: true
+  xy: 370, 35
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+turtle mouth
+  rotate: false
+  xy: 636, 74
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+turtle right eye lid closed
+  rotate: false
+  xy: 414, 34
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+turtle right eye lid half
+  rotate: false
+  xy: 457, 35
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+turtle right eye outer
+  rotate: false
+  xy: 741, 80
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+turtle right eye pupil
+  rotate: false
+  xy: 914, 50
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+turtle right eye white
+  rotate: true
+  xy: 500, 31
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+turtle shell
+  rotate: false
+  xy: 2, 44
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+turtle skull
+  rotate: false
+  xy: 440, 79
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+turtleDoober belly
+  rotate: true
+  xy: 873, 50
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+turtleDoober front leg left
+  rotate: true
+  xy: 510, 74
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+turtleDoober front leg right
+  rotate: false
+  xy: 370, 78
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+turtleDoober hind leg left
+  rotate: true
+  xy: 953, 48
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+turtleDoober hind leg right
+  rotate: true
+  xy: 619, 36
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+turtleDoober left eye lid closed
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+turtleDoober left eye lid half
+  rotate: false
+  xy: 44, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+turtleDoober left eye outer
+  rotate: false
+  xy: 957, 82
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+turtleDoober left eye pupil
+  rotate: false
+  xy: 582, 36
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+turtleDoober left eye specular
+  rotate: true
+  xy: 89, 44
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+turtleDoober left eye white
+  rotate: false
+  xy: 86, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+turtleDoober mouth
+  rotate: false
+  xy: 575, 73
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+turtleDoober neck
+  rotate: true
+  xy: 903, 89
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+turtleDoober right eye lid closed
+  rotate: false
+  xy: 128, 29
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+turtleDoober right eye lid half
+  rotate: true
+  xy: 789, 51
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+turtleDoober right eye outer
+  rotate: false
+  xy: 170, 17
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+turtleDoober right eye pupil
+  rotate: false
+  xy: 655, 37
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+turtleDoober right eye specular
+  rotate: false
+  xy: 89, 57
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+turtleDoober right eye white
+  rotate: false
+  xy: 831, 50
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+turtleDoober shell
+  rotate: false
+  xy: 304, 63
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+turtleDoober skull
+  rotate: false
+  xy: 89, 71
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1

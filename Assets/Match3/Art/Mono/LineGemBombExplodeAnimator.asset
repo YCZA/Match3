@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d1ae4da0b215116e05d788f323d6fa, type: 3}
+  m_Name: "LineGemBombExplodeAnimator"
+  m_EditorClassIdentifier: 
+  boardView: {fileID: 0}
+  animController: {fileID: 0}
+  dropAnimator: {fileID: 0}
+  duration: 1
+  matchAnimator: {fileID: 11400000, guid: d77f8c331cdf4210af7e9dd9f42a8723, type: 2}
+  spreadingLineGemsDuration: 0.35
+  linegemExplosionFx: {fileID: 1790704293682829713, guid: 0ebaa842f1cd4823a1b212ee337b0f84, type: 2}
+  centerExplosionFx: {fileID: 1790704293682829738, guid: 810314df356d4685bcf15faaca48c64a, type: 2}
+  endExplosionFx: {fileID: 1790704293682829717, guid: 50003e8fa70c49aa9eb4d83ef41ad86d, type: 2}
+  cascadeDelay: 0.0765

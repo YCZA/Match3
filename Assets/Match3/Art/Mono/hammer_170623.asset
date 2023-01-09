@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 012da80bf7c6a69627b744f4301b33a9, type: 3}
+  m_Name: "hammer_170623"
+  m_EditorClassIdentifier: 
+  trigger: 0
+  level: 12
+  storyId: 
+  markerId: 
+  forceReturnToIsland: 0
+  steps:
+  - hideOverlay: 0
+    isTracked: 0
+    trackingEventId: "381_09_use_free_hammer_boost"
+    funnelTrackingStep: 381
+    altInputFlag: 0
+    showAnimation: 3
+    fadeOutAnimation: 0
+    showText: 1
+    character: 0
+    overlayLayout:
+      box:
+        position: {x: -23, y: 180, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 1034, y: 763, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      character:
+        position: {x: -147, y: 167, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 838, y: 838, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      bubble:
+        position: {x: 22.00002, y: -181, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 990, y: 0, z: 0}
+        anchorMin: {x: 0.5, y: 1}
+        anchorMax: {x: 0.5, y: 1}
+        pivot: {x: 0.5, y: 1}
+      maskHighlight:
+        position: {x: 298.7832, y: 135.9999, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 312, y: 312, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0.5, y: 0.5}
+      maskClick:
+        position: {x: -241.2168, y: -824.0001, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 192.23, y: 184.4, z: 0}
+        anchorMin: {x: 0.5, y: 0.5}
+        anchorMax: {x: 0.5, y: 0.5}
+        pivot: {x: 0.5, y: 0.5}
+      isDefault: 0
+    landscapeOverlayLayout:
+      box:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      character:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      bubble:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskHighlight:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      maskClick:
+        position: {x: 0, y: 0, z: 0}
+        rotation: {x: 0, y: 0, z: 0}
+        scale: {x: 0, y: 0, z: 0}
+        sizeDelta: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+      isDefault: 1
+    requiredAction: 3
+    script: {fileID: 0}
+    maskPadding:
+      top: 50
+      bottom: 50
+      left: 50
+      right: 50
+    landscapeMaskPadding:
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    highlightTaggedObject: 0
+    highlightQuestObject: 0
+    forceHighlight: 0
+    dynamicHighlight: 0
+    clickMaskPositionDelay: 0
+    highlightTag: 
+    questTaskIndex: 0
+    arrowPosition: 0
+    showHand: 0
+    ingoreBlockerManager: 0
+    addBlockingOverlay: 0
+    iconInTextBox: 1
+    iconSprite: {fileID: 21300000, guid: c706183ad9714f98bafdd94c73301bb7, type: 3}
+    leftBubbleIcon: 0
+    roundHighlight: 1
+    manualClickMaskPlacement: 0
+    shouldOverrideTextKey: 0
+    highlightMove: 0
+    forceTownUI: 0
+    overrideTextKey: 
+    speechBubbleAnimation: 0
+    gameboard:
+      arr: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    boost: 1
+    buildingId: 
+    markerId: 
+  index: 0

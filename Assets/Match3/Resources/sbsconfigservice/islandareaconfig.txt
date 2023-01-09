@@ -1,0 +1,503 @@
+
+{
+    "configs" : [
+        {
+            "island_id" : 0,
+            "global_area" : 1,
+            "local_area"  : 1,
+            "rubble_id"   : 1,
+            "rubble_order" : 1,
+            "chapter"      : [
+                1,
+                2
+            ]
+        },
+        {
+            "island_id" : 0,
+            "global_area" : 2,
+            "local_area"  : 2,
+            "rubble_id"   : 2,
+            "rubble_order" : 2,
+            "chapter"      : [
+                3,
+                4
+            ]
+        },
+        {
+            "island_id" : 0,
+            "global_area" : 3,
+            "local_area"  : 3,
+            "rubble_id"   : 3,
+            "rubble_order" : 3,
+            "chapter"      : [
+                5,
+                6
+            ]
+        },
+        {
+            "island_id" : 0,
+            "global_area" : 4,
+            "local_area"  : 4,
+            "rubble_id"   : 4,
+            "rubble_order" : 4,
+            "chapter"      : [
+                7,
+                8
+            ]
+        },
+        {
+            "island_id" : 0,
+            "global_area" : 5,
+            "local_area"  : 5,
+            "rubble_id"   : 5,
+            "rubble_order" : 5,
+            "chapter"      : [
+                9,
+                10
+            ]
+        },
+        {
+            "island_id" : 0,
+            "global_area" : 6,
+            "local_area"  : 6,
+            "rubble_id"   : 6,
+            "rubble_order" : 6,
+            "chapter"      : [
+                11,
+                12
+            ]
+        },
+        {
+            "island_id" : 0,
+            "global_area" : 7,
+            "local_area"  : 7,
+            "rubble_id"   : 7,
+            "rubble_order" : 7,
+            "chapter"      : [
+                13,
+                14
+            ]
+        },
+        {
+            "island_id" : 0,
+            "global_area" : 8,
+            "local_area"  : 8,
+            "rubble_id"   : 8,
+            "rubble_order" : 8,
+            "chapter"      : [
+                15,
+                16
+            ]
+        },
+        {
+            "island_id" : 0,
+            "global_area" : 9,
+            "local_area"  : 9,
+            "rubble_id"   : 9,
+            "rubble_order" : 9,
+            "chapter"      : [
+                17,
+                18
+            ]
+        },
+        {
+            "island_id" : 1,
+            "global_area" : 10,
+            "local_area"  : 1,
+            "rubble_id"   : 10,
+            "rubble_order" : 10,
+            "chapter"      : [
+                19
+            ]
+        },
+        {
+            "island_id" : 1,
+            "global_area" : 11,
+            "local_area"  : 2,
+            "rubble_id"   : 10,
+            "rubble_order" : 10,
+            "chapter"      : [
+                20
+            ]
+        },
+        {
+            "island_id" : 1,
+            "global_area" : 12,
+            "local_area"  : 3,
+            "rubble_id"   : 10,
+            "rubble_order" : 10,
+            "chapter"      : [
+                21
+            ]
+        },
+        {
+            "island_id" : 1,
+            "global_area" : 13,
+            "local_area"  : 4,
+            "rubble_id"   : 10,
+            "rubble_order" : 10,
+            "chapter"      : [
+                22
+            ]
+        },
+        {
+            "island_id" : 1,
+            "global_area" : 30,
+            "local_area"  : 5,
+            "chapter"     : [
+                47,
+                48
+            ]
+        },
+        {
+            "island_id" : 1,
+            "global_area" : 31,
+            "local_area"  : 6,
+            "chapter"     : [
+                49,
+                50
+            ]
+        },
+        {
+            "island_id" : 1,
+            "global_area" : 32,
+            "local_area"  : 7,
+            "chapter"     : [
+                51,
+                52
+            ]
+        },
+        {
+            "island_id" : 1,
+            "global_area" : 33,
+            "local_area"  : 8,
+            "chapter"     : [
+                53,
+                54
+            ]
+        },
+        {
+            "island_id" : 2,
+            "global_area" : 14,
+            "local_area"  : 1,
+            "rubble_id"   : 14,
+            "rubble_order" : 11,
+            "chapter"      : [
+                23
+            ]
+        },
+        {
+            "island_id" : 2,
+            "global_area" : 15,
+            "local_area"  : 2,
+            "rubble_id"   : 14,
+            "rubble_order" : 11,
+            "chapter"      : [
+                24
+            ]
+        },
+        {
+            "island_id" : 2,
+            "global_area" : 16,
+            "local_area"  : 3,
+            "rubble_id"   : 14,
+            "rubble_order" : 11,
+            "chapter"      : [
+                25
+            ]
+        },
+        {
+            "island_id" : 2,
+            "global_area" : 17,
+            "local_area"  : 4,
+            "rubble_id"   : 14,
+            "rubble_order" : 11,
+            "chapter"      : [
+                26
+            ]
+        },
+        {
+            "island_id" : 2,
+            "global_area" : 34,
+            "local_area"  : 5,
+            "chapter"     : [
+                55,
+                56
+            ]
+        },
+        {
+            "island_id" : 2,
+            "global_area" : 35,
+            "local_area"  : 6,
+            "chapter"     : [
+                57,
+                58
+            ]
+        },
+        {
+            "island_id" : 2,
+            "global_area" : 36,
+            "local_area"  : 7,
+            "chapter"     : [
+                59,
+                60
+            ]
+        },
+        {
+            "island_id" : 2,
+            "global_area" : 37,
+            "local_area"  : 8,
+            "chapter"     : [
+                61,
+                62
+            ]
+        },
+        {
+            "island_id" : 3,
+            "global_area" : 18,
+            "local_area"  : 1,
+            "rubble_id"   : 18,
+            "rubble_order" : 12,
+            "chapter"      : [
+                27
+            ]
+        },
+        {
+            "island_id" : 3,
+            "global_area" : 19,
+            "local_area"  : 2,
+            "rubble_id"   : 18,
+            "rubble_order" : 12,
+            "chapter"      : [
+                28
+            ]
+        },
+        {
+            "island_id" : 3,
+            "global_area" : 20,
+            "local_area"  : 3,
+            "rubble_id"   : 18,
+            "rubble_order" : 12,
+            "chapter"      : [
+                29
+            ]
+        },
+        {
+            "island_id" : 3,
+            "global_area" : 21,
+            "local_area"  : 4,
+            "rubble_id"   : 18,
+            "rubble_order" : 12,
+            "chapter"      : [
+                30
+            ]
+        },
+        {
+            "island_id" : 3,
+            "global_area" : 38,
+            "local_area"  : 5,
+            "chapter"     : [
+                63,
+                64
+            ]
+        },
+        {
+            "island_id" : 3,
+            "global_area" : 39,
+            "local_area"  : 6,
+            "chapter"     : [
+                65,
+                66
+            ]
+        },
+        {
+            "island_id" : 3,
+            "global_area" : 40,
+            "local_area"  : 7,
+            "chapter"     : [
+                67,
+                68
+            ]
+        },
+        {
+            "island_id" : 3,
+            "global_area" : 41,
+            "local_area"  : 8,
+            "chapter"     : [
+                69,
+                70
+            ]
+        },
+        {
+            "island_id" : 4,
+            "global_area" : 22,
+            "local_area"  : 1,
+            "rubble_id"   : 22,
+            "rubble_order" : 13,
+            "chapter"      : [
+                31,
+                32
+            ]
+        },
+        {
+            "island_id" : 4,
+            "global_area" : 23,
+            "local_area"  : 2,
+            "rubble_id"   : 22,
+            "rubble_order" : 13,
+            "chapter"      : [
+                33,
+                34
+            ]
+        },
+        {
+            "island_id" : 4,
+            "global_area" : 24,
+            "local_area"  : 3,
+            "rubble_id"   : 22,
+            "rubble_order" : 13,
+            "chapter"      : [
+                35,
+                36
+            ]
+        },
+        {
+            "island_id" : 4,
+            "global_area" : 25,
+            "local_area"  : 4,
+            "rubble_id"   : 22,
+            "rubble_order" : 13,
+            "chapter"      : [
+                37,
+                38
+            ]
+        },
+        {
+            "island_id" : 4,
+            "global_area" : 42,
+            "local_area"  : 5,
+            "chapter"     : [
+                71,
+                72
+            ]
+        },
+        {
+            "island_id" : 4,
+            "global_area" : 43,
+            "local_area"  : 6,
+            "chapter"     : [
+                73,
+                74
+            ]
+        },
+        {
+            "island_id" : 4,
+            "global_area" : 44,
+            "local_area"  : 7,
+            "chapter"     : [
+                75,
+                76
+            ]
+        },
+        {
+            "island_id" : 4,
+            "global_area" : 45,
+            "local_area"  : 8,
+            "chapter"     : [
+                77,
+                78
+            ]
+        },
+        {
+            "island_id" : 5,
+            "global_area" : 26,
+            "local_area"  : 1,
+            "rubble_id"   : 26,
+            "rubble_order" : 14,
+            "chapter"      : [
+                39,
+                40
+            ]
+        },
+        {
+            "island_id" : 5,
+            "global_area" : 27,
+            "local_area"  : 2,
+            "rubble_id"   : 26,
+            "rubble_order" : 14,
+            "chapter"      : [
+                41,
+                42
+            ]
+        },
+        {
+            "island_id" : 5,
+            "global_area" : 28,
+            "local_area"  : 3,
+            "rubble_id"   : 26,
+            "rubble_order" : 14,
+            "chapter"      : [
+                43,
+                44
+            ]
+        },
+        {
+            "island_id" : 5,
+            "global_area" : 29,
+            "local_area"  : 4,
+            "rubble_id"   : 26,
+            "rubble_order" : 14,
+            "chapter"      : [
+                45,
+                46
+            ]
+        },
+        {
+            "island_id" : 5,
+            "global_area" : 46,
+            "local_area"  : 5,
+            "chapter"     : [
+                79,
+                80
+            ]
+        },
+        {
+            "island_id" : 5,
+            "global_area" : 47,
+            "local_area"  : 6,
+            "chapter"     : [
+                81,
+                82
+            ]
+        },
+        {
+            "island_id" : 5,
+            "global_area" : 48,
+            "local_area"  : 7,
+            "chapter"     : [
+                83,
+                84
+            ]
+        },
+        {
+            "island_id" : 5,
+            "global_area" : 49,
+            "local_area"  : 8,
+            "chapter"     : [
+                85,
+                86
+            ]
+        },
+        {
+            "island_id" : 6,
+            "global_area" : 50,
+            "local_area"  : 1,
+            "rubble_id"   : 30,
+            "rubble_order" : 15,
+            "chapter"      : [
+                87,
+                88
+            ]
+        }
+    ]
+}

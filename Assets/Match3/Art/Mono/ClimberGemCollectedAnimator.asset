@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36363c9e68d693f39ab756986306bbe3, type: 3}
+  m_Name: "ClimberGemCollectedAnimator"
+  m_EditorClassIdentifier: 
+  boardView: {fileID: 0}
+  animController: {fileID: 0}
+  dropAnimator: {fileID: 0}
+  duration: 0.7
+  matchAnimator: {fileID: 11400000, guid: d77f8c331cdf4210af7e9dd9f42a8723, type: 2}
+  collectedAnimation: {fileID: 7400000, guid: fc659f27822545d2aa88a17065597393, type: 2}
+  matchedVfx: {fileID: 1790704293682829718, guid: 6d9028c1394c44bfbd557dcdfa8147bc, type: 2}
+  trailVfx: {fileID: 1790704293682829681, guid: fdf1b630d83e49979aa93ad8b964c34e, type: 2}
+  climberChargeVfx: {fileID: 1790704293682829677, guid: 2f1d50e769494e84bdf92970da64743b, type: 2}
+  coolDownDuration: 0.5
+  levelToSpeedUp: 3

@@ -1,0 +1,447 @@
+{
+  "balancing": {
+    "unlock_level": 11,
+    "trigger_packages": "offer_xs, offer_s, offer_m, offer_l, piggy_m, diamonds_xs, diamonds_m, diamonds_l",
+    "exclude_packages": "diamonds_xl, diamonds_xxl, offer_xl, offer_xxl",
+    "unlock_time": 9,
+    "number_of_island_loads": 3
+  },
+  "deals": [
+    {
+      "offer_id": 1,
+      "bundle_id": "tc_dd1",
+      "currency_type": "diamonds",
+      "currency_amount": 750,
+      "bonus_1_type": "diamonds",
+      "bonus_1_amount": 375,
+      "discount": 30,
+      "design description": "diamonds small diamonds 30"
+    },
+    {
+      "offer_id": 2,
+      "bundle_id": "tc_dd1",
+      "currency_type": "diamonds",
+      "currency_amount": 750,
+      "bonus_1_type": "diamonds",
+      "bonus_1_amount": 750,
+      "discount": 50,
+      "design description": "diamonds small diamonds 50"
+    },
+    {
+      "offer_id": 3,
+      "bundle_id": "tc_dd1",
+      "currency_type": "diamonds",
+      "currency_amount": 750,
+      "bonus_1_type": "coins",
+      "bonus_1_amount": 3750,
+      "discount": 50,
+      "design description": "diamonds small coins 50"
+    },
+    {
+      "offer_id": 4,
+      "bundle_id": "tc_dd1",
+      "currency_type": "diamonds",
+      "currency_amount": 750,
+      "bonus_1_type": "boost_pre_bomb_linegem",
+      "bonus_1_amount": 4,
+      "bonus_2_type": "boost_pre_double_fish",
+      "bonus_2_amount": 4,
+      "bonus_3_type": "boost_pre_rainbow",
+      "bonus_3_amount": 4,
+      "discount": 30,
+      "design description": "diamonds small boosts 30"
+    },
+    {
+      "offer_id": 5,
+      "bundle_id": "tc_dd1",
+      "currency_type": "diamonds",
+      "currency_amount": 750,
+      "bonus_1_type": "boost_pre_bomb_linegem",
+      "bonus_1_amount": 6,
+      "bonus_2_type": "boost_pre_double_fish",
+      "bonus_2_amount": 6,
+      "bonus_3_type": "boost_pre_rainbow",
+      "bonus_3_amount": 6,
+      "discount": 40,
+      "design description": "diamonds small boosts 40"
+    },
+    {
+      "offer_id": 6,
+      "bundle_id": "tc_dd1",
+      "currency_type": "diamonds",
+      "currency_amount": 750,
+      "bonus_1_type": "boost_pre_bomb_linegem",
+      "bonus_1_amount": 8,
+      "bonus_2_type": "boost_pre_double_fish",
+      "bonus_2_amount": 8,
+      "bonus_3_type": "boost_pre_rainbow",
+      "bonus_3_amount": 8,
+      "discount": 50,
+      "design description": "diamonds small boosts 50"
+    },
+    {
+      "offer_id": 7,
+      "bundle_id": "tc_dd1",
+      "currency_type": "diamonds",
+      "currency_amount": 750,
+      "bonus_1_type": "iso_dailydeals_deco_altar_cat",
+      "bonus_1_amount": 1,
+      "discount": 40,
+      "design description": "diamonds small deco 40"
+    },
+    {
+      "offer_id": 8,
+      "bundle_id": "tc_dd1",
+      "currency_type": "diamonds",
+      "currency_amount": 750,
+      "bonus_1_type": "iso_dailydeals_animal_pangolin",
+      "bonus_1_amount": 1,
+      "discount": 50,
+      "design description": "diamonds small deco 50"
+    },
+    {
+      "offer_id": 9,
+      "bundle_id": "tc_dd2",
+      "currency_type": "diamonds",
+      "currency_amount": 1500,
+      "bonus_1_type": "diamonds",
+      "bonus_1_amount": 750,
+      "discount": 30,
+      "design description": "diamonds big diamonds 30"
+    },
+    {
+      "offer_id": 10,
+      "bundle_id": "tc_dd2",
+      "currency_type": "diamonds",
+      "currency_amount": 1500,
+      "bonus_1_type": "diamonds",
+      "bonus_1_amount": 1125,
+      "discount": 40,
+      "design description": "diamonds big diamonds 40"
+    },
+    {
+      "offer_id": 11,
+      "bundle_id": "tc_dd2",
+      "currency_type": "diamonds",
+      "currency_amount": 1500,
+      "bonus_1_type": "coins",
+      "bonus_1_amount": 3750,
+      "discount": 30,
+      "design description": "diamonds big coins 30"
+    },
+    {
+      "offer_id": 12,
+      "bundle_id": "tc_dd2",
+      "currency_type": "diamonds",
+      "currency_amount": 1500,
+      "bonus_1_type": "coins",
+      "bonus_1_amount": 5625,
+      "discount": 40,
+      "design description": "diamonds big coins 40"
+    },
+    {
+      "offer_id": 13,
+      "bundle_id": "tc_dd2",
+      "currency_type": "diamonds",
+      "currency_amount": 1500,
+      "bonus_1_type": "coins",
+      "bonus_1_amount": 7500,
+      "discount": 50,
+      "design description": "diamonds big coins 50"
+    },
+    {
+      "offer_id": 14,
+      "bundle_id": "tc_dd2",
+      "currency_type": "diamonds",
+      "currency_amount": 1500,
+      "bonus_1_type": "boost_pre_bomb_linegem",
+      "bonus_1_amount": 8,
+      "bonus_2_type": "boost_pre_double_fish",
+      "bonus_2_amount": 8,
+      "bonus_3_type": "boost_pre_rainbow",
+      "bonus_3_amount": 8,
+      "discount": 30,
+      "design description": "diamonds big boosts 30"
+    },
+    {
+      "offer_id": 15,
+      "bundle_id": "tc_dd2",
+      "currency_type": "diamonds",
+      "currency_amount": 1500,
+      "bonus_1_type": "iso_dailydeals_nature_tree_pond",
+      "bonus_1_amount": 1,
+      "discount": 40,
+      "design description": "diamonds big deco 40"
+    },
+    {
+      "offer_id": 16,
+      "bundle_id": "tc_dd2",
+      "currency_type": "diamonds",
+      "currency_amount": 1500,
+      "bonus_1_type": "iso_dailydeals_animal_parrot",
+      "bonus_1_amount": 1,
+      "discount": 50,
+      "design description": "diamonds big deco 50"
+    },
+    {
+      "offer_id": 17,
+      "bundle_id": "tc_dd3",
+      "currency_type": "coins",
+      "currency_amount": 3750,
+      "bonus_1_type": "coins",
+      "bonus_1_amount": 1875,
+      "discount": 30,
+      "design description": "coins small coins 30"
+    },
+    {
+      "offer_id": 18,
+      "bundle_id": "tc_dd3",
+      "currency_type": "coins",
+      "currency_amount": 3750,
+      "bonus_1_type": "coins",
+      "bonus_1_amount": 2815,
+      "discount": 40,
+      "design description": "coins small coins 40"
+    },
+    {
+      "offer_id": 19,
+      "bundle_id": "tc_dd3",
+      "currency_type": "coins",
+      "currency_amount": 3750,
+      "bonus_1_type": "diamonds",
+      "bonus_1_amount": 375,
+      "discount": 30,
+      "design description": "coins small diamonds 30"
+    },
+    {
+      "offer_id": 20,
+      "bundle_id": "tc_dd3",
+      "currency_type": "coins",
+      "currency_amount": 3750,
+      "bonus_1_type": "boost_pre_bomb_linegem",
+      "bonus_1_amount": 4,
+      "bonus_2_type": "boost_pre_double_fish",
+      "bonus_2_amount": 4,
+      "bonus_3_type": "boost_pre_rainbow",
+      "bonus_3_amount": 4,
+      "discount": 30,
+      "design description": "coins small boosts 30"
+    },
+    {
+      "offer_id": 21,
+      "bundle_id": "tc_dd3",
+      "currency_type": "coins",
+      "currency_amount": 3750,
+      "bonus_1_type": "boost_pre_bomb_linegem",
+      "bonus_1_amount": 6,
+      "bonus_2_type": "boost_pre_double_fish",
+      "bonus_2_amount": 6,
+      "bonus_3_type": "boost_pre_rainbow",
+      "bonus_3_amount": 6,
+      "discount": 40,
+      "design description": "coins small boosts 40"
+    },
+    {
+      "offer_id": 22,
+      "bundle_id": "tc_dd3",
+      "currency_type": "coins",
+      "currency_amount": 3750,
+      "bonus_1_type": "iso_dailydeals_deco_altar_cat",
+      "bonus_1_amount": 1,
+      "discount": 40,
+      "design description": "coins small deco 40"
+    },
+    {
+      "offer_id": 23,
+      "bundle_id": "tc_dd3",
+      "currency_type": "coins",
+      "currency_amount": 3750,
+      "bonus_1_type": "iso_dailydeals_animal_pangolin",
+      "bonus_1_amount": 1,
+      "discount": 50,
+      "design description": "coins small deco 50"
+    },
+    {
+      "offer_id": 24,
+      "bundle_id": "tc_dd4",
+      "currency_type": "coins",
+      "currency_amount": 7500,
+      "bonus_1_type": "coins",
+      "bonus_1_amount": 5625,
+      "discount": 40,
+      "design description": "coins big coins 40"
+    },
+    {
+      "offer_id": 25,
+      "bundle_id": "tc_dd4",
+      "currency_type": "coins",
+      "currency_amount": 7500,
+      "bonus_1_type": "diamonds",
+      "bonus_1_amount": 750,
+      "discount": 30,
+      "design description": "coins big diamonds 30"
+    },
+    {
+      "offer_id": 26,
+      "bundle_id": "tc_dd4",
+      "currency_type": "coins",
+      "currency_amount": 7500,
+      "bonus_1_type": "diamonds",
+      "bonus_1_amount": 1125,
+      "discount": 40,
+      "design description": "coins big diamonds 40"
+    },
+    {
+      "offer_id": 27,
+      "bundle_id": "tc_dd4",
+      "currency_type": "coins",
+      "currency_amount": 7500,
+      "bonus_1_type": "boost_pre_bomb_linegem",
+      "bonus_1_amount": 8,
+      "bonus_2_type": "boost_pre_double_fish",
+      "bonus_2_amount": 8,
+      "bonus_3_type": "boost_pre_rainbow",
+      "bonus_3_amount": 8,
+      "discount": 30,
+      "design description": "coins big boosts 30"
+    },
+    {
+      "offer_id": 28,
+      "bundle_id": "tc_dd4",
+      "currency_type": "coins",
+      "currency_amount": 7500,
+      "bonus_1_type": "iso_dailydeals_nature_tree_pond",
+      "bonus_1_amount": 1,
+      "discount": 40,
+      "design description": "coins big deco 40"
+    },
+    {
+      "offer_id": 29,
+      "bundle_id": "tc_dd4",
+      "currency_type": "coins",
+      "currency_amount": 7500,
+      "bonus_1_type": "iso_dailydeals_animal_parrot",
+      "bonus_1_amount": 1,
+      "discount": 50,
+      "design description": "coins big deco 50"
+    }
+  ],
+  "order": [
+    {
+      "day": 1,
+      "offer_id": 5
+    },
+    {
+      "day": 2,
+      "offer_id": 1
+    },
+    {
+      "day": 3,
+      "offer_id": 23
+    },
+    {
+      "day": 4,
+      "offer_id": 18
+    },
+    {
+      "day": 5,
+      "offer_id": 14
+    },
+    {
+      "day": 6,
+      "offer_id": 19
+    },
+    {
+      "day": 7,
+      "offer_id": 16
+    },
+    {
+      "day": 8,
+      "offer_id": 11
+    },
+    {
+      "day": 9,
+      "offer_id": 22
+    },
+    {
+      "day": 10,
+      "offer_id": 20
+    },
+    {
+      "day": 11,
+      "offer_id": 9
+    },
+    {
+      "day": 12,
+      "offer_id": 8
+    },
+    {
+      "day": 13,
+      "offer_id": 26
+    },
+    {
+      "day": 14,
+      "offer_id": 6
+    },
+    {
+      "day": 15,
+      "offer_id": 10
+    },
+    {
+      "day": 16,
+      "offer_id": 3
+    },
+    {
+      "day": 17,
+      "offer_id": 28
+    },
+    {
+      "day": 18,
+      "offer_id": 4
+    },
+    {
+      "day": 19,
+      "offer_id": 24
+    },
+    {
+      "day": 20,
+      "offer_id": 7
+    },
+    {
+      "day": 21,
+      "offer_id": 13
+    },
+    {
+      "day": 22,
+      "offer_id": 21
+    },
+    {
+      "day": 23,
+      "offer_id": 25
+    },
+    {
+      "day": 24,
+      "offer_id": 12
+    },
+    {
+      "day": 25,
+      "offer_id": 2
+    },
+    {
+      "day": 26,
+      "offer_id": 27
+    },
+    {
+      "day": 27,
+      "offer_id": 29
+    },
+    {
+      "day": 28,
+      "offer_id": 17
+    },
+    {
+      "day": 29,
+      "offer_id": 15
+    }
+  ]
+}

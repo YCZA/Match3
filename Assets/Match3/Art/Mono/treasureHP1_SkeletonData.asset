@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+  m_Name: "treasureHP1_SkeletonData"
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: e324daa4811148d3bb0221030e4b8e07, type: 2}
+  skeletonJSON: {fileID: 4900000, guid: a2fefa8114254934916fd279f18a8275, type: 3}
+  pixelsPerUnit: 128
+  fromAnimation: []
+  toAnimation: []
+  duration: 
+  defaultMix: 0.2
+  controller: {fileID: 9100000, guid: 6fddaa319be240ecb3ac02176f841a0d, type: 2}
+  centerAtPivot: 0

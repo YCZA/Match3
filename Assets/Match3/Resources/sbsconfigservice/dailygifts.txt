@@ -1,0 +1,128 @@
+
+{
+    "days" : [
+        {
+            "day" : 1,
+            "reward_type" : "boost_hammer",
+            "reward_amount" : 1,
+            "bonus_type"    : "coins",
+            "bonus_amount"  : 30,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 2,
+            "reward_type" : "diamonds",
+            "reward_amount" : 10,
+            "bonus_type"    : "lives_unlimited",
+            "bonus_amount"  : 15,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 3,
+            "reward_type" : "boost_pre_bomb_linegem",
+            "reward_amount" : 1,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 10,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 4,
+            "reward_type" : "coins",
+            "reward_amount" : 40,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 10,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 5,
+            "reward_type" : "boost_hammer",
+            "reward_amount" : 1,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 30,
+            "is_jackpot"    : 1
+        },
+        {
+            "day" : 6,
+            "reward_type" : "lives_unlimited",
+            "reward_amount" : 30,
+            "bonus_type"    : "coins",
+            "bonus_amount"  : 50,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 7,
+            "reward_type" : "boost_pre_double_fish",
+            "reward_amount" : 1,
+            "bonus_type"    : "lives_unlimited",
+            "bonus_amount"  : 15,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 8,
+            "reward_type" : "coins",
+            "reward_amount" : 60,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 15,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 9,
+            "reward_type" : "coins",
+            "reward_amount" : 70,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 15,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 10,
+            "reward_type" : "boost_star",
+            "reward_amount" : 2,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 50,
+            "is_jackpot"    : 1
+        },
+        {
+            "day" : 11,
+            "reward_type" : "boost_pre_bomb_linegem",
+            "reward_amount" : 1,
+            "bonus_type"    : "coins",
+            "bonus_amount"  : 80,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 12,
+            "reward_type" : "coins",
+            "reward_amount" : 90,
+            "bonus_type"    : "lives_unlimited",
+            "bonus_amount"  : 15,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 13,
+            "reward_type" : "boost_pre_rainbow",
+            "reward_amount" : 1,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 20,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 14,
+            "reward_type" : "coins",
+            "reward_amount" : 100,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 20,
+            "is_jackpot"    : 0
+        },
+        {
+            "day" : 15,
+            "reward_type" : "boost_rainbow",
+            "reward_amount" : 3,
+            "bonus_type"    : "diamonds",
+            "bonus_amount"  : 80,
+            "is_jackpot"    : 1
+        }
+    ],
+    "general" : {
+        "unlock_level" : 15
+    }
+}

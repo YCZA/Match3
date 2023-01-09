@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "MaterialParticleNoBlend"
+  m_Shader: {fileID: 4800000, guid: 4fc4297d9fdf40ffba49dca7db8b9cf7, type: 3}
+  m_ShaderKeywords: "USE_DIRECT_COLOR USE_MAINTEX _ALPHATEST_ON _GLOSSYREFLECTIONS_OFF
+_SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECULARHIGHLIGHTS_OFF"
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 8400000, guid: 175f5afff5b847b1959a409bdfdc4f99, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _AlphaClip: 0
+    - _AlphaCutoff: 0
+    - _AlphaMod: 1.19
+    - _Ambient: 0.5
+    - _Appear: 0
+    - _Bevel: 0.5
+    - _BevelClamp: 0
+    - _BevelOffset: 0
+    - _BevelRoundness: 0
+    - _BevelWidth: 0
+    - _BlendDestination: 1
+    - _BlendSource: 1
+    - _BumpFace: 0
+    - _BumpOutline: 0
+    - _BumpScale: 1
+    - _ColorMask: 15
+    - _ColorMultiplierDark: 1
+    - _ColorMultiplierLight: 2
+    - _Cutoff: 0.5
+    - _Cutout: 0.5
+    - _Depth: 0.1
+    - _DetailNormalMapScale: 1
+    - _Diffuse: 0.5
+    - _Dissolve: 0
+    - _DistortionPower: 1
+    - _DistortionSpeed: 1
+    - _DstBlend: 0
+    - _FaceDilate: 0
+    - _FaceUVSpeedX: 0
+    - _FaceUVSpeedY: 0
+    - _FlapSpeed: 1
+    - _Focus: -100
+    - _GlossMapScale: 0
+    - _Glossiness: 0.5
+    - _GlossyReflections: 0
+    - _GlowBlur: 4
+    - _GlowInner: 0.05
+    - _GlowIntensity: 1.25
+    - _GlowOffset: 0
+    - _GlowOuter: 0.05
+    - _GlowPower: 0.75
+    - _GlowSpread: 0.01
+    - _GradientScale: 5
+    - _HighlightSpeed: 0.5
+    - _HighlightTiling: 1
+    - _InvFade: 3
+    - _LightAngle: 3.1416
+    - _MaskSoftnessX: 0
+    - _MaskSoftnessY: 0
+    - _Metallic: 0
+    - _Mode: 1
+    - _ObjectLocationOffset: 1
+    - _OcclusionStrength: 1
+    - _OutlineSoftness: 0
+    - _OutlineUVSpeedX: 0
+    - _OutlineUVSpeedY: 0
+    - _OutlineWidth: 0
+    - _Parallax: 0.02
+    - _PerspectiveFilter: 0.875
+    - _Reflectivity: 10
+    - _ScaleRatioA: 1
+    - _ScaleRatioB: 1
+    - _ScaleRatioC: 1
+    - _ScaleX: 1
+    - _ScaleY: 1
+    - _ScrollOffset: 1
+    - _ScrollSize: 0.1
+    - _ScrollSpeed: 0.5
+    - _ShaderFlags: 0
+    - _ShadowBlur: 4
+    - _ShadowIntensity: 1.25
+    - _ShadowOffsetX: 10
+    - _ShadowOffsetY: 10
+    - _ShadowSpread: 0.01
+    - _Sharpness: 2
+    - _Shininess: 0.2
+    - _SmoothnessTextureChannel: 1
+    - _SpecularHighlights: 0
+    - _SpecularPower: 2
+    - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 0
+    - _StencilOp: 0
+    - _StencilReadMask: 0
+    - _StencilWriteMask: 0
+    - _Strength: 0.2
+    - _TextureHeight: 512
+    - _TextureWidth: 512
+    - _TransitionMultiplier: 4
+    - _UVSec: 0
+    - _UnderlayDilate: 0
+    - _UnderlayOffsetX: 0
+    - _UnderlayOffsetY: 0
+    - _UnderlaySoftness: 0
+    - _UseDiagonalBlur: 0
+    - _UseDirectColor: 1
+    - _UseInvertTint: 0
+    - _UseMainTexture: 1
+    - _UseOnlyRedChannel: 0
+    - _UsePremultipliedAlpha: 0
+    - _UsePremultiplyAlpha: 0
+    - _UseReadNoAlpha: 0
+    - _UseUIAlphaClip: 0
+    - _VertexOffsetX: 0
+    - _VertexOffsetY: 0
+    - _WeightBold: 0.5
+    - _WeightNormal: 0
+    - _ZTest: 0
+    - _ZWrite: 0
+    m_Colors:
+    - _ClipRect: {r: -10000, g: -10000, b: 10000, a: 10000}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 0, g: 0, b: 0, a: 0}
+    - _Color1: {r: 1, g: 1, b: 1, a: 1}
+    - _DistortionSpeed: {r: 1, g: 1, b: 1, a: 1}
+    - _EmisColor: {r: 1, g: 0.4078431, b: 0.7294118, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EnvMatrixRotation: {r: 0, g: 0, b: 0, a: 0}
+    - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
+    - _MaskCoord: {r: 0, g: 0, b: 10000, a: 10000}
+    - _MaskMultiplier: {r: 1.5, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PositionOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ScrollSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 0.5}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _SpecialColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Specular: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
+    - _VertColorIntensity: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _WaveSize: {r: 0.01, g: 0.01, b: 0.01, a: 0}

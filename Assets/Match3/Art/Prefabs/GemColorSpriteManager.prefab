@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1790704293682829290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790704293682829293}
+  - component: {fileID: 1790704293682829306}
+  m_Layer: 0
+  m_Name: GemColorSpriteManager
+  m_TagString: 
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1790704293682829293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790704293682829290}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1790704293682829306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790704293682829290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dd121d42ed160bce5db129c78e5c5a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fallback: {fileID: 21300000, guid: 7063ffbb673e434f9b08a276fb091aa2, type: 3}
+  resources:
+  - {fileID: 21300000, guid: 594bed813e94417b9ae3e7054029b065, type: 3}
+  - {fileID: 21300000, guid: 413690767d9144968447f48b9b5cabfd, type: 3}
+  - {fileID: 21300000, guid: f39923264f7641dab5603a66555951d9, type: 3}
+  - {fileID: 21300000, guid: 7e425d6debf3411fafd5e96866df3d8d, type: 3}
+  - {fileID: 21300000, guid: 5d857e6bfdf5422d961b9f74fc7850fc, type: 3}
+  - {fileID: 21300000, guid: 5e28725850564467afade22da126d45e, type: 3}
+  - {fileID: 21300000, guid: 5e8c688abea64805b45cc12cf08dded8, type: 3}
+  - {fileID: 21300000, guid: 42cbbb372312493480c8badc7b25e9c9, type: 3}
+  - {fileID: 21300000, guid: 1c23b120f8e740aca8b1a8b8e4cc1edf, type: 3}
+  - {fileID: 21300000, guid: c58e074e6705489f85dc53998a23f643, type: 3}
+  - {fileID: 21300000, guid: 473166f3dc624810b4bfd1b080cf4526, type: 3}
+  - {fileID: 21300000, guid: 7063ffbb673e434f9b08a276fb091aa2, type: 3}
+  - {fileID: 21300000, guid: a316485d1900406688a302595301564e, type: 3}
+  - {fileID: 21300000, guid: 6461b9899f6f3b74cabf03f38a65697f, type: 3}
+  resourceNameOverrides:
+    _keys: []
+    _values: []
+  animateRainbowGems: 1

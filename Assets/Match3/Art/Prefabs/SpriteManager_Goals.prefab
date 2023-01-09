@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1790704293682829260
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790704293682829255}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.364972, y: 0.1007043, z: 13.12589}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790704293682829255
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790704293682829260}
+  - component: {fileID: 1790704293682829270}
+  m_Layer: 0
+  m_Name: "SpriteManager_Goals"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790704293682829270
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790704293682829255}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c1662c3fd6a713d2bf94101f3136be4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fallback: {fileID: 0}
+  resources:
+  - {fileID: 21300000, guid: 411edf6c1af44ca2ab354d59361a80ff, type: 3}
+  - {fileID: 21300000, guid: 957d9a691bd5452ea579588e38192866, type: 3}
+  - {fileID: 21300000, guid: badc603be0ad4d6690b86b6fb7f08b54, type: 3}
+  - {fileID: 21300000, guid: af0f9ab324c448fa9d2c2a7d39df4163, type: 3}
+  - {fileID: 21300000, guid: 87ac5eb9409b4a078700a5fdf0f74c88, type: 3}
+  - {fileID: 21300000, guid: 04884a0e8a61451990336ec4e12ff31a, type: 3}
+  - {fileID: 21300000, guid: fb58f30062474868b6dba5de8ddd893e, type: 3}
+  - {fileID: 21300000, guid: ec7c8ffb9a2740d6bd8b266cdddd73fb, type: 3}
+  resourceNameOverrides:
+    _keys: []
+    _values: []

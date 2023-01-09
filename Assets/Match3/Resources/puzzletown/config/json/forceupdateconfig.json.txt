@@ -1,0 +1,9 @@
+
+{
+    "data" : {
+        "newestVersion_and" : 0.2,
+        "requiredVersion_and" : 0.2,
+        "newestVersion_ios"   : 0.2,
+        "requiredVersion_ios" : 0.1
+    }
+}

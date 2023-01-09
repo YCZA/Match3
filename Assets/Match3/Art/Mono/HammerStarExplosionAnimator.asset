@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991f638ce250882ccb698e67f172fba2, type: 3}
+  m_Name: "HammerStarExplosionAnimator"
+  m_EditorClassIdentifier: 
+  boardView: {fileID: 0}
+  animController: {fileID: 0}
+  dropAnimator: {fileID: 0}
+  duration: 0.55
+  matchAnimator: {fileID: 11400000, guid: d77f8c331cdf4210af7e9dd9f42a8723, type: 2}
+  animatedHammer: {fileID: 1790704293682829750, guid: 07198a9d7ddd4598a67057413767ae97, type: 2}
+  matchDelayInPercentOfDuration: 0.85
+  starAnimator: {fileID: 11400000, guid: 6299f27ad65f4d54a47e8f2d73e4db11, type: 2}

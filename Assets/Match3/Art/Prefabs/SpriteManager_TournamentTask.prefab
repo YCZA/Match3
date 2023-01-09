@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1790704293682829259
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790704293682829256}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790704293682829256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790704293682829259}
+  - component: {fileID: 1790704293682829266}
+  m_Layer: 0
+  m_Name: "SpriteManager_TournamentTask"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790704293682829266
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790704293682829256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f53028686b5a0d8eb43241e1b3bd80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fallback: {fileID: 0}
+  resources:
+  - {fileID: 21300000, guid: 3bf29c05bbe84f1ca83ac0309c7ef0f8, type: 3}
+  - {fileID: 21300000, guid: a874b8d46aa44dda9952d08fd1149d03, type: 3}
+  - {fileID: 21300000, guid: ffa1193ee5504b99b479016551090f95, type: 3}
+  - {fileID: 21300000, guid: d69eaf9a275545179d4ab967d891a4f1, type: 3}
+  - {fileID: 21300000, guid: 89d02965d251476db63af85d7ecee17e, type: 3}
+  - {fileID: 21300000, guid: 9ccf9d0a99f546b4b0a36eb64bf275f0, type: 3}
+  - {fileID: 21300000, guid: a0d71f5a77df4f69b47c8951c8eda03c, type: 3}
+  - {fileID: 21300000, guid: a95a54b82ed34b2e96149d68acb44940, type: 3}
+  - {fileID: 21300000, guid: 2b46bb4252274478a660e452ebac6a09, type: 3}
+  resourceNameOverrides:
+    _keys: []
+    _values: []

@@ -1,0 +1,1680 @@
+{
+  "reward": {
+    "reward_booster_amount": 3,
+    "reward_diamonds": 25,
+    "reward_coins": 300
+  },
+  "ranks": [
+    {
+      "village_rank": 1,
+      "harmony_goal": 0,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 2,
+      "harmony_goal": 29,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 3,
+      "harmony_goal": 100,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 4,
+      "harmony_goal": 185,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 5,
+      "harmony_goal": 285,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 6,
+      "harmony_goal": 385,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 7,
+      "harmony_goal": 495,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 8,
+      "harmony_goal": 600,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 9,
+      "harmony_goal": 715,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 10,
+      "harmony_goal": 830,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 11,
+      "harmony_goal": 950,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 12,
+      "harmony_goal": 1075,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 13,
+      "harmony_goal": 1200,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 14,
+      "harmony_goal": 1320,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 15,
+      "harmony_goal": 1445,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 16,
+      "harmony_goal": 1575,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 17,
+      "harmony_goal": 1705,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 18,
+      "harmony_goal": 1835,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 19,
+      "harmony_goal": 1970,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 20,
+      "harmony_goal": 2235,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 21,
+      "harmony_goal": 2370,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 22,
+      "harmony_goal": 2500,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 23,
+      "harmony_goal": 2645,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 24,
+      "harmony_goal": 2790,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 25,
+      "harmony_goal": 2925,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 26,
+      "harmony_goal": 3065,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 27,
+      "harmony_goal": 3200,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 28,
+      "harmony_goal": 3350,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 29,
+      "harmony_goal": 3500,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 30,
+      "harmony_goal": 3645,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 31,
+      "harmony_goal": 3790,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 32,
+      "harmony_goal": 3940,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 33,
+      "harmony_goal": 4085,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 34,
+      "harmony_goal": 4235,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 35,
+      "harmony_goal": 4390,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 36,
+      "harmony_goal": 4540,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 37,
+      "harmony_goal": 4695,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 38,
+      "harmony_goal": 4850,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 39,
+      "harmony_goal": 5005,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 40,
+      "harmony_goal": 5165,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 41,
+      "harmony_goal": 5320,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 42,
+      "harmony_goal": 5485,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 43,
+      "harmony_goal": 5645,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 44,
+      "harmony_goal": 5810,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 45,
+      "harmony_goal": 5975,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 46,
+      "harmony_goal": 6140,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 47,
+      "harmony_goal": 6305,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 48,
+      "harmony_goal": 6470,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 49,
+      "harmony_goal": 6640,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 50,
+      "harmony_goal": 6810,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 51,
+      "harmony_goal": 6980,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 52,
+      "harmony_goal": 7155,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 53,
+      "harmony_goal": 7325,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 54,
+      "harmony_goal": 7500,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 55,
+      "harmony_goal": 7675,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 56,
+      "harmony_goal": 7855,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 57,
+      "harmony_goal": 8030,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 58,
+      "harmony_goal": 8210,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 59,
+      "harmony_goal": 8390,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 60,
+      "harmony_goal": 8575,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 61,
+      "harmony_goal": 8755,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 62,
+      "harmony_goal": 8940,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 63,
+      "harmony_goal": 9125,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 64,
+      "harmony_goal": 9310,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 65,
+      "harmony_goal": 9495,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 66,
+      "harmony_goal": 9685,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 67,
+      "harmony_goal": 9875,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 68,
+      "harmony_goal": 10065,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 69,
+      "harmony_goal": 10260,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 70,
+      "harmony_goal": 10455,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 71,
+      "harmony_goal": 10650,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 72,
+      "harmony_goal": 10850,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 73,
+      "harmony_goal": 11050,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 74,
+      "harmony_goal": 11250,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 75,
+      "harmony_goal": 11455,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 76,
+      "harmony_goal": 11660,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 77,
+      "harmony_goal": 11865,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 78,
+      "harmony_goal": 12075,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 79,
+      "harmony_goal": 12285,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 80,
+      "harmony_goal": 12495,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 81,
+      "harmony_goal": 12710,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 82,
+      "harmony_goal": 12925,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 83,
+      "harmony_goal": 13140,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 84,
+      "harmony_goal": 13360,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 85,
+      "harmony_goal": 13580,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 86,
+      "harmony_goal": 13800,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 87,
+      "harmony_goal": 14025,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 88,
+      "harmony_goal": 14250,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 89,
+      "harmony_goal": 14475,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 90,
+      "harmony_goal": 14705,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 91,
+      "harmony_goal": 14935,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 92,
+      "harmony_goal": 15165,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 93,
+      "harmony_goal": 15400,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 94,
+      "harmony_goal": 15635,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 95,
+      "harmony_goal": 15870,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 96,
+      "harmony_goal": 16110,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 97,
+      "harmony_goal": 16350,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 98,
+      "harmony_goal": 16590,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 99,
+      "harmony_goal": 16835,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 100,
+      "harmony_goal": 17080,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 101,
+      "harmony_goal": 17325,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 102,
+      "harmony_goal": 17575,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 103,
+      "harmony_goal": 17825,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 104,
+      "harmony_goal": 18075,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 105,
+      "harmony_goal": 18330,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 106,
+      "harmony_goal": 18585,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 107,
+      "harmony_goal": 18840,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 108,
+      "harmony_goal": 19100,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 109,
+      "harmony_goal": 19360,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 110,
+      "harmony_goal": 19620,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 111,
+      "harmony_goal": 19885,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 112,
+      "harmony_goal": 20150,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 113,
+      "harmony_goal": 20415,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 114,
+      "harmony_goal": 20685,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 115,
+      "harmony_goal": 20955,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 116,
+      "harmony_goal": 21225,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 117,
+      "harmony_goal": 21500,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 118,
+      "harmony_goal": 21775,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 119,
+      "harmony_goal": 22050,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 120,
+      "harmony_goal": 22330,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 121,
+      "harmony_goal": 22610,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 122,
+      "harmony_goal": 22890,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 123,
+      "harmony_goal": 23175,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 124,
+      "harmony_goal": 23460,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 125,
+      "harmony_goal": 23745,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 126,
+      "harmony_goal": 24035,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 127,
+      "harmony_goal": 24325,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 128,
+      "harmony_goal": 24615,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 129,
+      "harmony_goal": 24910,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 130,
+      "harmony_goal": 25205,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 131,
+      "harmony_goal": 25500,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 132,
+      "harmony_goal": 25800,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 133,
+      "harmony_goal": 26100,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 134,
+      "harmony_goal": 26400,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 135,
+      "harmony_goal": 26705,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 136,
+      "harmony_goal": 27010,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 137,
+      "harmony_goal": 27315,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 138,
+      "harmony_goal": 27625,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 139,
+      "harmony_goal": 27935,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 140,
+      "harmony_goal": 28245,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 141,
+      "harmony_goal": 28560,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 142,
+      "harmony_goal": 28875,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 143,
+      "harmony_goal": 29190,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 144,
+      "harmony_goal": 29510,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 145,
+      "harmony_goal": 29830,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 146,
+      "harmony_goal": 30150,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 147,
+      "harmony_goal": 30475,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 148,
+      "harmony_goal": 30800,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 149,
+      "harmony_goal": 31125,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 150,
+      "harmony_goal": 31455,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 151,
+      "harmony_goal": 31785,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 152,
+      "harmony_goal": 32115,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 153,
+      "harmony_goal": 32450,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 154,
+      "harmony_goal": 32785,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 155,
+      "harmony_goal": 33120,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 156,
+      "harmony_goal": 33460,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 157,
+      "harmony_goal": 33800,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 158,
+      "harmony_goal": 34140,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 159,
+      "harmony_goal": 34485,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 160,
+      "harmony_goal": 34830,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 161,
+      "harmony_goal": 35175,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 162,
+      "harmony_goal": 35525,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 163,
+      "harmony_goal": 35875,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 164,
+      "harmony_goal": 36225,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 165,
+      "harmony_goal": 36580,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 166,
+      "harmony_goal": 36935,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 167,
+      "harmony_goal": 37290,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 168,
+      "harmony_goal": 37655,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 169,
+      "harmony_goal": 38020,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 170,
+      "harmony_goal": 38385,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 171,
+      "harmony_goal": 38755,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 172,
+      "harmony_goal": 39125,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 173,
+      "harmony_goal": 39495,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 174,
+      "harmony_goal": 39870,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 175,
+      "harmony_goal": 40245,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 176,
+      "harmony_goal": 40620,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 177,
+      "harmony_goal": 41000,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 178,
+      "harmony_goal": 41380,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 179,
+      "harmony_goal": 41760,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 180,
+      "harmony_goal": 42145,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 181,
+      "harmony_goal": 42530,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 182,
+      "harmony_goal": 42915,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 183,
+      "harmony_goal": 43305,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 184,
+      "harmony_goal": 43695,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 185,
+      "harmony_goal": 44085,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 186,
+      "harmony_goal": 44480,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 187,
+      "harmony_goal": 44875,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 188,
+      "harmony_goal": 45270,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 189,
+      "harmony_goal": 45670,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 190,
+      "harmony_goal": 46070,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 191,
+      "harmony_goal": 46470,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 192,
+      "harmony_goal": 46875,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 193,
+      "harmony_goal": 47280,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 194,
+      "harmony_goal": 47685,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 195,
+      "harmony_goal": 48095,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 196,
+      "harmony_goal": 48505,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 197,
+      "harmony_goal": 48915,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 198,
+      "harmony_goal": 49330,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 199,
+      "harmony_goal": 49745,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 200,
+      "harmony_goal": 50160,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 201,
+      "harmony_goal": 50580,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 202,
+      "harmony_goal": 51000,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 203,
+      "harmony_goal": 51420,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 204,
+      "harmony_goal": 51845,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 205,
+      "harmony_goal": 52270,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 206,
+      "harmony_goal": 52695,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 207,
+      "harmony_goal": 53125,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 208,
+      "harmony_goal": 53555,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 209,
+      "harmony_goal": 53985,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 210,
+      "harmony_goal": 54420,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 211,
+      "harmony_goal": 54855,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 212,
+      "harmony_goal": 55290,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 213,
+      "harmony_goal": 55730,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 214,
+      "harmony_goal": 56170,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 215,
+      "harmony_goal": 56610,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 216,
+      "harmony_goal": 57055,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 217,
+      "harmony_goal": 57500,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 218,
+      "harmony_goal": 57945,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 219,
+      "harmony_goal": 58395,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 220,
+      "harmony_goal": 58845,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 221,
+      "harmony_goal": 59295,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 222,
+      "harmony_goal": 59750,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 223,
+      "harmony_goal": 60205,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 224,
+      "harmony_goal": 60660,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 225,
+      "harmony_goal": 61120,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 226,
+      "harmony_goal": 61580,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 227,
+      "harmony_goal": 62040,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 228,
+      "harmony_goal": 62505,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 229,
+      "harmony_goal": 62970,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 230,
+      "harmony_goal": 63435,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 231,
+      "harmony_goal": 63905,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 232,
+      "harmony_goal": 64375,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 233,
+      "harmony_goal": 64845,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 234,
+      "harmony_goal": 65320,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 235,
+      "harmony_goal": 65795,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 236,
+      "harmony_goal": 66270,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 237,
+      "harmony_goal": 66750,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 238,
+      "harmony_goal": 67230,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 239,
+      "harmony_goal": 67710,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 240,
+      "harmony_goal": 68195,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 241,
+      "harmony_goal": 68680,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 242,
+      "harmony_goal": 69165,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 243,
+      "harmony_goal": 69655,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 244,
+      "harmony_goal": 70145,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 245,
+      "harmony_goal": 70635,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 246,
+      "harmony_goal": 71130,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 247,
+      "harmony_goal": 71625,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 248,
+      "harmony_goal": 72120,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 249,
+      "harmony_goal": 72620,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 250,
+      "harmony_goal": 73120,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 251,
+      "harmony_goal": 73620,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 252,
+      "harmony_goal": 74125,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 253,
+      "harmony_goal": 74630,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 254,
+      "harmony_goal": 75135,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 255,
+      "harmony_goal": 75645,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 256,
+      "harmony_goal": 76155,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 257,
+      "harmony_goal": 76665,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 258,
+      "harmony_goal": 77180,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 259,
+      "harmony_goal": 77695,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 260,
+      "harmony_goal": 78210,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 261,
+      "harmony_goal": 78730,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 262,
+      "harmony_goal": 79250,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 263,
+      "harmony_goal": 79770,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 264,
+      "harmony_goal": 80295,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 265,
+      "harmony_goal": 80820,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 266,
+      "harmony_goal": 81345,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 267,
+      "harmony_goal": 81875,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 268,
+      "harmony_goal": 82405,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 269,
+      "harmony_goal": 82935,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 270,
+      "harmony_goal": 83470,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 271,
+      "harmony_goal": 84005,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 272,
+      "harmony_goal": 84540,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 273,
+      "harmony_goal": 85080,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 274,
+      "harmony_goal": 85620,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 275,
+      "harmony_goal": 86160,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 276,
+      "harmony_goal": 86705,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 277,
+      "harmony_goal": 87250,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 278,
+      "harmony_goal": 87795,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 279,
+      "harmony_goal": 88345,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 280,
+      "harmony_goal": 88895,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 281,
+      "harmony_goal": 89445,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 282,
+      "harmony_goal": 90000,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 283,
+      "harmony_goal": 90555,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 284,
+      "harmony_goal": 91110,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 285,
+      "harmony_goal": 91670,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 286,
+      "harmony_goal": 92230,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 287,
+      "harmony_goal": 92790,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 288,
+      "harmony_goal": 93355,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 289,
+      "harmony_goal": 93920,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 290,
+      "harmony_goal": 94485,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 291,
+      "harmony_goal": 95055,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 292,
+      "harmony_goal": 95625,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 293,
+      "harmony_goal": 96195,
+      "reward_booster_type": "boost_pre_rainbow"
+    },
+    {
+      "village_rank": 294,
+      "harmony_goal": 96770,
+      "reward_booster_type": "boost_pre_bomb_linegem"
+    },
+    {
+      "village_rank": 295,
+      "harmony_goal": 97345,
+      "reward_booster_type": "boost_pre_double_fish"
+    },
+    {
+      "village_rank": 296,
+      "harmony_goal": 97920,
+      "reward_booster_type": "boost_hammer"
+    },
+    {
+      "village_rank": 297,
+      "harmony_goal": 98500,
+      "reward_booster_type": "boost_star"
+    },
+    {
+      "village_rank": 298,
+      "harmony_goal": 99080,
+      "reward_booster_type": "boost_rainbow"
+    },
+    {
+      "village_rank": 299,
+      "harmony_goal": 199080,
+      "reward_booster_type": "boost_pre_rainbow"
+    }
+  ],
+  "calculation": [
+    {
+      "A": "average coins",
+      "B": 75,
+      "C": 150
+    },
+    {
+      "A": "factor coins per harmony",
+      "B": 55
+    },
+    {
+      "A": "Chapter",
+      "B": "harmony carryover \n(from column P)",
+      "C": "amount of \nA levels with coins"
+    },
+    {
+      "A": 1,
+      "B": 0,
+      "C": 0
+    },
+    {
+      "A": 2,
+      "B": 0,
+      "C": 1
+    },
+    {
+      "A": 3,
+      "B": 44,
+      "C": 40
+    },
+    {
+      "A": 4,
+      "B": 213,
+      "C": 40
+    },
+    {
+      "A": 5,
+      "B": 386,
+      "C": 40
+    },
+    {
+      "A": 6,
+      "B": 604,
+      "C": 40
+    },
+    {
+      "A": 7,
+      "B": 833,
+      "C": 40
+    },
+    {
+      "A": 8,
+      "B": 1076,
+      "C": 40
+    },
+    {
+      "A": 9,
+      "B": 1321,
+      "C": 40
+    },
+    {
+      "A": 10,
+      "B": 1577,
+      "C": 40
+    },
+    {
+      "A": 11,
+      "B": 1834,
+      "C": 40
+    },
+    {
+      "A": 12,
+      "B": 2101,
+      "C": 40
+    },
+    {
+      "A": 13,
+      "B": 2369,
+      "C": 40
+    },
+    {
+      "A": 14,
+      "B": 2647,
+      "C": 40
+    },
+    {
+      "A": 15,
+      "B": 2925,
+      "C": 40
+    },
+    {
+      "A": 16,
+      "B": 3208,
+      "C": 40
+    },
+    {
+      "A": 17,
+      "B": 3496,
+      "C": 40
+    },
+    {
+      "A": 18,
+      "B": 3789,
+      "C": 40
+    },
+    {
+      "A": 19,
+      "B": 4086,
+      "C": 40
+    },
+    {
+      "A": 20,
+      "B": 4388,
+      "C": 40
+    },
+    {
+      "A": 21,
+      "B": 4695,
+      "C": 40
+    },
+    {
+      "A": 22,
+      "B": 5007,
+      "C": 40
+    },
+    {
+      "A": 23,
+      "B": 5324,
+      "C": 40
+    },
+    {
+      "A": 24,
+      "B": 5646,
+      "C": 40
+    },
+    {
+      "A": 25,
+      "B": 5972,
+      "C": 40
+    },
+    {
+      "A": 26,
+      "B": 6303,
+      "C": 40
+    },
+    {
+      "A": 27,
+      "B": 6639,
+      "C": 40
+    },
+    {
+      "A": 28,
+      "B": 6980,
+      "C": 40
+    },
+    {
+      "A": 29,
+      "B": 7326,
+      "C": 40
+    },
+    {
+      "A": 30,
+      "B": 7676,
+      "C": 40
+    },
+    {
+      "A": 31,
+      "B": 8031,
+      "C": 40
+    },
+    {
+      "A": 32,
+      "B": 8391,
+      "C": 40
+    }
+  ]
+}

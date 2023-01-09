@@ -1,0 +1,95 @@
+
+{
+    "level_config" : [
+        {
+            "level" : 12,
+            "type"  : "booster",
+            "feature" : "hammer",
+            "locaKey" : "ui.shared.material.boost_hammer"
+        },
+        {
+            "level" : 16,
+            "type"  : "booster",
+            "feature" : "star_hammer",
+            "locaKey" : "ui.shared.material.boost_star"
+        },
+        {
+            "level" : 19,
+            "type"  : "booster",
+            "feature" : "color_paw",
+            "locaKey" : "ui.boosts.ingame.add.pre_rainbow.title"
+        },
+        {
+            "level" : 6,
+            "type"  : "character",
+            "feature" : "kip",
+            "locaKey" : "char_kip"
+        },
+        {
+            "level" : 24,
+            "type"  : "booster",
+            "feature" : "bomb_line",
+            "locaKey" : "ui.boosts.ingame.add.pre_bomb_linegem.title"
+        },
+        {
+            "level" : 29,
+            "type"  : "booster",
+            "feature" : "color_paw_hammer",
+            "locaKey" : "ui.shared.material.boost_rainbow"
+        },
+        {
+            "level" : 34,
+            "type"  : "booster",
+            "feature" : "double_butterfly",
+            "locaKey" : "ui.shared.material.boost_pre_double_fish"
+        },
+        {
+            "level" : 11,
+            "type"  : "character",
+            "feature" : "ava",
+            "locaKey" : "char_ava"
+        },
+        {
+            "level" : 51,
+            "type"  : "character",
+            "feature" : "cubby",
+            "locaKey" : "char_cubby"
+        },
+        {
+            "level" : 91,
+            "type"  : "character",
+            "feature" : "olivia",
+            "locaKey" : "char_olivia"
+        },
+        {
+            "level" : 131,
+            "type"  : "character",
+            "feature" : "lily",
+            "locaKey" : "char_lily"
+        },
+        {
+            "level" : 171,
+            "type"  : "character",
+            "feature" : "ragnaruff",
+            "locaKey" : "char_ragnaruff"
+        },
+        {
+            "level" : 211,
+            "type"  : "character",
+            "feature" : "kikuna",
+            "locaKey" : "char_kikuna"
+        },
+        {
+            "level" : 251,
+            "type"  : "character",
+            "feature" : "blacktail",
+            "locaKey" : "char_blacktail"
+        },
+        {
+            "level" : 291,
+            "type"  : "character",
+            "feature" : "nibblesby",
+            "locaKey" : "char_nibblesby"
+        }
+    ]
+}
